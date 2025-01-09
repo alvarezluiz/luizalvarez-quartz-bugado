@@ -32,6 +32,7 @@
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.1 Moxa\|Aula 11.1 Moxa]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.2 Sangria\|Aula 11.2 Sangria]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.3 Ventosa (ba guan zhi)\|Aula 11.3 Ventosa (ba guan zhi)]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.1 Fisiologia Energetica 2\|Aula 12.1.1 Fisiologia Energetica 2]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.2 Fisiologia Energetica 2\|Aula 12.1.2 Fisiologia Energetica 2]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2 Inter-relacionamento entre os sistemas Fu\|Aula 12.2 Inter-relacionamento entre os sistemas Fu]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2 Inter-relacionamento sistemas Zang\|Aula 12.2 Inter-relacionamento sistemas Zang]]
@@ -49,4 +50,5 @@
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.3 acupuntura craniana chinesa\|Aula 18.3 acupuntura craniana chinesa]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Auriculoterapia 2023 1\|Auriculoterapia 2023 1]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Auriculoterapia 2023 2\|Auriculoterapia 2023 2]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Grandes Traumas Emocionais - Raul Breves (Simone Tano)\|Grandes Traumas Emocionais - Raul Breves (Simone Tano)]]
 
