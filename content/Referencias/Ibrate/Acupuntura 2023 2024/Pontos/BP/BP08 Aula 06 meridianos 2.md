@@ -1,9 +1,10 @@
 ---
-{"title":"BP01","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"BP8","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 
 **Localização**
+![pontos-baco-c.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-c.webp)
 3 tsun abaixo do [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]
 **Indicação**
 [[Conhecimento/Alterações/diabetes\|diabetes]]

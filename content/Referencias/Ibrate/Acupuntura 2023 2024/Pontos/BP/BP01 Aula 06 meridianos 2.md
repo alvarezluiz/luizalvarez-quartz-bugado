@@ -1,8 +1,9 @@
 ---
-{"tags":["conhecimento/acupuntura/ponto"],"title":"BP01","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
+{"tags":["conhecimento/acupuntura/ponto"],"title":"BP1","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
 ## Localização
+![pontos-baco-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-a.webp)
 Leito ungueal do halux , face medial
 ## Indicações gerais
 Geralmente sangria para dores locais ou ao longo do trajeto, [[prostração\|prostração]]. 

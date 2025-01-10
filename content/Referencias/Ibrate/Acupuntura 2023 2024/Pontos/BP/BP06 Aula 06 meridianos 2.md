@@ -1,10 +1,12 @@
 ---
-{"title":"BP01","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Afeta o útero","PassFrontmatter":true}
+{"title":"BP6","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Afeta o útero","PassFrontmatter":true}
 ---
 
 
 [[Ponto mestre\|Ponto mestre]] da circulação venosa 
 ## Localização
+
+![pontos-baco-b.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-b.webp)
 Posterior e medial a tuberosidade da tíbia 
 ## Indicação
 Principal função é drenar. Excelente [[Conhecimento/Alterações/Diurético\|diurético]]. Se quiser pode acrescentar [[Conhecimento/Acupuntura/Canais/Rim/R07\|R07]]

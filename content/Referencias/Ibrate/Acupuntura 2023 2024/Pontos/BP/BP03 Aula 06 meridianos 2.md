@@ -1,10 +1,11 @@
 ---
-{"title":"BP03","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"BP3","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 - Ponto fonte 
 - Ponto terra da terra
 ## Localização
+![pontos-baco-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-a.webp)
 Posterior ao metatarso, entre a divisa da pele da sola
 ## Indicação
 [[Conhecimento/Alterações/amnésia\|perda de memória]], estimula o cérebro, [[Conhecimento/Alterações/déficit de atenção\|TDAH]], dor local. 
