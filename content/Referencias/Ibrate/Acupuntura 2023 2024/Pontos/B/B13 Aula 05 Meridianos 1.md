@@ -1,5 +1,5 @@
 ---
-{"tags":["conhecimento/acupuntura/ponto"],"title":"B10 Assentimento do Pulmão","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
+{"tags":["conhecimento/acupuntura/ponto"],"title":"B10","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
 [[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Pulmão. Fei shu.

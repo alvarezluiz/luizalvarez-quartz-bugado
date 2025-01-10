@@ -1,0 +1,9 @@
+---
+{"tags":["conhecimento/acupuntura/ponto"],"title":"B26","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
+---
+
+Correspondente ao ponto [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]].
+## Indicação
+![Pontos-Bexiga-D.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
+[[Irregularidade intestinal\|Irregularidade intestinal]], patologias de trompas e ovário. Moxa para [[distúrbio sexual\|distúrbio sexual]]. [[Conhecimento/Alterações/lombalgia\|lombalgia]] 
+
