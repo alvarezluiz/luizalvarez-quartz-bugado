@@ -24,8 +24,6 @@
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 13 Triplo aquecedor\|Aula 07 Meridianos 3 - 13 Triplo aquecedor]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 14 Vaso da concepcao\|Aula 07 Meridianos 3 - 14 Vaso da concepcao]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 15 Vaso governador\|Aula 07 Meridianos 3 - 15 Vaso governador]]
-- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 08.1 Prática clínica 1\|Aula 08.1 Prática clínica 1]]
-- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 09.1 prática clínica 1 (extra)\|Aula 09.1 prática clínica 1 (extra)]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.1 Canais Tendinomusculares\|Aula 10.1 Canais Tendinomusculares]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.2 Pontos Extras\|Aula 10.2 Pontos Extras]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.3 Vasos Maravilhosos\|Aula 10.3 Vasos Maravilhosos]]
@@ -51,5 +49,4 @@
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Auriculoterapia 2023 1\|Auriculoterapia 2023 1]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Auriculoterapia 2023 2\|Auriculoterapia 2023 2]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B01 Aula 05 Meridianos 1\|B01 Aula 05 Meridianos 1]]
-- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Grandes Traumas Emocionais - Raul Breves (Simone Tano)\|Grandes Traumas Emocionais - Raul Breves (Simone Tano)]]
 
