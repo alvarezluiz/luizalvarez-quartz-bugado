@@ -691,7 +691,7 @@ Indica padrão de frio.
 - Frio interior-superficial é fraco e lento. O nível profundo é um pouco mais forte. Frio-cheio.
 
 ---
-### 9.4.4 PULSO RÁPIDO
+### 9.4.4 Pulso rápido 
 
 Acima de 5 batimento/ciclo resp. (acima de 90 bpm); Ocorre quando yang Ql se eleva. Indica calor por plenitude ou por vazio
 
