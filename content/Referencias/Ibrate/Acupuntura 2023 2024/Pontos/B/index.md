@@ -33,5 +33,4 @@
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B62 Aula 05 Meridianos 1\|B62]] |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B67 Aula 05 Meridianos 1\|B67]] |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B65 Aula 05 Meridianos 1\|B65]] |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/index\|Bexiga]]                 |
 
