@@ -189,20 +189,20 @@ Ponto Luo do estômago envia energia para baço.
 
 - Principal aplicação clínica - tratar doenças dos órgãos internos (Yin) e desequilibrios a que pertence.
 
-| Zang Fu           | Ponto    |
-| ----------------- | -------- |
-| Pulmão            | [[Conhecimento/Acupuntura/Canais/Pulmao/P09\|P09]]  |
-| Intestino Grosso  | [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] |
-| Estômago          | [[Conhecimento/Acupuntura/Canais/Estomago/E42\|E42]]  |
-| Baço              | [[Conhecimento/Acupuntura/Canais/Baço/BP03\|BP03]] |
-| Coração           | [[Conhecimento/Acupuntura/Canais/Coraçao/C07\|C07]]  |
-| Intestino Delgado | [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID04\|ID04]] |
-| Bexiga            | [[Conhecimento/Acupuntura/Canais/Bexiga/B64\|B64]]  |
-| Rim               | [[Conhecimento/Acupuntura/Canais/Rim/R03\|R03]]  |
-| Pericárdio        | [[Conhecimento/Acupuntura/Canais/Pericardio/PC07\|PC07]] |
-| Triplo aquecedor  | [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA04\|TA04]] |
-| Vesícula biliar   | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB40\|VB40]] |
-| Fígado            | [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]  | 
+| Zang Fu           | Ponto    |     |
+| ----------------- | -------- | --- |
+| Pulmão            | [[Conhecimento/Acupuntura/Canais/Pulmao/P09\|P09]]  |     |
+| Intestino Grosso  | [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] |     |
+| Estômago          | [[Conhecimento/Acupuntura/Canais/Estomago/E42\|E42]]  |     |
+| Baço              | [[Conhecimento/Acupuntura/Canais/Baço/BP03\|BP03]] |     |
+| Coração           | [[Conhecimento/Acupuntura/Canais/Coraçao/C07\|C07]]  |     |
+| Intestino Delgado | [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID04\|ID04]] |     |
+| Bexiga            | [[Conhecimento/Acupuntura/Canais/Bexiga/B64\|B64]]  |     |
+| Rim               | [[Conhecimento/Acupuntura/Canais/Rim/R03\|R03]]  |     |
+| Pericárdio        | [[Conhecimento/Acupuntura/Canais/Pericardio/PC07\|PC07]] |     |
+| Triplo aquecedor  | [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA04\|TA04]] |     |
+| Vesícula biliar   | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB40\|VB40]] |     |
+| Fígado            | [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]  |     |
 ## 2.7 Pontos de Confluência
 
 São utilizados para regular as funções dos órgãos e das vísceras, normalizar a circulação de Qi e Xue pelos meridianos.
