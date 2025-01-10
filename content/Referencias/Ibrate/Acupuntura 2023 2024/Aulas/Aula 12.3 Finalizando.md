@@ -1,5 +1,5 @@
 ---
-{"title":"12 - 3 Finalizando","tags":["conhecimento/acupuntura/aula"],"date":"2024-05-26","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Dom","start":{"dateTime":"2024-05-26T08:23-03:00"},"end":{"dateTime":"2024-05-26T12:49-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"12 - 3 Finalizando","tags":["conhecimento/acupuntura/aula"],"date":"2024-05-26","NivelAcesso":"ibrate","autor":"Simone Tano","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Dom","start":{"dateTime":"2024-05-26T08:23-03:00"},"end":{"dateTime":"2024-05-26T12:49-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
