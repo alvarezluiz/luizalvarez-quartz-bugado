@@ -9,7 +9,6 @@
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Aula 03 Etiopatogenia]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|Aula 04 Diagnostico]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 07 Rim\|Aula 06 Meridianos 2 - 07 Rim]]
-- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base (reposição)\|Aula 01 teorias de base (reposição)]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Aula 05 Meridianos 1 - 01 Introducao]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|Aula 05 Meridianos 1 - 02 Bexiga]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 03 Vescula Biliar\|Aula 05 Meridianos 1 - 03 Vescula Biliar]]
@@ -51,5 +50,6 @@
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Auriculoterapia 2023 1\|Auriculoterapia 2023 1]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Auriculoterapia 2023 2\|Auriculoterapia 2023 2]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Grandes Traumas Emocionais - Raul Breves (Simone Tano)\|Grandes Traumas Emocionais - Raul Breves (Simone Tano)]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base (reposicao)\|Aula 01 teorias de base (reposicao)]]
 - [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B01 Aula 05 Meridianos 1\|B01 Aula 05 Meridianos 1]]
 
