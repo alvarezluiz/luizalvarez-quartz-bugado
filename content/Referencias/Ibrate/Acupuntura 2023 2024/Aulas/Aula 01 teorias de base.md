@@ -1,5 +1,5 @@
 ---
-{"title":"01 - Teorias de base","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","enableToc":false,"date:":"2024-05-18","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-05-18T09:03-03:00"},"end":{"dateTime":"2024-05-18T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"01 - Teorias de base","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","date:":"2024-05-18","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-05-18T09:03-03:00"},"end":{"dateTime":"2024-05-18T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
