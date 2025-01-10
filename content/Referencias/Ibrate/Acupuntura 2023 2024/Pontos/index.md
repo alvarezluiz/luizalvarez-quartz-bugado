@@ -1,6 +1,6 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"title":"Meridianos","PassFrontmatter":true}
 ---
 
 
-pontos ibrate
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/index\|Bexiga]]

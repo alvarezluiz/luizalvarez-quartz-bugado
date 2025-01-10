@@ -267,7 +267,6 @@ Nutrir Yin do Coração, se necessário, o Yin do Rim e pacificar a mente.
 
 
 
-#conhecimento/acupuntura/sindromes
 [[Pessoas/Doren Sayuri Kato\|Doren Sayuri Kato]], [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.2 Sindromes - Coracao\|Aula 13.2 Sindromes - Coracao]]
 
 **Manifestações Clínicas Gerais**: [[Conhecimento/Alterações/Agitaçao mental\|agitação mental]], sensação de [[Conhecimento/Alterações/inquietaçao\|inquietude]], "[[Conhecimento/Alterações/impulsividade\|impulsividade]]", sensação de calor, [[Conhecimento/Alterações/insônia\|insônia]], [[Conhecimento/Alterações/rubor facial\|rubor facial]], urina de coloração [[Conhecimento/Alterações/urina escura\|escura]] ou [[Conhecimento/Alterações/sangue na urina\|sangue na urina]] e [[Conhecimento/Alterações/gosto amargo na boca\|gosto amargo na boca]];
