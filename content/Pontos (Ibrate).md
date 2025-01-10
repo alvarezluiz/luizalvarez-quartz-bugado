@@ -1,0 +1,97 @@
+---
+{"publish":true,"title":"Pontos (Ibrate)","PassFrontmatter":true}
+---
+
+
+| File                                                                                                          | Professora        |
+| ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B01 Aula 05 Meridianos 1\|B01 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B02 Aula 05 Meridianos 1\|B02 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B10 Aula 05 Meridianos 1\|B10 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B11 Aula 05 Meridianos 1\|B11 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B12 Aula 05 Meridianos 1\|B12 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B13 Aula 05 Meridianos 1\|B13 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B14 Aula 05 Meridianos 1\|B14 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B15 Aula 05 Meridianos 1\|B15 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B16 Aula 05 Meridianos 1\|B16 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B17 Aula 05 Meridianos 1\|B17 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B18 Aula 05 Meridianos 1\|B18 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B19 Aula 05 Meridianos 1\|B19 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B20 Aula 05 Meridianos 1\|B20 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B21 Aula 05 Meridianos 1\|B21 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B22 Aula 05 Meridianos 1\|B22 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B23 Aula 05 Meridianos 1\|B23 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B24 Aula 05 Meridianos 1\|B24 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B25 Aula 05 Meridianos 1\|B25 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B26 Aula 05 Meridianos 1\|B26 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B27 Aula 05 Meridianos 1\|B27 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B28 Aula 05 Meridianos 1\|B28 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B40 Aula 05 Meridianos 1\|B40 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B57 Aula 05 Meridianos 1\|B57 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B60 Aula 05 Meridianos 1\|B60 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B62 Aula 05 Meridianos 1\|B62 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B64 Aula 05 Meridianos 1\|B64 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B65 Aula 05 Meridianos 1\|B65 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B67 Aula 05 Meridianos 1\|B67 Aula 05 Meridianos 1]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP01 Aula 06 meridianos 2\|BP01 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP02 Aula 06 meridianos 2\|BP02 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP03 Aula 06 meridianos 2\|BP03 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP04 Aula 06 meridianos 2\|BP04 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP05 Aula 06 meridianos 2\|BP05 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP06 Aula 06 meridianos 2\|BP06 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP08 Aula 06 meridianos 2\|BP08 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP09 Aula 06 meridianos 2\|BP09 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP10 Aula 06 meridianos 2\|BP10 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/BP15 Aula 06 meridianos 2\|BP15 Aula 06 meridianos 2]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C01 Aula 07 meridianos 3\|C01 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C03 Aula 07 meridianos 3\|C03 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C04 Aula 07 meridianos 3\|C04 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C05 Aula 07 meridianos 3\|C05 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C07 Aula 07 meridianos 3\|C07 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C08 Aula 07 meridianos 3\|C08 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/C09 Aula 07 meridianos 3\|C09 Aula 07 meridianos 3]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E01 Aula 06 meridianos 2\|E01 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E02 Aula 06 meridianos 2\|E02 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E03 Aula 06 meridianos 2\|E03 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E04 Aula 06 meridianos 2\|E04 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E05 Aula 06 meridianos 2\|E05 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E06 Aula 06 meridianos 2\|E06 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E07 Aula 06 meridianos 2\|E07 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E08 Aula 06 meridianos 2\|E08 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E09 Aula 06 meridianos 2\|E09 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E17 Aula 06 meridianos 2\|E17 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E21 Aula 06 meridianos 2\|E21 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E25 Aula 06 meridianos 2\|E25 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E28 Aula 13 Sindromes 1\|E28 Aula 13 Sindromes 1]]      | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E34 Aula 06 meridianos 2\|E34 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E35 Aula 06 meridianos 2\|E35 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E36 Aula 06 meridianos 2\|E36 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E38 Aula 06 meridianos 2\|E38 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E40 Aula 06 meridianos 2\|E40 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E41 Aula 06 meridianos 2\|E41 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E42 Aula 06 meridianos 2\|E42 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/E45 Aula 06 meridianos 2\|E45 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F01 Aula 06 meridianos 2\|F01 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F02 Aula 06 meridianos 2\|F02 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F03 Aula 06 meridianos 2\|F03 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F05 Aula 06 meridianos 2\|F05 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F08 Aula 06 meridianos 2\|F08 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F12 Aula 06 meridianos 2\|F12 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F13 Aula 06 meridianos 2\|F13 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F14 Aula 06 meridianos 2\|F14 Aula 06 meridianos 2]]    | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID01 Aula 07 meridianos 3\|ID01 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID02 Aula 07 meridianos 3\|ID02 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID03 Aula 07 meridianos 3\|ID03 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID04 Aula 07 meridianos 3\|ID04 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID07 Aula 07 meridianos 3\|ID07 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID08 Aula 07 meridianos 3\|ID08 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID09 Aula 07 meridianos 3\|ID09 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID10 Aula 07 meridianos 3\|ID10 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID11 Aula 07 meridianos 3\|ID11 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID12 Aula 07 meridianos 3\|ID12 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID13 Aula 07 meridianos 3\|ID13 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID14 Aula 07 meridianos 3\|ID14 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID15 Aula 07 meridianos 3\|ID15 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID18 Aula 07 meridianos 3\|ID18 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID19 Aula 07 meridianos 3\|ID19 Aula 07 meridianos 3]] | Doren Sayuri Kato |
+
