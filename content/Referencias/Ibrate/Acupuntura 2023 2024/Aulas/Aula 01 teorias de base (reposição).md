@@ -63,9 +63,11 @@ Apostila (pág 14) caráter de crescimento e decrescimento
 | ----- | ---------------------------------- | ------------------------------ |
 | frio  | ![[deficiencia-de-yang.webp\|150]] | ![[excesso-de-yin.webp\|150]]  |
 | calor | ![[deficiencia-de-yin.webp\|150]]  | ![[excesso-de-yang.webp\|150]] |
+|       |                                    |                                |
 
 
 ### 2.1.5 Relógio biológico
+
 ![relogio biologico chines 3.jpg](../../../../Imagens/Imagens/relogio%20biologico%20chines%203.jpg)
 
 
@@ -218,7 +220,7 @@ Coração (Shen)= emoção.
 
 Madeira, fogo, terra, metal e água são peças fundamentais da natureza 
 
-2024-05-18 19.00
+
 
 **Superficial** 
 Umidade 
@@ -258,7 +260,7 @@ Fator positivo quando bem regulado, segurança.
 ### 2.3.7 lei de dominância 
 
 Geração excessiva geraria excesso. 
-Le de dominância limita. 
+Lei de dominância limita. 
 ### 2.3.8 ciclos naturais 
 Excesso de avó e mãe gera filho com deficiência 
 Seda a mãe ou 
@@ -266,8 +268,7 @@ seda avó. Mãe se harmoniza automaticamente.
 Deficiência de avó e de mãe, filho em excesso 
 Tonifica avó
 
-Foto ciclo emocional
-2024-05-19 12.26 
+![Aula01-ciclo-emocional.webp|150](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2001/Aula01-ciclo-emocional.webp)
 
 
 ### 2.3.9 ciclo de doença 

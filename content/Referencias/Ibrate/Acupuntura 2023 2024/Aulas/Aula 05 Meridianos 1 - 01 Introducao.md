@@ -252,7 +252,8 @@ Exemplo: [[Conhecimento/Acupuntura/Canais/Rim/R05\|R05]] - para [[Conhecimento/A
 - Medida utilizada 1 tsun ou 1 polegada, é a medida interfalangiana média do dedo médio e/ou do polegar.
 
 -  Comparar sempre com a medida do paciente.
-
+![tsun.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/tsun.webp)
+![tsun2.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/tsun2.webp)
 ## 3.2 Orientações Gerais da Técnica de aplicação
 
 1. Agulhas
