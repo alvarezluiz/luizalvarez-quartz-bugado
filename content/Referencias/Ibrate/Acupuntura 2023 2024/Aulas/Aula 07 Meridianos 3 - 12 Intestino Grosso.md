@@ -21,15 +21,16 @@ Dor de dente, dor de garganta, epistaxe, dor ao longo do trajeto, distúrbios ga
 
 
 
-# Localização
+## Localização
 Leito ungueal do dedo indicador, face lateral (polegar)
 Geralmente sangria
-# Indicações
-## Agulha
+
+## Indicações
+### Agulha
 - [[perda de consciência\|perda de consciência]]
 - [[Conhecimento/Alterações/amigdalite\|amigdalite]]
 - [[glaucoma\|glaucoma]] (não é o melhor ponto)
-## Sangria
+### Sangria
 - [[dor de garganta\|dor de garganta]]
 - dor no trajeto
 - [[Conhecimento/Alterações/febre\|febre]] (retira calor)

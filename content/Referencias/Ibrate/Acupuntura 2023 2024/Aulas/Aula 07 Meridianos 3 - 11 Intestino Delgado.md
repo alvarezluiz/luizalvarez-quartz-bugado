@@ -22,16 +22,18 @@ Coração decide o que quer.
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-a.webp)
 
 Localizado no leito ungueal do dedo mínimo, face medial (oposto ao polegar)
 
-# Indicação
-## Agulha
+## Indicações
+
+### Agulha
 - promove [[Conhecimento/Alterações/lactação\|lactação]] após o parto
 - beneficia as mamas (ponto a distância para [[Conhecimento/Alterações/mastite\|mastite]], [[rachadura de mamilo\|rachadura de mamilo]])
-## Sangria
+
+### Sangria
 - dores ao longo do trajeto
 - [[torcicolo\|torcicolo]], 
 - [[rigidez na nuca\|rigidez na nuca]], 
@@ -47,10 +49,12 @@ Localizado no leito ungueal do dedo mínimo, face medial (oposto ao polegar)
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-a.webp)
+
 Na prega anterior à articulação metacarpofalangiana, quando dobra os dedos. Na divisa da pele da palma e dorso da mão.
-# Indicações
+
+## Indicações
 - ponto a distância para ouvidos, [[Conhecimento/Alterações/otite\|otite]], [[Conhecimento/Alterações/surdez\|surdez]]
 - [[dor de garganta\|dor de garganta]]
 - [[Conhecimento/Alterações/garganta seca\|garganta seca]]
@@ -68,16 +72,18 @@ Na prega anterior à articulação metacarpofalangiana, quando dobra os dedos. N
 
 
 Ponto de tonificação
-# Localização
+## Localização
 ![pontos-idelgado-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-a.webp)![pontos-idelgado-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-b.webp)
+
 Cranial à articulação metacarpofalangeana, na dobra da pele ao flexionar os dedos, na divisa da pele da palma e dorso da mão.
 
-# Indicações
+## Indicações
 - dores nas mãos
 - dormência nas mãos
 - hemiplegia
 - tremor nas mãos
-# Combinações
+
+## Combinações
 [[Referencias/Ibrate/Acupuntura 2023 2024/Material/Pontos de Confluência\|Ponto de confluência]]: [[Conhecimento/Acupuntura/Canais - Outros/Combinações/ID03 + B62\|ID03 + B62]] → relaxa musculatura de trapézio, ombro e escápula
 
 
@@ -92,11 +98,12 @@ Cranial à articulação metacarpofalangeana, na dobra da pele ao flexionar os d
 
 
 Ponto fonte
-# Localização
+## Localização
 ![pontos-idelgado-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-a.webp)![pontos-idelgado-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-b.webp)
+
 Um pouco acima de [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID05\|ID05]], na depressão entre os ossos do 5° metacarpo (osso hamato ou triquetrol)
 
-# Indicações
+## Indicações
 - atua sobre região cervical, punho, mão, cotovelo
 - ponto a distância bom para nariz
 - [[Conhecimento/Alterações/distúrbios auditivos\|distúrbios auditivos]]
@@ -112,13 +119,15 @@ Um pouco acima de [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID05\|ID05]
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-b.webp)
+
 5 tsun da prega do punho, ou na metade da distância entre punho e epicôndilo
 
-# Indicações
+## Indicações
 Luo do intestino delgado
-## agulha
+
+### agulha
 - excelente na [[Conhecimento/Alterações/constipação\|constipação]]
 - [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]], nas [[Conhecimento/Alterações/distúrbios psiquiátricos\|reações emocionais severas]] ([[Conhecimento/Alterações/Psicose\|psicose]], [[Conhecimento/Alterações/mania\|mania]], [[Conhecimento/Alterações/alucinação\|alucinação]], [[esquizofrenia\|esquizofrenia]])
 - limpa calor na cabeça
@@ -126,7 +135,7 @@ Luo do intestino delgado
 - [[distúrbios de pele\|distúrbios de pele]]
 - [[Conhecimento/Alterações/alergia\|alergias]]
 
-## Moxa
+### Moxa
 - em idosos para favorecer o movimento peristáltico
 
 
@@ -141,11 +150,13 @@ Luo do intestino delgado
 
 
 ponto de sedação
-# Localização
+## Localização
 ![pontos-idelgado-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-c.webp)
+
 Na fossa entre o cotovelo e epicôndilo medial
 usar em sedação
-# Indicações
+
+## Indicações
 - dores no cotovelo
 - auxiliar para [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalmar a mente]]
 
@@ -160,10 +171,12 @@ usar em sedação
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 1,5 tsun acima da prega axilar
-# Indicações
+
+## Indicações
 agulhamento ou moxa. pode fazer unilateral
 - dor no ombro posterior
 - promover a circulação de Xue
@@ -182,10 +195,12 @@ agulhamento ou moxa. pode fazer unilateral
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 Abaixo da espinha da escápula, na mesma linha de [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID09\|ID09]]
-# Indicações
+
+## Indicações
 [[Conhecimento/Acupuntura/Pontos moxa/ID10 moxa\|Moxa]], ventosa, agulha. Pode fazer unilateral.
 - Específico para dor articular do ombro
 
@@ -200,11 +215,13 @@ Abaixo da espinha da escápula, na mesma linha de [[Conhecimento/Acupuntura/Cana
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 No meio da escápula, na fossa intraescapular.
 Faz uma concha com as mãos, usando o dedo polegar e médio. O Indicador encontra o ponto.
-# Indicações
+
+## Indicações
 - dor no ombro que vai para o braço
 - dor inter-escapular e escapular
 - relaxa músculos e tendões
@@ -221,11 +238,12 @@ Faz uma concha com as mãos, usando o dedo polegar e médio. O Indicador encontr
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 No meio e acima da espinha da escápula
 
-# Indicações
+## Indicações
 - Dor no ombro
 - tensão no trapézio
 - [[elimina vento externo\|elimina vento externo]]
@@ -242,11 +260,12 @@ vento pode invadir e causar contratura
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 4 tsun lateral a T2
 
-# Indicações
+## Indicações
 - Dor nas costas
 - Rigidez na nuca e cervical
 - Relaxa músculos e tendões
@@ -261,11 +280,12 @@ vento pode invadir e causar contratura
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 3 tsun lateral a T1
 
-# Indicações
+## Indicações
 - Dor nas costas
 - Rigidez na nuca e cervical
 - Relaxa músculos e tendões
@@ -280,11 +300,12 @@ vento pode invadir e causar contratura
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
+
 2 tsun lateral a C7
 
-# Indicações
+## Indicações
 - Ajuda a relaxar a musculatura do trapézio
 - dores nas costas ao suspirar
 - dor  na nuca
@@ -301,11 +322,13 @@ pode fazer somente do lado da dor
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-e.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-e.webp)
+
 Borda inferior do zigomático, onde encontra a linha vertical do ângulo externo do olho. Achar uma depressão.
 Pode usar agulha facial ou sistêmica angulada
-# Indicação
+
+## Indicação
 - [[Conhecimento/Alterações/neuralgia do trigêmeo\|Neuralgia do trigêmeo]]
 - [[dor de dente\|dor de dente]] (associar a [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID18\|ID18]] e [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]])
 - [[Conhecimento/Alterações/paralisia facial\|paralisia facial]]
@@ -322,11 +345,13 @@ Pode usar agulha facial ou sistêmica angulada
 
 
 
-# Localização
+## Localização
 ![pontos-idelgado-e.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-e.webp)
+
 Na linha a frente do tragus, no espaço que se forma ao abrir a boca
 Junto com [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA21\|TA21]] e [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB02\|VB02]]
-# Indicações
+
+## Indicações
 - [[Conhecimento/Alterações/otite\|otite]]
 - [[Conhecimento/Alterações/zumbido\|zumbido]]
 - favorece a [[audição\|audição]]

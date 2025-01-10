@@ -5,8 +5,10 @@
 ponto Luo 
 ## Localização
 ![pontos-figado-b.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-b.webp)
+
 5 tsun acima do ponto mais alto do maléolo medial. Em. Cima da tíbia. 
-## Indicação
+
+## Indicações
 Dispersa umidade e calor, resolve estagnação de Qi do Fígado, refresca calor no fígado. Esteatose hepática, cirrose, 
 Desequilíbrio sexual 
 	**masculino**

@@ -4,11 +4,14 @@
 
 
 [[Ponto mestre\|Ponto mestre]] da circulação venosa 
+
 ## Localização
 
 ![pontos-baco-b.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-b.webp)
+
 Posterior e medial a tuberosidade da tíbia 
-## Indicação
+
+## Indicações
 Principal função é drenar. Excelente [[Conhecimento/Alterações/Diurético\|diurético]]. Se quiser pode acrescentar [[Conhecimento/Acupuntura/Canais/Rim/R07\|R07]]
 [[Conhecimento/Alterações/varizes\|Varizes]], auxiliar em [[Conhecimento/Alterações/hipertensão\|hipertensão]], resolve [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] (pode usar com [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]])- San yin jiao (três encontros de meridianos yin)
 - Ponto mais yin de membro inferior 

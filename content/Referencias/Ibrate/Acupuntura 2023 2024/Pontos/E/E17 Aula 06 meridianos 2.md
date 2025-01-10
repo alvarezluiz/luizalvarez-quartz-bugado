@@ -4,8 +4,9 @@
 
 ## Localização
 ![pontos-estomago-c.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-estomago-c.webp)
+
 Mamilo.
 
-## Indicação
+## Indicações
 - Não usar agulha.
 - Moxa permitido.

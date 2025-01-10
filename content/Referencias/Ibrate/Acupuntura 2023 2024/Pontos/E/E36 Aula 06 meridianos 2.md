@@ -4,7 +4,9 @@
 
 ## Localização
 ![pontos-estomago-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-estomago-d.webp)
+
 3 tsun abaixo da patela e 1 tsun lateral da crista da tibia. 
+
 ## Indicações
 Aumenta Energia Yang. 
 Ponto para fortalecimento geral do corpo, grande liberador de [[endorfinas\|endorfinas]], [[Conhecimento/Alterações/analgesia\|analgesia]] da cintura para baixo.

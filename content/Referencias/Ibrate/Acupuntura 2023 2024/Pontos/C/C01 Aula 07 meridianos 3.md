@@ -2,10 +2,12 @@
 {"title":"C1","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
-# Localização
+## Localização
 ![pontos-coracao-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-a.webp)
+
 No centro da fossa axilar, atrás do músculo peitoral.
-# Indicações
+
+## Indicações
 - Pode trabalhar com pressão
 - ótimo para pessoas assustadas
 	esclera azulada indica uma estagnação no meridiano do Coração. Massagem nesse ponto limpa estagnação.

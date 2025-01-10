@@ -19,10 +19,12 @@ Problemas relacionadas ao órgão, cardiopatias, hipertensão e ansiedade
 
 
 
-# Localização
+## Localização
 ![pontos-coracao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-a.webp)
+
 No centro da fossa axilar, atrás do músculo peitoral.
-# Indicações
+
+## Indicações
 - Pode trabalhar com pressão
 - ótimo para pessoas assustadas
 	esclera azulada indica uma estagnação no meridiano do Coração. Massagem nesse ponto limpa estagnação.
@@ -39,10 +41,13 @@ No centro da fossa axilar, atrás do músculo peitoral.
 
 
 Alegria de viver
-# Localização
+
+## Localização
 ![pontos-coracao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-a.webp)
+
 Dobrar o braço, achar o fim da linha causada pela dobra. Pegar a meia distância da linha até o epicondilo medial. Inserir a agulha perpendicular ao braço.
-# Indicações
+
+## Indicações
 Ponto água do fogo.
 - [[Conhecimento/Alterações/tristeza\|tristeza]] de luto
 - [[Conhecimento/Alterações/apatia\|apatia]]
@@ -50,7 +55,7 @@ Ponto água do fogo.
 - [[Conhecimento/Alterações/falta de vontade de falar\|falta de vontade de falar]]
 - como se faltasse fogo da vida, quem trás clareza para a vida é o coração.
 - dor local
-# Combinações
+## Combinações
  
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -88,10 +93,12 @@ Agulhar para cima para [[Conhecimento/Alterações/depressão\|depressão]]
 
 
 
-# Localização
+## Localização
 ![pontos-coracao-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-b.webp)
+
 1,5 tsun da prega do punho
-# Indicações
+
+## Indicações
 - [[Conhecimento/Alterações/rouquidão\|Rouquidão]]
 - problemas nas cordas vocais
 - melhora a voz
@@ -106,13 +113,17 @@ Agulhar para cima para [[Conhecimento/Alterações/depressão\|depressão]]
 
 
 Luo do coração
-# Localização
+
+## Localização
 ![pontos-coracao-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-b.webp)
+
 1 tsun acima da prega do punho
-# Indicações
+
+## Indicações
 - principal ponto para [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Qi do Coração (Ibrate 2024, D)\|deficiencia de Qi do Coração]]
 - em deficiência de Qi, paciente apresente [[dispnéia\|dispnéia]], [[Conhecimento/Alterações/cansaço\|cansaço]], [[fraqueza\|fraqueza]] ([[lingua palida\|lingua palida]])
-# Combinações
+
+## Combinações
 - [[Conhecimento/Acupuntura/Canais - Outros/Combinações/C05 + TA10\|C05 + TA10]] - [[Conhecimento/Alterações/insônia\|insônia]]
 
 </div></div>
@@ -130,13 +141,16 @@ ponto fonte
 ponto sedação
 não usar em crianças
 porta da mente
-# Localização
+
+## Localização
 ![pontos-coracao-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-b.webp)
+
 Na dobra do punho (dedo mínimo).
 Dobrar a mão para a lateral e econtrar uma depressão maior.
 
 Atrás do psiforme, no lado ulnar do punho.
-# Indicações
+
+## Indicações
 - melhor ponto para distúrbios emocionais
 - [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]] ([[Conhecimento/Alterações/stress\|stress]], [[Conhecimento/Alterações/depressão\|depressão]], etc)
 - equlibra o coração
@@ -145,11 +159,12 @@ Atrás do psiforme, no lado ulnar do punho.
 	- na insônia de coração a pessoa se mexe muito a noite
 	- quando acorda cansado, acorda a 1:30 e precisa levantar ou sonha que está brigando é fígado
 - [[Conhecimento/Alterações/sono agitado\|sono agitado]]
-# Sedação ou fonte
+
+## Sedação ou fonte
 Língua com ponta vermelha, pulso forte, pressão alta: sedar
 Língua vermelha normal e pulso fraco: Fonte
 
-# Intercorrências
+## Intercorrências
 Se a pressão cair demais durante o tratamento, C07 tonificando pode ser usado para aumentar a pressão.
 
 </div></div>
@@ -162,11 +177,13 @@ Se a pressão cair demais durante o tratamento, C07 tonificando pode ser usado p
 
 
 
-# Localização
+## Localização
 ![pontos-coracao-C.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-c.webp)![pontos-coracao-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-b.webp)
+
 Com as pontas dos dedos fletidos (sem serrar) entre 4º e 5º dedo. Ignorar a dobra da mão.
 Pode usar agulha facial
-# Indicações
+
+## Indicações
 - Elimina [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]] ou [[fogo no coraçao\|fogo no coraçao]]
 - Patologias relacionadas ao órgão ([[cardiopatia\|cardiopatia]], [[coraçao inchado\|coraçao inchado]])
 - [[Conhecimento/Alterações/agitação mental\|agitação mental]]
@@ -182,11 +199,14 @@ Pode usar agulha facial
 
 
 
-# Localização
+
+## Localização
+
 ![pontos-coracao-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-c.webp)
 Leito ungueal do 5º dedo (mínimo), lado lateral (polegar)
 Normalmente sangria
-# Indicações
+
+## Indicações
 - perda de consciência
 - [[Conhecimento/Alterações/acidente vascular cerebral\|AVC]]
 - evitar [[Conhecimento/Alterações/acidente vascular cerebral\|AVC]]

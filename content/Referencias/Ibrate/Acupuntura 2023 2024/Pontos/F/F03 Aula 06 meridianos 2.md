@@ -5,8 +5,10 @@
 Ponto fonte do fígado 
 ## Localização
 ![pontos-figado-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-a.webp)
+
 Entre primeiro e segundo metatarso ou 1.5 tsun do [[Conhecimento/Acupuntura/Canais/Figado/F02\|F02]]. No fechamento dos metatarsos. 
-## Indicação
+
+## Indicações
 Assegurar fluxo suave do Qi, redireciona Qi rebelde. 
 Nutre e move Xue. Principalmente Xue estagnado do útero. 
 Acalma [[espasmo\|espasmos]], contrações e [[cãibras\|cãibras]] musculares. 

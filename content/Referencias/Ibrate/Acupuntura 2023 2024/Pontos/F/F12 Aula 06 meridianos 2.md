@@ -4,7 +4,8 @@
 
 ## Localização
 ![pontos-figado-c.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-c.webp)
+
 No púbis 
 
-## Indicação
+## Indicações
 Só moxa

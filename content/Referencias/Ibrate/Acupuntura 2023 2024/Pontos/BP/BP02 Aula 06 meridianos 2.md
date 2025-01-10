@@ -4,8 +4,10 @@
 
 ## Localização
 ![pontos-baco-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-a.webp)
+
 Anterior ao primeiro metatarso na divisa da pele da sola do pé 
-## Indicação
+
+## Indicações
 - Ponto de tonificação 
 Aumenta [[vitalidade\|vitalidade]], melhora membros frios e [[Conhecimento/Alterações/extremidades frias\|extremidades frias]], [[Conhecimento/Alterações/joanete\|joanete]] com [[Conhecimento/Acupuntura/Canais/Baço/BP03\|BP03]]
 

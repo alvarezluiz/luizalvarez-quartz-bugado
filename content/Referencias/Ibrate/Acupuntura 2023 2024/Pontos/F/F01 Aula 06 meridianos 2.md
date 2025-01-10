@@ -4,7 +4,9 @@
 
 ## Localização
 ![pontos-figado-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-a.webp)
+
 Leito ungueal do halux, face lateral.
-## Indicação
+
+## Indicações
 - Não usar em gestação ou pós parto.
 Remove calor do sangue e para sangramento uterino (sangria) . Resolve calor e umidade nas vias urinárias e genitais. Secreção vaginal, retenção urinária. 

@@ -5,8 +5,10 @@
 Ponto de tonificação.
 ## Localização
 ![pontos-figado-b.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-b.webp)
+
 Final da prega poplítea do joelho flexionado, no lado interno 
-## Indicação
+
+## Indicações
 Nutre yin do Fígado 
 Emocional de frustração e perda. 
 Relaxa tendões e músculos. Fortalece o joelho. Hemiplegia, hemiparesia, principalmente membros inferiores. 

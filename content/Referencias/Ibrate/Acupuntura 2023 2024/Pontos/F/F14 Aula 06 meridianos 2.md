@@ -4,9 +4,11 @@
 
 ## Localização
 ![pontos-figado-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-d.webp)
+
 Linha horizontal do processo xifoide até cruzar a linha do mamilos 
 Ponto alarme do fígado. 
-## Indicação
+
+## Indicações
 Dor com opressão torácica 
 Tonifica e restaura Qi 
 Alivia estagnação de Qi do estômago. 

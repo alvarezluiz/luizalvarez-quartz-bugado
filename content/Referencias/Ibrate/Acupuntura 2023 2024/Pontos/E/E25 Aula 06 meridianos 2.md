@@ -4,6 +4,7 @@
 
 ## Localização
 ![pontos-estomago-c.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-estomago-c.webp)
+
 2 tsun lateral ao umbigo 
 
 ## Indicações

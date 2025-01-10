@@ -4,8 +4,10 @@
 
 ## Localização
 ![pontos-baco-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-a.webp)
+
 Leito ungueal do halux , face medial
-## Indicações gerais
+
+## Indicações
 Geralmente sangria para dores locais ou ao longo do trajeto, [[prostração\|prostração]]. 
 [[Conhecimento/Alterações/distúrbio mental\|Distúrbios mentais]]
 Não usar quando menstruada 

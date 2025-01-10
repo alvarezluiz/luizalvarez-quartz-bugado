@@ -5,8 +5,10 @@
 ponto mestre dos órgãos 
 ## Localização
 ![pontos-figado-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-figado-d.webp)
+
 Borda inferior da 11ª costela (primeira flutuante)
-## Indicação
+
+## Indicações
 Principalmente fígado e rim
 Plenitude torácica 
 Cirrose, esteatose, pancreatite 

@@ -2,11 +2,14 @@
 {"title":"C9","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
-# Localização
+
+## Localização
+
 ![pontos-coracao-c.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-coracao-c.webp)
 Leito ungueal do 5º dedo (mínimo), lado lateral (polegar)
 Normalmente sangria
-# Indicações
+
+## Indicações
 - perda de consciência
 - [[Conhecimento/Alterações/acidente vascular cerebral\|AVC]]
 - evitar [[Conhecimento/Alterações/acidente vascular cerebral\|AVC]]

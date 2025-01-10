@@ -4,8 +4,9 @@
 
 ## Localização
 ![pontos-estomago-c.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-estomago-c.webp)
+
 1.5 tsun da cartilagem cricoide, antes do músculo esternocleidomastoideo.
 Necessário manter o pescoço em leve extensão. Causa um pouco de desconforto e pode ser problemático para algumas pessoas. 
 
-## Indicaçõs
+## Indicações
 Alterações na [[tireóide\|tireóide]] e [[cordas vocais\|cordas vocais]], [[Conhecimento/Alterações/amigdalite\|amigdalite]], [[Conhecimento/Alterações/Faringite\|faringite]]. 
