@@ -1,5 +1,5 @@
 ---
-{"tags":["conhecimento/acupuntura/ponto"],"title":"B02","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
+{"tags":["conhecimento/acupuntura/ponto"],"title":"B2","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
 

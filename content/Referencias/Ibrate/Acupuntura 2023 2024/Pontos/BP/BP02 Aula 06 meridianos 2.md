@@ -1,10 +1,8 @@
 ---
-{"tags":["conhecimento/acupuntura/ponto"],"publish":true,"PassFrontmatter":true}
+{"title":"BP02","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
-![pontos-baco-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-baco-a.webp)
-
 Anterior ao primeiro metatarso na divisa da pele da sola do pé 
 ## Indicação
 - Ponto de tonificação 
