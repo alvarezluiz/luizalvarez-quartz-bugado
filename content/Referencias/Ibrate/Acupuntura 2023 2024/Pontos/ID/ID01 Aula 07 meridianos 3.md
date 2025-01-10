@@ -4,6 +4,7 @@
 
 # Localização
 ![pontos-idelgado-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-a.webp)
+
 Localizado no leito ungueal do dedo mínimo, face medial (oposto ao polegar)
 
 # Indicação
