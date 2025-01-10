@@ -58,15 +58,7 @@ Caráter de relatividade (ex. estações do ano)
 - Excesso de Yin - Frio interno
 
 Apostila (pág 14) caráter de crescimento e decrescimento
-
-
-|       | interno (deficiência)**​**         | externo (excesso)**​**         |
-| ----- | ---------------------------------- | ------------------------------ |
-| frio  | ![[deficiencia-de-yang.webp\|150]] | ![[excesso-de-yin.webp\|150]]  |
-| calor | ![[deficiencia-de-yin.webp\|150]]  | ![[excesso-de-yang.webp\|150]] |
-|       |                                    |                                |
-
-
+![Desquilibrios-Yin-Yang.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2001/Desquilibrios-Yin-Yang.webp)
 ### 2.1.5 Relógio biológico
 
 ![relogio biologico chines 3.jpg](../../../../Imagens/Imagens/relogio%20biologico%20chines%203.jpg)
