@@ -3,10 +3,12 @@
 ---
 
 
-# Localização
+## Localização
 ![Pontos-Bexiga-C.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-C.webp)
+
 1,5 tsun na base do occipital. A agulha deve parar na parte óssea.
-# Indicação
+
+## Indicações
 - [[Conhecimento/Alterações/cefaleia\|cefaleia]] occipital.
 - [[Conhecimento/Alterações/obstrução nasal\|Obstrução nasal]].
 - Relaxa musculatura do trapézio e cervical.

@@ -3,7 +3,10 @@
 ---
 
 Correspondente ao ponto [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]].
-## Indicação
+
+## Localização
 ![Pontos-Bexiga-D.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
+
+## Indicações
 [[Irregularidade intestinal\|Irregularidade intestinal]], patologias de trompas e ovário. Moxa para [[distúrbio sexual\|distúrbio sexual]]. [[Conhecimento/Alterações/lombalgia\|lombalgia]] 
 
