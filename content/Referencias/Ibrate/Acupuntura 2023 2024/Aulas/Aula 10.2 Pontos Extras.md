@@ -273,7 +273,7 @@ Substitui ou auxilia [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]].
 # Cavalos velozes 
 ![cavalos velozes Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/cavalos%20velozes%20Ibrate.webp)
 
-3 tsun a frente do [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|VB31]], ponto do meio. 2 tsun para cima e 2 tsun para baixo. 
+3 tsun a frente do [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31]], ponto do meio. 2 tsun para cima e 2 tsun para baixo. 
 Usar 3 agulhas.
 
 Qualquer patologia de pele. [[Conhecimento/Alterações/psoríase\|psoríase]], [[Conhecimento/Alterações/dermatite\|dermatite]] (quanto mais vermelha, melhor o resultado), desidrose, acne, urticaria. Não funciona para vitiligo. 

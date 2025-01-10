@@ -76,7 +76,7 @@ Frio - língua pálida ou saburra espessa branca
 Feng fu - [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG16\|VG16]]
 Feng chi - [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB20\|VB20]]
 Feng men - [[Conhecimento/Acupuntura/Canais/Bexiga/B12\|B12]]
-Feng shi - [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|VB31]]
+Feng shi - [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31]]
 [[Conhecimento/Acupuntura/Canais/Figado/F02\|F02]] - seda fígado 
 [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]] - fonte do fígado 
 

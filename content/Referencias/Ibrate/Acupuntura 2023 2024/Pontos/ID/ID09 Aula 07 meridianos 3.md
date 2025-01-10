@@ -4,7 +4,7 @@
 
 ## Localização
 ![pontos-idelgado-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-idelgado-d.webp)
-
+ 
 1,5 tsun acima da prega axilar
 
 ## Indicações

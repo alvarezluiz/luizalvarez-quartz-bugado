@@ -61,10 +61,10 @@ inserção profunda 2 a 2.25 tsun (5,5cm), face posterior do. Quadril, entre tro
 Atenção ao comprimento da agulha. Ponto local. [[Conhecimento/Condições/bursite trocanterica\|bursite trocanterica]], [[Conhecimento/Alterações/ciatalgia\|ciatalgia]], [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]] por estimular a circulação do Qi e do Xue, evitando atrofia. [[Conhecimento/Alterações/prurido\|prurido]] no anus e virilha 
 
 ## Perna
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|VB31]]
+### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31]]
 ![VB31.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/VB/VB31.webp)
 mãos espalmadas ao longo do corpo.com a mão aberta onde apontar o dedo médio. Espanta vento perverso, [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]], dor no joelho que sobe para coxa, paralisias dos membros inferiores e [[Conhecimento/Alterações/ciatalgia\|ciatalgia]]. Para hemiplegia associar com [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]].
-[[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA06\|TA06]] com [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|VB31]] [[Conhecimento/Alterações/herpes zoster\|herpes zoster]] 
+[[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA06\|TA06]] com [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31]] [[Conhecimento/Alterações/herpes zoster\|herpes zoster]] 
 
 ### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]] 
 ![VB34.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/VB/VB34.webp)

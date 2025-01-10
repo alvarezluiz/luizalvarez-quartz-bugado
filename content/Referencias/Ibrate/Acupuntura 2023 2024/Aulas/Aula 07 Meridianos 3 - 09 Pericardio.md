@@ -28,16 +28,18 @@ distúrbios psicossomáticos, palpitação, angustia, opressão torácica, dor p
 ## Pontos
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC01\|PC01]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-01-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Localização
+## Localização
+![pontos-pericardio-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-b.webp)
 1 tsun externamente ao mamilo.
 Inserir no máximo 0.5 tsun da agulha
 Bom com laser
-# Indicações
+
+## Indicações
 - trata qualquer disfunção das mamas
 	- [[Conhecimento/Alterações/mastite\|mastite]], [[rachadura no mamilo\|rachadura no mamilo]]
 - nas mulheres muito dolorido. pode substituir por [[Conhecimento/Acupuntura/Canais/Pericardio/PC04\|PC04]]
@@ -46,15 +48,17 @@ Bom com laser
 
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC03\|PC03]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-03-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Localização
+## Localização
+![pontos-pericardio-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-a.webp)
+
 Na prega de flexão do cotovelo, ao lado do tendão do bíceps 
 
-# Indicações
+## Indicações
 Joga água para apagar o fogo do estômago
 - inibe [[Conhecimento/Alterações/vômito\|vômito]] na gestante ([[Conhecimento/Condições/hiperemese gravidica\|hiperemese gravidica]])
 - Também é utilizado para [[Conhecimento/Alterações/hipertensão\|hipertensão]], pois trabalha a parte yin do pericárdio
@@ -77,18 +81,21 @@ Joga água para apagar o fogo do estômago
 
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC04\|PC04]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-04-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
 # Localização
+![pontos-pericardio-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-a.webp)
+
 5 tsun acima da prega do punho, entre os tendões.
 Linha média interna do antebraço, entre os tendões palmar longo e flexor radial do carpo.
 Para encontrar os tendões, pedir para o paciente juntar polegar e mínimo, assim os tendões vão se sobressair. A agulha entre entre eles. Caso atinja o tendão, o paciente relatará choque e dor constante.
 - agulha perpendicular
-# Indicações
+
+## Indicações
 - beneficia as mamas (qualquer disfunção)
 - [[Conhecimento/Alterações/distúrbio mental\|distúrbio mental]]
 - [[Distúrbio psicossomático\|Distúrbio psicossomático]]
@@ -101,17 +108,20 @@ Para encontrar os tendões, pedir para o paciente juntar polegar e mínimo, assi
 
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC05\|PC05]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-05-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Localização
+## Localização
+![pontos-pericardio-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-a.webp)
+
 A 3 tsun da prega do pulso, entre os tendões
 Linha média interna do antebraço, entre os tendões palmar longo e flexor radial do carpo.
 Para encontrar os tendões, pedir para o paciente juntar polegar e mínimo, assim os tendões vão se sobressair. A agulha entre entre eles. Caso atinja o tendão, o paciente relatará choque e dor constante.
 Agulha perpendicular
-# Indicações
+
+## Indicações
 - [[dor precordial\|dor precordial]]
 - [[Conhecimento/Alterações/angústia\|angústia]]
 - [[Conhecimento/Alterações/opressão torácica\|opressão torácica]]
@@ -125,15 +135,18 @@ Agulha perpendicular
 
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-06-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
-# Localização
+## Localização
+![pontos-pericardio-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-a.webp)
+
 A 2 tsun da prega do pulso, entre os tendões
-# Indicações
+
+## Indicações
 Mais indicado 
 - ótimo [[calmante\|calmante]]
 - bom para pessoas explosivas, reativas, [[Conhecimento/Alterações/Irritabilidade\|irritadas]], muito [[Conhecimento/Alterações/Agitação\|agitadas]]
@@ -145,8 +158,8 @@ Mais indicado
 
 *[[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]]*
 
-# Combinações
-## [[Conhecimento/Acupuntura/Canais - Outros/Combinações/PC06 + BP04 (Confluência)\|PC06 + BP04 (Confluência)]] 
+## Combinações
+### [[Conhecimento/Acupuntura/Canais - Outros/Combinações/PC06 + BP04 (Confluência)\|PC06 + BP04 (Confluência)]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -165,7 +178,7 @@ Ambos ansiolíticos, mas [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]
 </div></div>
 
 
-## [[Conhecimento/Acupuntura/Canais - Outros/Combinações/Triangulo de Buda - Doren\|Triangulo de Buda - Doren]]
+### [[Conhecimento/Acupuntura/Canais - Outros/Combinações/Triangulo de Buda - Doren\|Triangulo de Buda - Doren]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -183,7 +196,7 @@ Pessoas [[Conhecimento/Alterações/stress\|estressadas]]
 </div></div>
  
 
-## [[Conhecimento/Acupuntura/Canais - Outros/Combinações/F03 + PC06\|F03 + PC06]]
+### [[Conhecimento/Acupuntura/Canais - Outros/Combinações/F03 + PC06\|F03 + PC06]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -218,14 +231,17 @@ Durante a noite (após as 19:00) e aumenta com o decorrer da noite: deficiência
 
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC07\|PC07]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-07-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Localização
+## Localização
+![pontos-pericardio-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-a.webp)
+
 No centro do punho
-# Indicações
+
+## Indicações
 Ponto de sedação
 Ponto local
 	- [[Conhecimento/Alterações/síndrome do túnel do carpo\|síndrome do túnel do carpo]]
@@ -245,15 +261,18 @@ Mesmas indicações psicossomáticas de [[Conhecimento/Acupuntura/Canais/Pericar
 
 ### [[Conhecimento/Acupuntura/Canais/Pericardio/PC09\|PC09]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-09-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Localização
+## Localização
+
 Na ponta do dedo médio
 Na linha francesa no çeito ungueal do dedo médio na face lateral (do indicador)
-# Indicações
+![pontos-pericardio-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pericardio-a.webp)
+
+## Indicações
 - perda de consciencia, zumbido, [[angina pectoris\|angina pectoris]]
 - indicado para pacientes em [[Conhecimento/Alterações/coma\|coma]]
 - durante [[infarto\|infarto]] (enquanto aguarda socorro), massagear ou sangrar

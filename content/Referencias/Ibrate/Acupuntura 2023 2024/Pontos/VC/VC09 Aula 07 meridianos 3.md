@@ -1,0 +1,19 @@
+---
+{"title":"VC9","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+---
+
+ponto do comando das aguas
+
+##  Localização
+![pontos-vconcepcao-a.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-vconcepcao-a.webp)
+
+1 tsun acima do umbigo
+
+##  Indicações
+bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hídrica\|retenção hídrica]], bom para [[Conhecimento/Alterações/Edema\|Edema]], [[Conhecimento/Alterações/retenção urinária\|retenção urinária]] (aumenta [[Conhecimento/Alterações/Diurético\|diurese]])
+
+##  Combinações
+[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]
+[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção hídrica\|retenção hídrica]]
+
+([[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]])

@@ -16,12 +16,14 @@ Dor de dente, dor de garganta, epistaxe, dor ao longo do trajeto, distúrbios ga
 
 #### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG01\|IG01]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-01-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 ## Localização
+![pontos-igrosso-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-a.webp)
+ 
 Leito ungueal do dedo indicador, face lateral (polegar)
 Geralmente sangria
 
@@ -41,7 +43,7 @@ Geralmente sangria
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG02\|IG02]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-02-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -59,13 +61,14 @@ Para sedação, obrigatório usar junto com [[Conhecimento/Acupuntura/Canais/Int
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG03\|IG03]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-03-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 # Localização
 Depressão posterior da articulação metacarpofalangiana
+
 # Indicações
 Para sedação, utilizar obrigatoriamente junto com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG02\|IG02]]. (Raramente em excesso)
 - Dor local
@@ -77,7 +80,7 @@ Para sedação, utilizar obrigatoriamente junto com [[Conhecimento/Acupuntura/Ca
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-04-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -85,6 +88,9 @@ Para sedação, utilizar obrigatoriamente junto com [[Conhecimento/Acupuntura/Ca
 Ponto fonte
 Com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG11\|IG11]] abaixa a pressão 
 # Localização
+![pontos-igrosso-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-b.webp)
+ 
+
 ## Chinesa
 No ponto mais alto entre polegar e indicador, agulha entra de lado.
 Melhor para função do intestino.
@@ -119,13 +125,15 @@ Sangria com ventosa [[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG04
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG05\|IG05]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-05-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 
 # Localização
+![pontos-igrosso-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-c.webp)
+ 
 No centro da tabaqueira anatômica
 # Indicações
 - ponto para dor local
@@ -135,14 +143,17 @@ No centro da tabaqueira anatômica
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG06\|IG06]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-06-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 Luo do intestino grosso
-# Localização
+# Localização 
+![pontos-igrosso-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-c.webp)
+
 3 tsun da prega do punho, em cima do rádio
+
 # Indicações
 - beneficia ouvido
 - beneficia garganta
@@ -159,13 +170,15 @@ Luo do intestino grosso
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG11\|IG11]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-11-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 Ponto de tonificação
 # Localização
+![pontos-igrosso-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-d.webp)
+ 
 Localizado com o cotovelo fletido, marcar o fim da prega, esticar o braço e inserir a agulha.
 Agulha entra de baixo para cima.
 # Indicações
@@ -183,12 +196,14 @@ Agulha entra de baixo para cima.
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG14\|IG14]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-14-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 # Localização
+![pontos-igrosso-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-d.webp)
+ 
 3 tsun abaixo de [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG15\|IG15]], levemente para frente (peito), no músculo deltóide.
 # Indicações
 - ponto local
@@ -200,13 +215,18 @@ Agulha entra de baixo para cima.
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG15\|IG15]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-15-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 # Localização
+![pontos-igrosso-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-d.webp)
+![pontos-igrosso-e.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-e.webp)
+ 
+
 Na depressão anterior ao acrômio (bem na articulação) (na depressão posterior é [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA14\|TA14]])
+
 # Indicações
 - excelente para dor articular no ombro
 - beneficia tendões
@@ -217,13 +237,16 @@ Na depressão anterior ao acrômio (bem na articulação) (na depressão posteri
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG19\|IG19]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-19-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 # Localização
+![pontos-igrosso-f.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-f.webp)
+ 
 0,5 tsun lateral a [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG26\|VG26]] (Arco do cupido)
+
 # Indicações
 - Beneficia nariz
 	- principalmente obstrução nasal
@@ -233,12 +256,15 @@ Na depressão anterior ao acrômio (bem na articulação) (na depressão posteri
 
 ### [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG20\|IG20]]
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/IG/IG-20-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 # Localização
+![pontos-igrosso-f.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-igrosso-f.webp)
+ 
+
 Na lateral das narinas,como se fosse bigode de gato
 # Indicações
 - [[Conhecimento/Alterações/sinusite\|sinusite]]
