@@ -9,15 +9,15 @@
 ### [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Aula 03 Etiopatogenia]]
 ### [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|Aula 04 Diagnostico]]
 ### Aula 05 Meridianos 1
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Introdução]]
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|Bexiga]]
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 03 Vescula Biliar\|Vesícula Biliar]]
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Introdução]]<br>
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|Bexiga]]<br>
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 03 Vescula Biliar\|Vesícula Biliar]]<br>
 ### Aula 06 Meridianos 2
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 04 Estomago\|Estômago]]
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 05 Baco\|Baço]]
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 06 Figado\|Fígado]]
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 07 Rim\|Rim]]
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 08 Pulmao\|Pulmão]]
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 04 Estomago\|Estômago]]<br>
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 05 Baco\|Baço]]<br>
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 06 Figado\|Fígado]]<br>
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 07 Rim\|Rim]]<br>
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 08 Pulmao\|Pulmão]]<br>
 
 ### Aula 07 Meridianos 3
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 10 Coracao\|Coração]]
