@@ -9,4 +9,4 @@
 Ponto Xi do estômago.
 
 ## Indicações
-Bom para gastrite e úlcera na fase aguda. Domina rebelião do Qi do Estômago. Dor abdominal súbita, soluço náusea Vômito arroto.
+Bom para [[Conhecimento/Alterações/gastrite\|gastrite]] e [[úlcera\|úlcera]] na fase aguda. Domina rebelião do Qi do Estômago. Dor abdominal súbita, [[Conhecimento/Alterações/soluço\|soluço]], [[Conhecimento/Alterações/Náusea\|náusea]], [[Conhecimento/Alterações/vômito\|vômito]], [[Conhecimento/Alterações/eructação\|eructação]].

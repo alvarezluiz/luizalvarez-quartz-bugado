@@ -10,5 +10,6 @@
 ## Indicações
 Regulariza estomago e domina [[rebeliao do qi do estomago\|Qi rebelde]], interrompe [[Conhecimento/Alterações/vômito\|vômito]] e alivia [[Conhecimento/Alterações/retençao de alimentos\|retenção de alimentos]]. Excesso de estômago como [[Conhecimento/Alterações/gastrite\|gastrite]] (com [[Conhecimento/Acupuntura/Canais/Estomago/E34\|E34]]), [[Conhecimento/Alterações/ulcera gastrica\|úlcera gástrica]]. 
 [[Conhecimento/Alterações/sede excessiva\|sede excessiva]] e sensação de de [[Conhecimento/Alterações/pirose\|queimação]]. 
-[[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]]. Muito bom  com eletropuntura.
+[[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]]. Muito bom  com eletroacupuntura.
+*emagrecimento*
 

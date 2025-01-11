@@ -10,3 +10,4 @@ Necessário manter o pescoço em leve extensão. Causa um pouco de desconforto e
 
 ## Indicações
 Alterações na [[tireóide\|tireóide]] e [[cordas vocais\|cordas vocais]], [[Conhecimento/Alterações/amigdalite\|amigdalite]], [[Conhecimento/Alterações/Faringite\|faringite]]. 
+Existe uma opção mais confortável.

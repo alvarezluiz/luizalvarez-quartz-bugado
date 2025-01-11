@@ -17,4 +17,4 @@ Nao manter a agulha, somente picar
 - clareia a mente para fala em sequela de acidente vascular cerebral
 
 ### [[Aula 13 Síndromes 1.4 - Pulmão (Fei)b\|Aula 13 Síndromes 1.4 - Pulmão (Fei)b]]
-Expele [[Conhecimento/Alterações/fatores patogênicos/vento\|vento]]. Útil se houver [[Conhecimento/Alterações/cefaleia\|cefaleia]]
+Expele [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/fator vento\|fator vento]]. Útil se houver [[Conhecimento/Alterações/cefaleia\|cefaleia]]

@@ -5,7 +5,7 @@
 ## Localização
 ![pontos-estomago-e.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-estomago-e.webp)
 
-prega do tornozelo, no meio. 
+Ponto de tonificação, no centro da prega transversal do tornozelo. 
 
 ## Indicações
-Ponto de tonificação, no centro da prega transversal do tornozelo. Usado para [[Conhecimento/Alterações/edema no rosto\|edema no rosto]] (com [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]]   [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]), [[Conhecimento/Alterações/depressão\|depressão]] e ponto de efeito local. 
+Usado para [[Conhecimento/Alterações/edema no rosto\|edema no rosto]] (com [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]] e [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]), [[Conhecimento/Alterações/depressão\|depressão]] e ponto de efeito local. 
