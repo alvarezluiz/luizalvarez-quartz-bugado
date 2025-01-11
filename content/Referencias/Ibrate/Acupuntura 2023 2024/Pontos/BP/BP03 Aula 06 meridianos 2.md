@@ -15,6 +15,6 @@ Posterior ao metatarso, entre a divisa da pele da sola
 Qualquer patologia referente a [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] 
 Terra da terra: assenta a pessoa diminui agitação, traz para realidade,  
 
-[[Raiz/Aula 17aa Acupuntura aplicada a disfunções estéticas\|Aula 17aa Acupuntura aplicada a disfunções estéticas]]
+## [[Raiz/Aula 17aa Acupuntura aplicada a disfunções estéticas\|Aula 17aa Acupuntura aplicada a disfunções estéticas]]
 Baço raramente está em excesso.
 Utilizar com frequência junto com [[Conhecimento/Acupuntura/Canais/Baço/BP02\|BP02]]. 

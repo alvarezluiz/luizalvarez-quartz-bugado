@@ -10,4 +10,4 @@ ponto de sedação.
 anterior e inferior a crista do maléolo medial. 
 
 ## Indicações
-Perpendicular [[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]], [[Conhecimento/Alterações/diabetes\|diabetes]] (geralmente pulso de baço muito forte). Diabetes causa [[Conhecimento/Alterações/fatores patogênicos/secura\|secura]] no estômago [[Conhecimento/Alterações/poliúria\|e grande quantidade de urina]].
+- Perpendicular [[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]], [[Conhecimento/Alterações/diabetes\|diabetes]] (geralmente pulso de baço muito forte). Diabetes causa [[Conhecimento/Alterações/fatores patogênicos/secura\|secura]] no estômago [[Conhecimento/Alterações/poliúria\|e grande quantidade de urina]].

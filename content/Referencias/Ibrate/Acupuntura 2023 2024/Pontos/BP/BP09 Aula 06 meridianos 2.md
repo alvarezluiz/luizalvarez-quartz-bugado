@@ -10,5 +10,5 @@ Ponto mestre da circulação venosa
 Posterior e medial a tuberosidade da tíbia 
 
 ## Indicações
-Principal função e drenar. Excelente diurético. Se quiser pode acrescentar [[Conhecimento/Acupuntura/Canais/Rim/R07\|R07]]
-Varizes, auxiliar em hipertensão, resolve umidade (pode usar com [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]])
+Principal função e drenar. Excelente [[Conhecimento/Alterações/Diurético\|diurético]]. Se quiser pode acrescentar [[Conhecimento/Acupuntura/Canais/Rim/R07\|R07]]
+[[Conhecimento/Alterações/varizes\|Varizes]], auxiliar em [[Conhecimento/Alterações/hipertensão\|hipertensão]], resolve [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] (pode usar com [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]])
