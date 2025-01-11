@@ -3,7 +3,7 @@
 ---
 
 
-# 1 Pontos de Acupuntura
+## 1 Pontos de Acupuntura
 
 GENERALIDADES
 "HSUE"= buraco.
@@ -12,7 +12,7 @@ Pontos de efeitos sistêmicos - [[Conhecimento/Acupuntura/Canais/Intestino Gross
 Pontos de efeito local - [[Conhecimento/Acupuntura/Canais/Bexiga/B60\|B60]], [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID11\|ID11]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB20\|VB20]].
 Pontos de efeito a distância - [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB39\|VB39]], [[Conhecimento/Acupuntura/Canais/Estomago/E38\|E38]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB37\|VB37]]
 
-# 2 Pontos de Comando
+## 2 Pontos de Comando
 
 Grupo de pontos que tem funções especificas dentro de cada meridiano
 
@@ -41,7 +41,7 @@ Grupo de pontos que tem funções especificas dentro de cada meridiano
 | Intestino Grosso  | [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG11\|IG11]]    | [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG02\|IG02]] & [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG03\|IG03]] | [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]]     | [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG06\|IG06]] | [[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]]     | [[Conhecimento/Acupuntura/Canais/Bexiga/B25\|B25]]            |
 | Intestino Delgado | [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]]    | [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID08\|ID08]]            | [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID04\|ID04]]     | [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID07\|ID07]] | [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]]    | [[Conhecimento/Acupuntura/Canais/Bexiga/B27\|B27]]            |
 | Bexiga            | [[Conhecimento/Acupuntura/Canais/Bexiga/B67\|B67]]     | [[Conhecimento/Acupuntura/Canais/Bexiga/B65\|B65]]             | [[Conhecimento/Acupuntura/Canais/Bexiga/B64\|B64]]      | [[Conhecimento/Acupuntura/Canais/Bexiga/B58\|B58]]  | [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC03\|VC03]]    | [[Conhecimento/Acupuntura/Canais/Bexiga/B28\|B28]]            |
-## 2.1 Pontos de Tonificação
+### 2.1 Pontos de Tonificação
 
 - Principal aplicação clínica de TONIFICAR o meridiano diretamente.
 
@@ -70,8 +70,7 @@ C09 (tonificação do coração) diminui vesícula biliar por ser de horários o
 | Vesícula biliar   | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB43\|VB43]] |
 | Fígado            | [[Conhecimento/Acupuntura/Canais/Figado/F08\|F08]]  |
 
-
-## 2.2 Pontos de Sedação
+### 2.2 Pontos de Sedação
 
 -  Principal aplicação clínica de sedar, inibir ou dispersar o meridiano diretamente.
 - A agulha é colocada contra o fluxo do meridiano.
@@ -101,8 +100,7 @@ F02 (sedação do Fígado) - aumenta intestino delgado por ser de horário opost
 
 > agulha em [[Conhecimento/Acupuntura/Canais/Rim/R01\|R01]] desperta de desmaio 
 
-
-## 2.3 Pontos de Alarme - Mo
+### 2.3 Pontos de Alarme - Mo
 
 - Localização no abdômen e tórax (região YIN), a maioria se encontra no nível do órgão correspondente.
 
@@ -131,7 +129,7 @@ F02 (sedação do Fígado) - aumenta intestino delgado por ser de horário opost
 | Vesícula biliar   | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB24\|VB24]] |
 | Fígado            | [[Conhecimento/Acupuntura/Canais/Figado/F14\|F14]]  |
 
-## 2.4 Pontos de Assentimento - Shu
+### 2.4 Pontos de Assentimento - Shu
 
 - Sinônimos - Pontos associados, reforço, assentamento.
 
@@ -144,7 +142,7 @@ F02 (sedação do Fígado) - aumenta intestino delgado por ser de horário opost
 -  Técnica de Diagnóstico japonesa:
 Um par de agulhas em cada ponto de assentimento de cada Órgão e Víscera. Órgão com desequilíbrio apresenta hiperemia em 10 a 15 minutos. Em 20 minutos a hiperemia some. 
 
-## 2.5 Pontos Lo, Luo ou Passagem
+### 2.5 Pontos Lo, Luo ou Passagem
 
 - Pontos de conexão, passagem.
 
@@ -177,7 +175,7 @@ Ponto Luo do estômago envia energia para baço.
 | Vesícula biliar   | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB37\|VB37]] |
 | Fígado            | [[Conhecimento/Acupuntura/Canais/Figado/F05\|F05]]  |
 
-## 2.6 Pontos Fonte - Yuan
+### 2.6 Pontos Fonte - Yuan
 
 - Usar perpendicular 
 
@@ -203,7 +201,7 @@ Ponto Luo do estômago envia energia para baço.
 | Triplo aquecedor  | [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA04\|TA04]] |     |
 | Vesícula biliar   | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB40\|VB40]] |     |
 | Fígado            | [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]  |     |
-## 2.7 Pontos de Confluência
+### 2.7 Pontos de Confluência
 
 São utilizados para regular as funções dos órgãos e das vísceras, normalizar a circulação de Qi e Xue pelos meridianos.
 
@@ -213,7 +211,7 @@ São combinações duplas de pontos que devem ser usados de forma bilateral, e s
 > equilíbrio entre região superior e inferior do corpo 
 > 
 
-## 2.8 Pontos de Influência/Mestres
+### 2.8 Pontos de Influência/Mestres
 
 São pontos onde se concentram a energia essencial. apresentam uma influência especial sobre determinados tecidos, sistemas, Qi ou Xue.
 
@@ -224,18 +222,18 @@ artrose, osteoporose - [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]]
 tendinites - [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]
 
  
-| FUNÇÃO DE CONTROLE          | PONTOS                     |
-| --------------------------- | -------------------------- |
+| Função de controle          | Pontos                          |
+| --------------------------- | ------------------------------- |
 | Mestre dos Vasos Sangüíneos | [[Conhecimento/Acupuntura/Canais/Pulmao/P09\|P09]]* (ponto de tonificação) |
-| Mestre dos Ossos            | [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]]                        |
-| Mestre dos Tendões          | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]                       |
-| Mestre do Sangue            | [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]]                        |
-| Mestre da Medula            | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB39\|VB39]] (defesa)              |
-| Mestre dos Órgãos           | [[Conhecimento/Acupuntura/Canais/Figado/F13\|F13]]                        |
-| Mestre das Vísceras         | [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC12\|VC12]]                       |
-| Mestre do Qi                | [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC17\|VC17]]                       |
+| Mestre dos Ossos            | [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]]                         |
+| Mestre dos Tendões          | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]                        |
+| Mestre do Sangue            | [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]]                         |
+| Mestre da Medula            | [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB39\|VB39]] (defesa)               |
+| Mestre dos Órgãos           | [[Conhecimento/Acupuntura/Canais/Figado/F13\|F13]]                         |
+| Mestre das Vísceras         | [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC12\|VC12]]                        |
+| Mestre do Qi                | [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC17\|VC17]]                        |
 
-## 2.9 Pontos de Emergência / Xi
+### 2.9 Pontos de Emergência / Xi
 
 São pontos onde o Qi e o Xue se concentram e se aprofundam, são usados para tratar doenças agudas ou dolorosas. Geralmente nos padrões de excesso.
 
@@ -245,46 +243,38 @@ Exemplo: [[Conhecimento/Acupuntura/Canais/Rim/R05\|R05]] - para [[Conhecimento/A
 
 [[Conhecimento/Acupuntura/Canais/Baço/BP08\|BP08]] - para [[Conhecimento/Alterações/diabetes\|diabetes]] ([[hiperglicemia\|hiperglicemia]] ou [[Conhecimento/Alterações/hipoglicemia\|hipoglicemia]]).
 
-# 3 Estudo de Pontos
+## 3 Estudo de Pontos
 
-## 3.1 Mensuração dos Pontos
+### 3.1 Mensuração dos Pontos
 
 - Medida utilizada 1 tsun ou 1 polegada, é a medida interfalangiana média do dedo médio e/ou do polegar.
 
 -  Comparar sempre com a medida do paciente.
 ![tsun.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/tsun.webp)
 ![tsun2.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/tsun2.webp)
-## 3.2 Orientações Gerais da Técnica de aplicação
+### 3.2 Orientações Gerais da Técnica de aplicação
 
 1. Agulhas
 	- Especificações técnicas - mais usada 0,25 x 40mm, sendo 0,25 mm de diâmetro (grossura da lâmina) por 40 mm (4cm) de comprimento útil da lamina.
-	
 	- Lâmina - Material de aço inox.
-	
 	- Comprimentos mais usuais na Acupuntura - 7, 15, 25 ou 40 mm. 70mm, para obesos e região glútea.
-	
 	- Mandril - Uso opcional.
 
-# 4 Atendimento 
-## 4.1 Posição do Paciente
+## 4 Atendimento 
+### 4.1 Posição do Paciente
 
 - Decúbito dorsal inicialmente, depois decúbito lateral, ventral ou sentado.
-
 - Para pacientes com sinusite, que estiverem muito congestionados, pode ser trabalhado primeiro decúbito ventral e depois decúbito dorsal.
 
-## 4.2 Ângulo de Inserção
+### 4.2 Ângulo de Inserção
 
 - Perpendicular = 90º com a pele.
-
 - Oblíquo=45° com a pele, usado mais em regiões menos musculosas.
-
 - Horizontal /Subcutânea = 15º, usado para inserções superficiais, geralmente na cabeça (Crânio chinesa, YNSA e pontos locais) e face.
 
-
-## 4.3 Técnicas de Manipulações básicas
+### 4.3 Técnicas de Manipulações básicas
 
 Para tonificar:
-
 - Introduzir a agulha mais rapidamente.
 - Agulha "empurrando" a energia no sentido do meridiano.
 - Tempo menor de permanência. 
@@ -296,7 +286,7 @@ Para tonificar:
 - Maior tempo de permanência da agulha.
 - Rodar a agulha no sentido anti-horário,
 
-## 4.4 A sensação de estar no ponto certo
+### 4.4 A sensação de estar no ponto certo
 
 Chegada do Qi:  (deqi)
 
