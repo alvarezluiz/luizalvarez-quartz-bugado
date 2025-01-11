@@ -8,5 +8,7 @@
 na linha média da pupila, 1 tsun acima da sobrancelha.
 
 ## Indicações
-Usado para cefaléia frontal. Clareia a visão, [[Conhecimento/Alterações/paralisia facial\|paralisia facial]] (punturar para baixo para favorecer o fechamento do olho).
+- Usado para [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]]. 
+- Clareia a visão
+- [[Conhecimento/Alterações/paralisia facial\|paralisia facial]] (punturar para baixo para favorecer o fechamento do olho).
 
