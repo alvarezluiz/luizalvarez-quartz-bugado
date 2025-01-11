@@ -57,7 +57,12 @@
 
 ### Aula 14
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 14.1 Sindromes - Rim\|Aula 14.1 Sindromes - Rim]]<br>
-> Aula 14 ...
+> Aula 14.2a Síndromes - Estômago<br>
+> Aula 14.2b Síndromes - Intestino Delgado<br>
+> Aula 14.2c Síndromes - Intestino Grosso<br>
+> Aula 14.2d Síndromes - Vesícula Biliar<br>
+> Aula 15.2.e Síndromes - Bexiga
+> 
 
 ### Aula 15
 
@@ -72,6 +77,9 @@
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1b acupuntura craniana chinesa\|Acupuntura craniana chinesa b]]<br>
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1c acupuntura craniana chinesa\|Acupuntura craniana chinesa c]]<br>
 > [[Raiz/Aula 18.2 Ryodoraku\|Ryodoraku]]
+
+### Aula 19
+> Craneopuntura  de yamamoto
 ## [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/index\|Meridianos]]
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/index\|Bexiga]]<br>
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/index\|Baço]]<br>
