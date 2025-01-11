@@ -6,8 +6,8 @@
 
 # 1. Introdução 
 
-- Ser humano como um todo. 
-- Influência da natureza 
+- considerar o ser humano como um todo. 
+- É influenciado pela natureza 
 - Meridianos são canais onde circulam energia vital. Ligam a superfície do corpo com os órgãos e sistemas internos.
 - Meridianos (década de 80 Dr. Darras, na França - com tecnécio radioativo) - meridianos principais (não visualizável a olho nu);
 - energia (Qi, ki, prana, orgone)
@@ -15,10 +15,10 @@
 - microssistemas (orelha, pés, língua, mão, face)
 
 # 2. Teorias 
-1. [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.1 Teoria yin yang\|#2.1 Teoria yin yang]]
+1. Teoria yin yang
 2. Teoria do Qi 
-3. [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.3 Teoria dos cinco movimentos\|#2.3 Teoria dos cinco movimentos]]Teoria dos 3 movimentos (elementos)
-4. Teoria do Jing, Jin ye, Xue 
+3. Teoria das cinco substâncias 
+4. Teoria dos cinco movimentos
 
 ## 2.1 Teoria yin yang 
 
@@ -83,9 +83,9 @@ Dois conceitos:
 2. Refere-se às atividades funcionais dos Zang Fu e dos tecidos. 
 
 #### 2.2.3.1 Fontes de Qi 
-Respiração - Qi do ar -> Zong Qi 
-Alimento - Qi da alimentação -> Gu Qi (Yong Qi)
-Genética - Qi ancestral -> Jing Qi 
+Respiração - Qi do ar → Zong Qi 
+Alimento - Qi da alimentação → Gu Qi (Yong Qi)
+Genética - Qi ancestral → Jing Qi 
 
 #### 2.2.3.2 Funções do Qi 
 - Ativar crescimento e desenvolvimento 
@@ -185,10 +185,7 @@ Ye = grosso
 Compreende as lágrimas, suor, saliva, muco, urina, líquidos intra e extracelulares.
 Função : nutrir e umedecer os tecidos, órgãos e Vísceras, enriquecer a medula, manter o equilíbrio yin e Yang do corpo. 
 Via das águas 
-Estomago ->Baço -> Pulmonar -> Rim -> Triplo Aquecedor -> Bexiga 
-
-Foto
-2024-05-18 17.06 
+Estômago → Baço → Pulmão → Rim → Triplo Aquecedor → Bexiga 
 
 Insuficiência de jin ye 
 Secura de intestino (obstipação), secura de pele, secura do Pulmão (tosse seca). 
@@ -221,9 +218,6 @@ Edema
 Mucosidade 
 Fleugma (obesidade)
 **Profundo** 
-
-Tabela 
-
 ### 2.3.1 madeira 
 Alto, altivo, corajoso, ativo, expansivo, planeja, estrategiza, se permite sonhar 
 

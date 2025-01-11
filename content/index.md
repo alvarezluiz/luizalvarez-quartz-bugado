@@ -7,7 +7,7 @@
 ### Aula 1
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Teorias de base]]
 ### Aula 2
-[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 fisiologia Energetica\|Fisiologia energética 1]]
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 Fisiologia Energetica\|Fisiologia energética 1]]
 ### Aula 3
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Etiopatogenia]]
 ### Aula 4

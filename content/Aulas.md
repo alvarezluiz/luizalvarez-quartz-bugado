@@ -6,7 +6,7 @@
 | File                                                                                                                                                              | Professora            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Aula 01 teorias de base]]                                                             | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 fisiologia Energetica\|Aula 02 fisiologia Energetica]]                                                 | Simone Tano           |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 Fisiologia Energetica\|Aula 02 Fisiologia Energetica]]                                                 | Simone Tano           |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Aula 03 Etiopatogenia]]                                                                 | Monica Helena Soriani |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|Aula 04 Diagnostico]]                                                                     | Simone Tano           |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Aula 05 Meridianos 1 - 01 Introducao]]                                   | Doren Sayuri Kato     |
