@@ -3,7 +3,7 @@
 ---
 
 
-# Função dos Vasos Marvilhosos
+## Função dos Vasos Marvilhosos
 
 - Irrigar os espaços compreendidos entre os meridianos principais;
 
@@ -23,7 +23,7 @@ Bom quando fator patogênico já alcançou vasos ou ossos.
 
 ---
 
-# Regras para o uso dos Vasos Maravilhosos
+## Regras para o uso dos Vasos Maravilhosos
 
 - Mulher
 
@@ -43,7 +43,7 @@ Inicia-se à esquerda com o ponto de abertura e fecha à direita com o ponto de 
 
 ---
 
-# apostila 
+## Apostila 
 Para problemas inatos 
 Não se comunicam com um órgão Zang 
 Abertura e fechamento deve apresentar De Qi. 
@@ -54,13 +54,12 @@ Indicado para problemas crônicos.
 Trajeto de baixo para cima. 
 Não tem trajeto em membros superiores. 
 
----
 
-# 1 Yin Wei Mai
+## 1 Yin Wei Mai
 
-## Sintoma essencial:
+### Sintoma essencial:
 dor torácica com sensação de aperto no tórax ou plenitude no tórax, agonia no peito, frio no peito.
-## Funções
+### Funções
 Angústia no peito, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Conhecimento/Alterações/ansiedade\|ansiedade]], [[Conhecimento/Alterações/depressão\|depressão]].
 Sua principal função é de conectar todos os meridianos Yin; controla face interna do corpo;
 
@@ -70,7 +69,7 @@ Indicado para: Hipertensão arterial, hiper-hidrose, distúrbio bipolar, ansieda
 
 Bola na garganta, engolir sapo
 Taquicardia, palpitaçao. 
-## Abertura e fechamento
+### Abertura e fechamento
 Abre em [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
 Fecha em [[Conhecimento/Acupuntura/Canais/Baço/BP04\|BP04]]
 
@@ -86,9 +85,7 @@ Ponto de fechamento / acoplado: BP4
 
 Área do corpo: tórax, garganta e região medial da perna.
 
-
----
-# Sintoma essencial 
+### Sintoma essencial 
 Dor torácica, aperto no torax, plenitude torácica 
 Agonia, angústia no peito, peito frio. 
 

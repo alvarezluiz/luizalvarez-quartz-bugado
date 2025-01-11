@@ -3,20 +3,18 @@
 ---
 
 
-# Método
-## Agulha
+## Método
+### Agulha
 contralateral à dor
 Se dor bilateral:
 homem lado esquerdo, mulher lado direito 
 
-## Sangria 
+### Sangria 
 Homolateral à dor
 Se dor bilateral:
 homem lado esquerdo, mulher lado direito 
 
-
----
-# Yuyao 
+## Yuyao 
 
 ![Ex-HN04 Yuyao.webp|400](../../../../Referencias/MedicoFisiatra.com.br/Imagens/Ex/Ex-HN04%20Yuyao.webp)
 
@@ -28,7 +26,7 @@ Sangria de acordo com local da dor
 [[Conhecimento/Acupuntura/Canais/Bexiga/B02\|B02]], [[Conhecimento/Acupuntura/Canais - Outros/Pontos extras/EX-CP04 Yuyao\|EX-CP04 Yuyao]], [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA23\|TA23]]
 
 ---
-# Shi-shen-tsung 
+## Shi-shen-tsung 
 Quatro cavaleiros 
 ![Shi-shen-tsung Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Shi-shen-tsung%20Ibrate.webp)
 Cada um a tsun do [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]], em forma de cruz, oblíquo em direção ao VG20. 
@@ -40,8 +38,7 @@ Associar com [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]] para ansie
 
 Em caso de ideia fixa, usar com agulhas para fora do VG20
 
----
-# Yintang
+## Yintang
 
 ![Yintang Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Yintang%20Ibrate.webp)
 
@@ -53,8 +50,8 @@ Irritação, raiva, tpm, problemas relacionados ao nariz, como cefaléia de rini
 Abre os horizontes mentais. 
 Bom para pessoas metódicas e irredutíveis. 
 
----
-# Cavalo d'água 
+
+## Cavalo d'água 
 Qiuhou
 Atrás da bola
 ![Cavalo d'agua Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Cavalo%20d'agua%20Ibrate.webp)
@@ -67,8 +64,8 @@ Excelente para edemas, diurético, olheiras
 [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]] drena líquidos e fleugma (duro, formas varizes)
 [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]] drena fleugma. (sensação de peso, edema macio)
 
----
-# Du mai
+
+## Du mai
 ![Du Mai Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Du%20Mai%20Ibrate.webp)
 Fim do meridiano do vaso governador. [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG28\|VG28]]
 
@@ -77,9 +74,8 @@ Sinal de [[Conhecimento/Alterações/hemorroida\|hemorroida]]
 Sangria. Quase não sangra. Não doi.
 Se não tiver bolinha, moxa no [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]. 
 
----
 
-# Extra do ciático 
+## Extra do ciático 
 ![ponto extra do ciatico Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20do%20ciatico%20Ibrate.webp)
 Teste de Lasegue
 Levantar uma perna de cada vez segurando pelo calcanhar. Com a perna solta. 
@@ -87,9 +83,7 @@ Três agulhas sistêmicas no ponto auricular da próstata, contralateral ao lado
 Usar os outros pontos necessários para ciatalgia ou lombociatalgia. 
 Refazer o teste de Lasegue, observar e demonstrar a diferença.
 
----
-
-# Erjian
+## Erjian
 ![Erjian Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Erjian%20Ibrate.webp)
 
 Ápice do Helix sangria abaixa pressão arterial de forma emergencial.
@@ -97,9 +91,7 @@ Pode usar em gestante com pré-eclâmpsia.
 Homem lado esquerdo, mulher direito primeiro. 
 Se necessário bilateral. 
 
----
-
-# 3 estrelas 
+## 3 estrelas 
 ![trinca cervical Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/trinca%20cervical%20Ibrate.webp)
 Trinca cervical 
 7 estrelas
@@ -109,9 +101,8 @@ Cefaléia tensional
 Sangria 
 Proteger com micropore após a sangria 
 
----
 
-# Extra de crise de asma 
+## Extra de crise de asma 
 (Dingchuan)
 ![ponto extra da asma Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20da%20asma%20Ibrate.webp)
 6 pontos na altura do [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG14\|VG14]]
@@ -122,9 +113,7 @@ Agulha ou moxa.
  Pode usar junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B13\|assentimento do pulmão]] e [[Conhecimento/Acupuntura/Canais/Pulmao/P06\|P06]]
 
 
----
-
-# Ponto aranha
+## Ponto aranha
 ![ponto extra aranha Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20aranha%20Ibrate.webp)
 Diâmetro cefálico (medir com barbante por exemplo)
 Colcoar em volta do pescoço, onde as pontas se encontrarem nas costas é o ponto. 
@@ -134,9 +123,8 @@ Aumenta a imunidade.
 3x ao dia moxa, 3 dias seguidos. 
 Pode usar com [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]] e [[Conhecimento/Acupuntura/Canais/Pulmao/P09\|P09]]. 
 
----
 
-# Trinca abdominal
+## Trinca abdominal
 ![trinca abdominal Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/trinca%20abdominal%20Ibrate.webp)
 [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC10\|VC10]] + [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC12\|VC12]] + [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC13\|VC13]]
 
@@ -161,9 +149,7 @@ Seletividade alimentar.
 Em gestante, agulha só no primeiro trimestre. Stiper pode. 
 Para emagrecimento com eletro. 
 
----
-
-# cinco tigres
+## cinco tigres
 ![cinco tigres Doren.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/cinco%20tigres%20Doren.webp)
 Agulha:
 1 cefaléia 
@@ -174,17 +160,13 @@ Agulha:
 
 Ex. : esporão do calcaneo 3 e 5.
 
----
-
-# Extra da afta 
+## Extra da afta 
 ![ponto extra da afta Josi Doren Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20da%20afta%20Josi%20Doren%20Ibrate.webp)
 Depressão abaixo da dobra do dedo médio. 
 
 Não precisa aprofundar. 
 
----
-
-# extra das hérnias 
+## extra das hérnias 
 ![ponto extra das hernias Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20das%20hernias%20Ibrate.webp)
 Dedo indicador 
 3 pontos com agulha 
@@ -194,9 +176,7 @@ Dividindo o dedo ao meio, um fica lateral e dois próximos, formando um triângu
 Hernia de hiato com [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC12\|VC12]]
 Hérnia espinhal, Ponto local da Bexiga e/ou Trinca cervical 
 
----
-
-# Si Fung
+## Si Fung
 Si Feng
 Quatro costuras
 ![Sifung Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Sifung%20Ibrate.webp)
@@ -210,9 +190,7 @@ Limitação de movimento dos dedos.
 
 Abrir apetite em crianças. 
 
----
-
-# doce mel
+## doce mel
 ![ponto doce mel Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20doce%20mel%20Ibrate.webp)
 Linha:
 [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]], doce mel, [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]]
@@ -225,17 +203,13 @@ Vícios, dependências e compulsão.
 
 Preferencialmente repetir a cada 3 ou 4 dias. 
 
----
-
-# Extra da gripe
+## Extra da gripe
 ![ponto extra da gripe Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20da%20gripe%20Ibrate.webp)
 3 pontos distribuídos no leito ungueal do polegar. 
 Sangria para gripe. 
 Se tiver dor de garganta, com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG01\|IG01]]. 
 
----
-
-# Trinca do polegar 
+## Trinca do polegar 
 ![trinca do polegar Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/trinca%20do%20polegar%20Ibrate.webp)
 Três pontos distribuídos sobre o meio da falange média do polegar dorsal. 
 
@@ -247,16 +221,13 @@ Cicatriza de dentro para fora.
 Se possível a cada 3 ou 4 dias. 
 Se houver hematoma pode trocar lado. 
 
----
-
-# vale das almas 
+## vale das almas 
 ![vale das almas Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/vale%20das%20almas%20Ibrate.webp)
 Lombalgia e dor na região dos quadris 
 [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG03\|IG03]] e bifurcação do polegar com indicador. Mesma lógica de [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]. Na fossa do [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]]. 
 
----
 
-# Extras do útero e Extra dos ovários 
+## Extras do útero e Extra dos ovários 
 ![extra do utero e ovarios Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/extra%20do%20utero%20e%20ovarios%20Ibrate.webp)
 Pontos extras do útero: dois pontos na falange média do polegar, na face entre polegar e indicador 
 Ponto extra dos ovários
@@ -268,9 +239,7 @@ Ideal útero  lado, ovário outro lado.
 
 Substitui ou auxilia [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]]. 
 
----
-
-# Cavalos velozes 
+## Cavalos velozes 
 ![cavalos velozes Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/cavalos%20velozes%20Ibrate.webp)
 
 3 tsun a frente do [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31]], ponto do meio. 2 tsun para cima e 2 tsun para baixo. 
@@ -279,8 +248,8 @@ Usar 3 agulhas.
 Qualquer patologia de pele. [[Conhecimento/Alterações/psoríase\|psoríase]], [[Conhecimento/Alterações/dermatite\|dermatite]] (quanto mais vermelha, melhor o resultado), desidrose, acne, urticaria. Não funciona para vitiligo. 
 Pode substituir ponto de Pulmão para esta finalidade. 
 
----
-# olhos do joelho
+
+## olhos do joelho
 Chi yen
 
 ![olhos do joelho Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/olhos%20do%20joelho%20Ibrate.webp)
@@ -296,8 +265,7 @@ Qualquer patologia de joelho
 Sangria com ventosa em [[Conhecimento/Acupuntura/Canais/Bexiga/B41\|B41]], [[Conhecimento/Acupuntura/Canais/Bexiga/B42\|B42]] e [[Conhecimento/Acupuntura/Canais/Bexiga/B43\|B43]]. 
 Aumenta bastante a amplitude de movimento. 
 
----
-# Barreira Renal 
+## Barreira Renal 
 ![barreira renal Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/barreira%20renal%20Ibrate.webp)
 1,5 tsun de [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]. 
 Encontrar ponto sensível. 
@@ -312,8 +280,7 @@ Perda de interesse pela vida. Pulso de rim forte. Desgaste de energia de rim.
 Para infertilide feminina usar pontos  [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.2 Pontos Extras#extra do útero e ovários\|#extra do útero e ovários]]
 Para impotência barreira renal + e [[Conhecimento/Acupuntura/Canais/Figado/F08\|F08]]
 
----
-# Extra da tireóide 
+## Extra da tireóide 
 ![extra da tireoide Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/extra%20da%20tireoide%20Ibrate.webp)
 No meridiano da vesícula biliar.
 3 pontos. 
