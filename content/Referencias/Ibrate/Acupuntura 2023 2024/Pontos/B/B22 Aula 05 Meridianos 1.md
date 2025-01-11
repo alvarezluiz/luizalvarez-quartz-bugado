@@ -10,4 +10,4 @@
 Localizada na depressão inferior ao processo espinhoso (apofise) de L1, a 1,5 tsun lateralmente do centro da coluna.
 
 ## Indicações
-Envolvido com água e temperatura. Abre a via das águas no Aquecedor inferior. Estimula transformação e eliminação dos fluidos impuros. [[Conhecimento/Alterações/Edema\|Edema]]. [[distúrbio do sistema urinária\|distúrbio do sistema urinária]]. [[micção dolorosa\|micção dolorosa]], [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]], [[Conhecimento/Alterações/enurese noturna\|enurese noturna]], [[Conhecimento/Alterações/enurese\|enurese]].
+Envolvido com água e temperatura. Abre a via das águas no Aquecedor inferior. Estimula transformação e eliminação dos fluidos impuros. [[Conhecimento/Alterações/Edema\|Edema]]. [[distúrbio do sistema urinária\|distúrbio do sistema urinária]]. [[micção dolorosa\|micção dolorosa]], [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]], [[Conhecimento/Alterações/enurese noturna\|enurese noturna]].

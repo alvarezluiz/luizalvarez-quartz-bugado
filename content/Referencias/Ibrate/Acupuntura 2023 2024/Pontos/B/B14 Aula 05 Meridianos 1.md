@@ -11,3 +11,4 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T4, a 1,5 t
 
 ## Indicações
 Regulariza e harmoniza o Qi do coração. [[Conhecimento/Alterações/arritimia\|arritimia]], [[Conhecimento/Alterações/Taquicardia\|taquicardia]], [[angina\|angina]], [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Conhecimento/Alterações/ansiedade\|ansiedade]]. Ponto calmante.
+*[[Acalma mente\|Acalma mente]]*

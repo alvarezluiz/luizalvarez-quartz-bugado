@@ -9,5 +9,8 @@
 Ângulo interno do olho, sobe até encontrar a sobrancelha.
 
 ## Indicações
-- Excelente [[Conhecimento/Alterações/Diurético\|diurético]].
+- Excelente [[Conhecimento/Alterações/Diurético\|diurético]] (com [[Conhecimento/Acupuntura/Canais/Bexiga/B67\|B67]])
 - [[Conhecimento/Alterações/cefaleia\|cefaleia]] frontal.
+- [[Conhecimento/Alterações/sinusite\|sinusite]]
+- [[Conhecimento/Alterações/rinite\|rinite]]
+- [[Conhecimento/Alterações/paralisia facial\|paralisia facial]]

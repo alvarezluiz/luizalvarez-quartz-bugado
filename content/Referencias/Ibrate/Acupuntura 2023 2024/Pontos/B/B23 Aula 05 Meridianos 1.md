@@ -16,3 +16,4 @@ Tonifica o Rim, nutre a essência, nutre o Xue, beneficia ossos e medula, aument
 ## Combinações
 [[Conhecimento/Acupuntura/Canais/Bexiga/B28\|B28]] + [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]] expele pequenas pedras nos Rins ([[Conhecimento/Alterações/cálculo renal\|Cálculo renal]]). 
 2023-10-14 18.14 [[Pessoas/Doren Sayuri Kato\|Doren Sayuri Kato]]
+
