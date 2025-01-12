@@ -3,7 +3,7 @@
 ---
 
 
-## [[Aulas\|Aulas]]
+## [[Aulas-Ibrate\|Aulas-Ibrate]]
 
 ## [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/index\|Meridianos]]
 
