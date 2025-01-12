@@ -370,6 +370,29 @@ Principais sintomas:
 ### 7.2 Trabalho e repouso 
 
 Trabalho normal circula Qi e Xue 
+#### 7.2.1 Fadiga mental
+
+| desequilíbrio                                    | sintomas                                             | pontos                                                                                |
+| ------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| lesa o coração, má nutrição do coração e cérebro | palpitação, amnésia, lapso mental, insônia, pesadelo | [[Conhecimento/Acupuntura/Canais/Coraçao/C07\|C07]], [[Conhecimento/Acupuntura/Canais/Pericardio/PC07\|PC07]], [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]↓, [[Conhecimento/Acupuntura/Canais/Coraçao/C03\|C03]], [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]], [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC24\|VC24]], [[Conhecimento/Acupuntura/Canais/Bexiga/B14\|B14]], [[Conhecimento/Acupuntura/Canais/Bexiga/B15\|B15]], [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]] |
+
+#### 7.2.1 Fadiga física
+
+| Desequilíbrio                                    | Sintomas                                                                                                                         | Pontos                                                                                                            |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Cconsome o Qi<br>Debilita o Rim<br>Lesa o Pulmão | - Fraqueza<br>- Falta de força<br>- Lassidão<br>- Cansaço ao falar<br>- Respiração ofegante (sintomas agravam no horário do Rim) | [[Conhecimento/Acupuntura/Canais/Rim/R03\|R03]]<br>[[Conhecimento/Acupuntura/Canais/Rim/R07\|R07]]↑<br>[[Conhecimento/Acupuntura/Canais/Bexiga/B23\|B23]]<br>[[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC17\|VC17]]<br>[[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]]<br>[[Conhecimento/Acupuntura/Canais/Pulmao/P09\|P09]]↑<br>[[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]<br>[[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]]<br>[[Conhecimento/Acupuntura/Canais/Vaso Governador/VG06\|VG06]]<br>[[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]↑ |
+#### 7.2.1 Fadiga sexual
+
+| Desequilíbrio                       | Sintomas                                                                                                                              | Pontos                                                                     |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| lesa o Rim, consome essência (Jing) | fraqueza lombar, joelhos, vertigem, lassidão, ejaculação precoce, impotência sexual, leucoreeia, menstruação irregular, infertilidade | [[Conhecimento/Acupuntura/Canais/Rim/R03\|R03]], [[Conhecimento/Acupuntura/Canais/Rim/R07\|R07]], [[Conhecimento/Acupuntura/Canais/Bexiga/B23\|B23]], [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC17\|VC17]], [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]] [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]↑, [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]], [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG04\|VG04]] |
+
+#### 7.2.1 Repouso excessivo
+
+| Desequilíbrio                                        | Sintomas                                                                          | Pontos                                                                                           |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| estagnação da energia e sangue, lesa baço e estômago | baixa resistência, anorexia, prostração, lassidão, depressão, obesidade, anorexia | [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]], [[Conhecimento/Acupuntura/Canais/Baço/BP03\|BP03]], [[Conhecimento/Acupuntura/Canais/Bexiga/B20\|B20]], [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]], [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]], [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC17\|VC17]], [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]↑, [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]], [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG04\|VG04]], [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC06\|VC06]] |
+
 
 | fadiga            | desequilíbrio                                        | sintomas                                                                                                                              | pontos                                                                                           |
 | ----------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |

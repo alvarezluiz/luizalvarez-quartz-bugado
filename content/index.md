@@ -2,7 +2,7 @@
 {"publish":true,"title":"Índice","PassFrontmatter":true}
 ---
 
-Recolocar autor 
+
 Aula 3 subdividir tabela de fadiga 
 	[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia#7.2 Trabalho e repouso\|Aula 03 Etiopatogenia#7.2 Trabalho e repouso]]
 	

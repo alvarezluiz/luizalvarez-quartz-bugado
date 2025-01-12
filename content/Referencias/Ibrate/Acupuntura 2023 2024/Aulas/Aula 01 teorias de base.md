@@ -4,7 +4,7 @@
 
 
 
-# 1. Introdução 
+## 1. Introdução 
 
 - considerar o ser humano como um todo. 
 - É influenciado pela natureza 
@@ -14,13 +14,13 @@
 - 3 fontes de energia (respiração, alimento, genética)
 - microssistemas (orelha, pés, língua, mão, face)
 
-# 2. Teorias 
+## 2. Teorias 
 1. Teoria yin yang
 2. Teoria do Qi 
 3. Teoria das cinco substâncias 
 4. Teoria dos cinco movimentos
 
-## 2.1 Teoria yin yang 
+### 2.1 Teoria yin yang 
 
 | Yang      | Yin         |
 | --------- | ----------- |
@@ -45,11 +45,11 @@ Contraditórios: sao opostos
 complementar: formam uma unidade 
 Interdependentes: um não existe sem o outro 
 
-### 2.1.3 Caráter de relatividade 
+#### 2.1.3 Caráter de relatividade 
 A oposição é relativa. Não é absoluta. Dentro do yin contém a semente do yang. 
 Caráter de relatividade (ex. estações do ano) 
 
-### 2.1.4 Crescimento - decrescimento. Mudanças Patológicas Yin e Yang
+#### 2.1.4 Crescimento - decrescimento. Mudanças Patológicas Yin e Yang
 
 - Equilíbrio Yin e Yang
 - Deficiência de Yin - Calor Interno
@@ -59,13 +59,13 @@ Caráter de relatividade (ex. estações do ano)
 
 Apostila (pág 14) caráter de crescimento e decrescimento
 ![Desquilibrios-Yin-Yang.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2001/Desquilibrios-Yin-Yang.webp)
-### 2.1.5 Relógio biológico
+#### 2.1.5 Relógio biológico
 
 ![relogio biologico chines 3.jpg](../../../../Imagens/Imagens/relogio%20biologico%20chines%203.jpg)
 
 
 
-## 2.2 Teoria das cinco substâncias 
+### 2.2 Teoria das cinco substâncias 
 
 1. [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.2.1 Qi\|Qi]] ([[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.2.2.1 Yuan Qi\|Yuan Qi]], [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.2.2.2 Zong Qi\|Zong Qi]], [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.2.2.3 Yong Qi\|Yong Qi]], [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.2.2.4 Wei Qi\|Wei Qi]])
 2. [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base#2.2.2.5 Jing Qi\|Jing]]
@@ -76,27 +76,28 @@ Apostila (pág 14) caráter de crescimento e decrescimento
 Material - imaterial
 Jing - Jin Ye - Xue - Qi - Shen 
 
-### 2.2.1 Qi 
-
+**Qi** 
 Dois conceitos:
 1. Substância mais elementar do qual o mundo é composto. Qi é a base de todos os subtipos. Qi tem funções distintas como por exemplo o Qi da respiração, Qi dos alimentos, Qi protetivo, etc. 
 2. Refere-se às atividades funcionais dos Zang Fu e dos tecidos. 
 
-#### 2.2.3.1 Fontes de Qi 
+**Fontes de Qi** 
 Respiração - Qi do ar → Zong Qi 
 Alimento - Qi da alimentação → Gu Qi (Yong Qi)
 Genética - Qi ancestral → Jing Qi 
 
-#### 2.2.3.2 Funções do Qi 
+**Funções do Qi** 
 - Ativar crescimento e desenvolvimento 
 - Defender 
 - Aquecer comandar e consolidar 
 - responsável pelo metabolismo 
-#### 2.2.3.3 Dois aspectos importantes 
+- 
+**Dois aspectos importantes** 
 
 - É uma energia que manifesta simultaneamente nos nívels físicos e espiritual
 - É um estado constante de fluxo em estados variáveis de agregação.
-#### 2.2.3.4 Movimentos do Qi 
+
+**Movimentos do Qi** 
 Subir e descer
 Entrar e sair 
 O Qi indica atividade dos sistemas internos do organismo 
@@ -112,15 +113,15 @@ O Qi indica atividade dos sistemas internos do organismo
 
 O Qi tem natureza yang aquecedora. 
 
-### 2.2.2 Tipos de Qi 
-#### 2.2.2.1 Yuan Qi 
+#### 2.2.2 Tipos de Qi 
+**Yuan Qi** 
 Significa fonte 
 Também chamado de Qi original ou Qi verdadeiro
 Formado pelo Qi. Ancestral, Qi dos alimentos e Qi da respiração. 
 
 Quanto mais suficiente for o Yuan Qi, maior será a atividade das funções dos Zang Fu = mais saúde. Não existe excesso. 
 
-#### 2.2.2.2 Zong Qi 
+**Zong Qi** 
 Grande Qi, Qi principal, Dai Ki 
 Chamado Qi torácico 
 Integrado pelo Qi de matérias essenciais do Pulmão e dos alimentos. É considerado a força motora que impulsiona o indivíduo.
@@ -128,8 +129,7 @@ Constitui a força motora que promove a respiração do Pulmão e da circulaçã
 
 Ex: voz e respiração forte (Zong Qi bom) ou fraca (deficiência de Zong Qi).
 
-#### 2.2.2.3 Yong Qi 
-
+**Yong Qi** 
 Chinês = "nutrição" ou alimento. "Ying Qi", ou "Qi nutritivo".
 
 É produzido através das matérias essenciais da água e dos alimentos(E, BP);
@@ -138,7 +138,7 @@ Chinês = "nutrição" ou alimento. "Ying Qi", ou "Qi nutritivo".
 
 Distribuido nos vasos sanguineos(faz parte do sangue) e circula e nutre todo o corpo.
 
-#### 2.2.2.4 Wei Qi 
+**Wei Qi** 
 Wei = Defesa ou proteção 
 Chinês "Defesa, proteção";
 
@@ -153,7 +153,7 @@ Arrepio de frio: abertura e fechamento dos poros (ambos são mecanismos de defes
 Mãos úmidas e/ou excesso de transpiração é sinal de que os poros não tem força de se manter fechados significa que há falta de Wei Ql suficiente.
 Em caso de gripe ou febre o Wel Qi(superficial) trabalha ocasionando arrepios de frio. Caso a doença se aprofunde, pode manifestar patologias de órgãos.(como pneumonia) 
 
-#### 2.2.2.5 Jing Qi 
+**Jing Qi** 
 É a essência, é a matéria fundamental;
 
 Classifica-se em congênito(energia ancestral/celeste) e adquirido;
@@ -162,7 +162,7 @@ Função: crescimento, desenvolvimento e maturação capacidade reprodutiva ("ti
 
 Deficiência de Jing Qi do Rim: retardo no crescimento ou nanismo, menstruação tardia, impotência sexual, ejaculação precoce, amenorreia, biótipo raquítico, caquético e franzino, Infertilidade...
 
-#### 2.2.2.6 Xue 
+**Xue** 
 Tem natureza yin, alimentadora.
 Fonte: água e nutrientes(matérias substanciais dos alimentos processados pelo Estômago e Baço);
 
@@ -178,7 +178,7 @@ Xue atua como nutriente e como suporte para atividade mental.
 
 Deficiência de Xue no Fígado: palidez acentuada, anemia, amenorrela, pulso fraco no ponto do Fígado.
 
-#### 2.2.2.7 Jin Ye 
+**Jinye** 
 Jin = líquido 
 Ye = grosso 
 
@@ -191,7 +191,7 @@ Insuficiência de jin ye
 Secura de intestino (obstipação), secura de pele, secura do Pulmão (tosse seca). 
 Se apresentar disfunção no transporte dos líquidos, ocorre edema (Mucosidade de Pulmão, retenção de urina na bexiga, linfedema)
 
-#### 2.2.2.8 Shen 
+**Shen** 
 Chines: espírito
 O coração é a residência do shen
 
@@ -206,49 +206,50 @@ Baço (Yi)= reflexão;
 Pulmão (Po)= movimento de exteriorização; 
 Coração (Shen)= emoção.
 
-## 2.3 Teoria dos cinco movimentos 
+### 2.3 Teoria dos cinco movimentos 
 
 Madeira, fogo, terra, metal e água são peças fundamentais da natureza 
 
 
 
-**Superficial** 
+*Superficial*
 Umidade 
 Edema
 Mucosidade 
 Fleugma (obesidade)
-**Profundo** 
-### 2.3.1 madeira 
+*Profundo* 
+
+**Madeira** 
 Alto, altivo, corajoso, ativo, expansivo, planeja, estrategiza, se permite sonhar 
 
 Irritado, mentiroso, músculos tensos, se frustra com facilidade, explode e logo volta a conversar, não é rancoroso, acorda de mal humor, se intoxica com facilidade, precisa de 8 horas de sono. 
 
-### 2.3.2 Fogo 
+**Fogo** 
 Líder, orador, excelente vendedor, rancoroso, expansão, crescimento, Ascenção. 
 Capacidade de síntese, muito racional, inteligência global (bem estar público, altruísta). Aglomerador. 
 
-### 2.3.3 terra 
+**Terra** 
 Idealista, pacificador, muitos pensamentos, pouca ação, reflexivo, apegado, poucos amigos, mas os poucos que tem são duradouros. Pele amarela.
 Transformação 
 Virtude em relação a responsabilidade, boa capacidade de concentração e reflexão. Boa memória. Mais centrado. Rumina muito para depois tomar atitude. 
 
-### 2.3.4 metal 
+**Metal**
 Olhar cortante, analítico, fulminante. Contraído. Materialista, vive no passado, corcunda, pessoa triste e fria. 
 Purificação. 
 Leva ao amadurecimento como virtude do ser humano. Quando regulado, boa compaixão. Caso contrário frio e indiferente.
 
-### 2.3.5 água 
+**Água** 
 Medroso. Baixinho. Sereno. Religioso. É obediente. 
 Fator de desenvolvimento 
 Armazenamento e eliminação. 
 Fator positivo quando bem regulado, segurança. 
 
-### 2.3.6 Lei de geração
-### 2.3.7 lei de dominância 
+#### 2.3.6 Lei de geração
+#### 2.3.7 lei de dominância 
 
 Geração excessiva geraria excesso. 
 Lei de dominância limita. 
-### 2.3.8 ciclos naturais 
+#### 2.3.8 ciclos naturais 
 Excesso de avó e mãe gera filho com deficiência 
 Seda a mãe ou 
 seda avó. Mãe se harmoniza automaticamente. 
@@ -258,5 +259,5 @@ Tonifica avó
 ![Aula01-ciclo-emocional.webp|150](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2001/Aula01-ciclo-emocional.webp)
 
 
-### 2.3.9 ciclo de doença 
+#### 2.3.9 ciclo de doença 
 Contradominância
