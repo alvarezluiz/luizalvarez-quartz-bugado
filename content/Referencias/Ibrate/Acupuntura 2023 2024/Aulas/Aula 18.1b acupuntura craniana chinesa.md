@@ -1,5 +1,5 @@
 ---
-{"title":"13 - 2 Acupuntura craniana chinesa","tags":["conhecimento/acupuntura/aula"],"NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","autor":"Simone Tano","PassFrontmatter":true}
+{"title":"18 - 2 Acupuntura craniana chinesa","NAula":"Aula 18","tags":["conhecimento/acupuntura/aula"],"NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","autor":"Simone Tano","PassFrontmatter":true}
 ---
 
 

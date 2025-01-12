@@ -1,5 +1,5 @@
 ---
-{"title":"12 - 2 Inter-relacionamento sistemas Zang","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-05-25","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-05-25T10:40-03:00"},"end":{"dateTime":"2024-05-25T18:22-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","dg-publish":true,"PassFrontmatter":true}
+{"title":"12 - 2 Inter-relacionamento sistemas Zang","NAula":"Aula 12","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-05-25","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-05-25T10:40-03:00"},"end":{"dateTime":"2024-05-25T18:22-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","dg-publish":true,"PassFrontmatter":true}
 ---
 
 

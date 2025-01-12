@@ -1,5 +1,5 @@
 ---
-{"title":"14 - 1 Síndromes - Rim (Shen)","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-07-06","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-07-06T08:25-03:00"},"end":{"dateTime":"2023-07-06T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"14 - 1 Síndromes - Rim (Shen)","NAula":"Aula 14","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-07-06","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-07-06T08:25-03:00"},"end":{"dateTime":"2023-07-06T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"13 - 5 Síndromes - Baço (Pi)","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-06-22","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-06-22T08:30-03:00"},"end":{"dateTime":"2024-05-25T18:22-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"13 - 5 Síndromes - Baço (Pi)","NAula":"Aula 13","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-06-22","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-06-22T08:30-03:00"},"end":{"dateTime":"2024-05-25T18:22-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

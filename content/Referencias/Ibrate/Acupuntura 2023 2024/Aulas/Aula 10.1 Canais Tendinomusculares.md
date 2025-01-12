@@ -1,5 +1,5 @@
 ---
-{"title":"10 - 1 Canais Tendinomusculares","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-03-23","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-03-27T08:24-03:00"},"end":{"dateTime":"2024-03-23T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"10 - 1 Canais Tendinomusculares","NAula":"Aula 10","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-03-23","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-03-27T08:24-03:00"},"end":{"dateTime":"2024-03-23T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

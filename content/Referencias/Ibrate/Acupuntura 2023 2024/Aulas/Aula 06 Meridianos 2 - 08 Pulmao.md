@@ -1,5 +1,5 @@
 ---
-{"title":"06 - Meridianos 2 - 8. Pulmão","NAula":"Aula 6","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-11-18","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-11-18T08:22-03:00"},"end":{"dateTime":"2023-11-18T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"06 - Meridianos 2 - 8. Pulmão","NAula":"Aula 06","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-11-18","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-11-18T08:22-03:00"},"end":{"dateTime":"2023-11-18T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

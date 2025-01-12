@@ -1,5 +1,5 @@
 ---
-{"title":"12 - 3 Inter-relacionamento sistemas Fu","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-05-26","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Dom","start":{"dateTime":"2024-05-26T08:23-03:00"},"end":{"dateTime":"2024-05-26T12:49-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"12 - 3 Inter-relacionamento sistemas Fu","NAula":"Aula 12","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-05-26","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Dom","start":{"dateTime":"2024-05-26T08:23-03:00"},"end":{"dateTime":"2024-05-26T12:49-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

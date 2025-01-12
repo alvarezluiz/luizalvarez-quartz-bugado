@@ -1,5 +1,5 @@
 ---
-{"title":"10 - 2 Pontos Extras","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-03-23","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-03-23T10:56-03:00"},"end":{"dateTime":"2024-04-27T20:00-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"10 - 2 Pontos Extras","NAula":"Aula 10","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2024-03-23","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-03-23T10:56-03:00"},"end":{"dateTime":"2024-04-27T20:00-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
