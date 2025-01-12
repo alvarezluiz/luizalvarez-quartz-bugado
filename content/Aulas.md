@@ -4,15 +4,15 @@
 
 
 ## Aula 1 
-*[[Professora Simone Tano\|Simone Tano]]*
 - ### [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Teorias de base]]
-## Aula 2
 *[[Professora Simone Tano\|Simone Tano]]*
+## Aula 2
 ### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 Fisiologia Energetica\|Fisiologia energética]]
+*[[Professora Simone Tano\|Simone Tano]]*
 
 ## Aula 3 
-*[[Professora Monica Helena Soriani\|Monica Soriani]]*
 ### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Etiopatogenia]]
+*[[Professora Monica Helena Soriani\|Monica Soriani]]*
 
 ## Aula 4 [[Professora Simone Tano\|Simone Tano]]
 ### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|Diagnóstico]]
