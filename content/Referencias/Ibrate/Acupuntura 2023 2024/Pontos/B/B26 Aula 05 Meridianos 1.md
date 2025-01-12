@@ -8,5 +8,8 @@
 Borda inferior da L5
 ### Indicações
 Correspondente ao ponto [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]].
-[[Irregularidade intestinal\|Irregularidade intestinal]], patologias de trompas e ovário. Moxa para [[distúrbio sexual\|distúrbio sexual]]. [[Conhecimento/Alterações/lombalgia\|lombalgia]] 
+- [[Irregularidade intestinal\|Irregularidade intestinal]]
+- Patologias de trompas e ovário
+- Moxa para [[distúrbio sexual\|distúrbio sexual]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]] 
 

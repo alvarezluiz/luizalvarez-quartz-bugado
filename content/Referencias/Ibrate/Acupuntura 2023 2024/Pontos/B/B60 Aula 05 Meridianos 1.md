@@ -6,10 +6,25 @@
 ![Pontos-Bexiga-E.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-E.webp)![Pontos-Bexiga-F.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-F.webp)
 ## Kunlun
 ### Localização
-Na metade da distância entre a crista do maleolo lateral e o tendão de Aquiles.
+Na metade da distância entre a crista do maléolo lateral e o tendão de Aquiles.
 
 ### Indicações
-Libera endorfinas ao longo do trajeto, causando analgesia.  [[Raiz/fascite plantar\|fascite plantar]], [[Conhecimento/Alterações/esporão calcâneo\|esporão calcâneo]], [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]], [[entorse\|entorse]], [[Conhecimento/Alterações/cefaleia\|cefaleia]], [[Conhecimento/Alterações/cefaleia\|cefaleia]] frontal ou occipital, [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]], queimação na micção, harmoniza Xue, revigora Xue, menstruação com coágulo escuro, [[Conhecimento/Alterações/hemiplegia\|hemiplegia]], [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]], estimula trabalho de parto ([[gravidez\|gravidez]]), retenção placentaria.
+- Libera endorfinas ao longo do trajeto, causando analgesia.
+- [[Raiz/fascite plantar\|Fascite plantar]]
+- [[Conhecimento/Alterações/esporão calcâneo\|Esporão calcâneo]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Entorse\|Entorse]]
+- [[Conhecimento/Alterações/cefaleia\|Cefaleia]], [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]] ou [[Conhecimento/Alterações/cefaleia occipital\|occipital]]
+- [[Conhecimento/Alterações/incontinência urinária\|Incontinência urinária]]
+- Queimação na micção
+- Harmoniza Xue
+- Revigora Xue
+- Menstruação com coágulo escuro
+- [[Conhecimento/Alterações/hemiplegia\|Hemiplegia]]
+- [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]
+- Estimula trabalho de parto ([[gravidez\|gravidez]])
+- [[retenção placentária\|retenção placentária]].
 
 > [!NOTE] Endrofinas e analgesia 
 > [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]] endorfinas cintura para baixo 

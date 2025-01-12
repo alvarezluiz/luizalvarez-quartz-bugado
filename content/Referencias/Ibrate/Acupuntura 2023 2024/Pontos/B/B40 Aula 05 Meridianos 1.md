@@ -7,4 +7,10 @@
 ### Localização
 No centro da fossa poplitea. 
 ### Indicações
-Usado como ponto local, equilíbrio para dor e sangria (veia visível no mal jeito para [[Conhecimento/Alterações/lombalgia\|lombalgia]]. Elimina excesso e calor na bexiga. Queimação na micção. Relaxa músculos e tendões no meridiano. [[hérnia de disco\|hérnia de disco]], acalma o feto ([[gravidez\|gravidez]]). 
+- Usado como ponto local
+- equilíbrio para dor e sangria (veia visível no mal jeito para [[Conhecimento/Alterações/lombalgia\|lombalgia]]
+- Elimina excesso e calor na bexiga
+- Queimação na micção
+- Relaxa músculos e tendões no meridiano
+- [[hérnia de disco\|hérnia de disco]]
+- [[acalma o feto\|acalma o feto]] ([[gravidez\|gravidez]]). 

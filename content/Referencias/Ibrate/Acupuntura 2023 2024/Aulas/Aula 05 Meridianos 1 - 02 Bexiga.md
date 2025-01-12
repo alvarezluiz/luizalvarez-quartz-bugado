@@ -141,7 +141,13 @@ Indicado para quem toma vento. Regulariza o [[Conhecimento/Acupuntura/Anotaçoes
 Localizada na depressão inferior ao processo espinhoso (apofise) de T3, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Pulmão.**
-Patologias de Pulmão. Regulariza e tonifica Qi do Pulmão. Estimula função dispersora e de descendência do Pulmão. Patologia respiratória. [[Conhecimento/Alterações/sudorese noturna\|sudorese noturna]]. Dor torácica alta. Quando dolorido, alguma patologia do Pulmão. 
+- Patologias de Pulmão
+- Regulariza e tonifica Qi do Pulmão
+- Estimula função dispersora e de descendência do Pulmão
+- Patologia respiratória
+- [[Conhecimento/Alterações/sudorese noturna\|Sudorese noturna]]
+- Dor torácica alta
+- Quando dolorido, alguma patologia do Pulmão
 
 </div></div>
 
@@ -158,8 +164,13 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T4, a 1,5 t
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do pericárdio.**
-Regulariza e harmoniza o Qi do coração. [[Conhecimento/Alterações/arritimia\|arritimia]], [[Conhecimento/Alterações/Taquicardia\|taquicardia]], [[angina\|angina]], [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Conhecimento/Alterações/ansiedade\|ansiedade]]. Ponto calmante.
-*[[Acalma mente\|Acalma mente]]*
+- Regulariza e harmoniza o Qi do coração.
+- [[Conhecimento/Alterações/arritimia\|Arritimia]]
+- [[Conhecimento/Alterações/Taquicardia\|Taquicardia]]
+- [[Angina\|Angina]]
+- [[Conhecimento/Alterações/opressão torácica\|Opressão torácica]]
+- [[Conhecimento/Alterações/ansiedade\|Ansiedade]]
+- [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Ponto calmante]]
 
 </div></div>
 
@@ -176,7 +187,13 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T5, a 1,5 t
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do coração. Xin shu.**
-Harmoniza Qi e Xue. Dissolve estagnação energética de Xue. Estimula capacidade intelectual e fala em crianças. Acalma a mente (agulha). Controla a [[Conhecimento/Alterações/ansiedade\|ansiedade]]. [[Conhecimento/Alterações/insônia\|insônia]]. Estimula o cérebro, pode usar com moxa.
+- Harmoniza Qi e Xue
+- Dissolve estagnação energética de Xue
+- Estimula capacidade intelectual e fala em crianças
+- [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Acalma a mente]] (agulha)
+- Controla a [[Conhecimento/Alterações/ansiedade\|ansiedade]]
+- [[Conhecimento/Alterações/insônia\|Insônia]]
+- Estimula o cérebro, pode usar com moxa.
 
 </div></div>
 
@@ -192,7 +209,10 @@ Harmoniza Qi e Xue. Dissolve estagnação energética de Xue. Estimula capacidad
 Localizada na depressão inferior ao processo espinhoso (apofise) de T6, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do vaso governador**.
-Harmoniza Qi do tórax. Fortalece diafragma. [[Conhecimento/Alterações/palpitação\|palpitação]]. [[Conhecimento/Alterações/soluço\|soluço]].
+- Harmoniza Qi do tórax
+- Fortalece diafragma
+- [[Conhecimento/Alterações/palpitação\|Palpitação]]
+- [[Conhecimento/Alterações/soluço\|Soluço]].
 
 </div></div>
 
@@ -209,8 +229,23 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T7, a 1,5 t
 
 ### Indicações
 **[[Ponto mestre\|Ponto mestre]] do sangue.**
-Eliminar estagnação do Xue. Eliminar calor do Xue. [[Conhecimento/Alterações/alergia\|alergia]] de pele. [[Conhecimento/Alterações/alergia\|alergia]] respiratória. Cicatrização de [[Fratura\|Fratura]]. Faz circular o Xue. [[Conhecimento/Alterações/varizes\|varizes]], [[pernas cansadas\|pernas cansadas]], extremidades frias. [[Conhecimento/Alterações/Cãibra\|Cãibra]], fadiga muscular junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B57\|B57]]. Edema de membros inferiores junto com [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]. 
-[[Conhecimento/Alterações/soluço\|soluço]], [[Conhecimento/Alterações/Náusea\|Náusea]], [[Conhecimento/Alterações/eructação\|eructação]] e [[Conhecimento/Alterações/vômito\|vômito]]. 
+- Eliminar estagnação do Xue
+- Eliminar calor do Xue
+- [[Conhecimento/Alterações/alergia\|Alergia]] de pele
+- [[Conhecimento/Alterações/alergia\|Alergia]] respiratória.
+- Cicatrização de [[fratura\|fratura]]
+- Faz circular o Xue
+- [[Conhecimento/Alterações/varizes\|Varizes]]
+- [[pernas cansadas\|pernas cansadas]]
+- extremidades frias
+- [[Conhecimento/Alterações/Cãibra\|Cãibra]]
+- [[Conhecimento/Alterações/soluço\|Soluço]]
+- [[Conhecimento/Alterações/Náusea\|Náusea]]
+- [[Conhecimento/Alterações/eructação\|Eructação]]
+- [[Conhecimento/Alterações/vômito\|Vômito]]
+### Combinações
+- Fadiga muscular junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B57\|B57]]
+- Edema de membros inferiores junto com [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]
 
 </div></div>
 ]
@@ -226,7 +261,17 @@ Eliminar estagnação do Xue. Eliminar calor do Xue. [[Conhecimento/Alterações
 Localizada na depressão inferior ao processo espinhoso (apofise) de T9, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Fígado.**
-Beneficia fígado e Vesícula biliar. Movimenta Qi estagnado. Beneficia os olhos. Visão noturna deficiente ([[Conhecimento/Alterações/nictalopia\|nictalopia]]), olhos vermelhos, [[diplopia\|diplopia]], [[hepatite\|hepatite]], [[Conhecimento/Alterações/regurgitação ácida\|regurgitação ácida]], [[icterícia\|icterícia]], [[Conhecimento/Alterações/distensão epigástrica\|distensão epigástrica]] (estufamento), domina [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/vento interno\|vento interno]].
+- Beneficia fígado e Vesícula biliar
+- Movimenta Qi estagnado
+- Beneficia os olhos
+- Visão noturna deficiente ([[Conhecimento/Alterações/nictalopia\|nictalopia]])
+- olhos vermelhos
+- [[diplopia\|diplopia]]
+- [[hepatite\|hepatite]]
+- [[Conhecimento/Alterações/regurgitação ácida\|regurgitação ácida]]
+- [[icterícia\|icterícia]]
+- [[Conhecimento/Alterações/distensão epigástrica\|distensão epigástrica]] (estufamento)
+- domina [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/vento interno\|vento interno]].
 
 </div></div>
 
@@ -243,7 +288,12 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T10, a 1,5 
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] da Vesícula Biliar.**
-Umidade e calor da vesícula biliar (calor subindo da região visceral). [[colecistite\|colecistite]], [[cálculo biliar\|cálculo biliar]], [[má digestão\|má digestão]], [[boca amarga\|boca amarga]], [[Conhecimento/Condições/hiperemese gravidica\|vômito durante a gravidez]].
+- Umidade e calor da vesícula biliar (calor subindo da região visceral).
+- [[Colecistite\|Colecistite]]
+- [[Cálculo biliar\|Cálculo biliar]]
+- [[Má digestão\|Má digestão]]
+- [[Boca amarga\|Boca amarga]]
+- [[Conhecimento/Condições/hiperemese gravidica\|Vômito durante a gravidez]].
 
 </div></div>
 
@@ -259,8 +309,27 @@ Umidade e calor da vesícula biliar (calor subindo da região visceral). [[colec
 Localizada na depressão inferior ao processo espinhoso (apofise) de T11, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Baço. Pi shu.**
-Harmonizar e tonificar baço e estômago. Resolve [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] e [[Conhecimento/Alterações/fatores patogênicos/calor\|calor]]. Ativa o metabolismo das gorduras. Empachamento, dor de estômago, falta de apetite, estômago pesado, tosse de estômago, [[Conhecimento/Alterações/refluxo\|refluxo]], tosse por deficiência de baço. [[Conhecimento/Alterações/diabetes\|diabetes]], [[Conhecimento/Alterações/obesidade\|obesidade]], [[Conhecimento/Alterações/Edema\|edema]] de abdome, [[Conhecimento/Alterações/diarreia\|diarreia]] (logo após comer = deficiência de baço). [[Conhecimento/Alterações/preocupação\|preocupação]], [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], distúrbio circulatório. [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/cansaço mental\|cansaço mental]], [[Conhecimento/Alterações/cansaço físico\|cansaço físico]] com moxa. 
-Ajuda com emagrecimento.
+- Harmonizar e tonificar baço e estômago
+- Resolve [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] e [[Conhecimento/Alterações/fatores patogênicos/calor\|calor]]
+- Ativa o metabolismo das gorduras
+- Empachamento
+- Dor de estômago
+- Falta de apetite
+- Estômago pesado
+- tosse de estômago
+- [[Conhecimento/Alterações/refluxo\|refluxo]]
+- Tosse por deficiência de Baço
+- [[Conhecimento/Alterações/diabetes\|Diabetes]]
+- [[Conhecimento/Alterações/obesidade\|Obesidade]]
+- [[Conhecimento/Alterações/Edema\|Edema]] de abdome
+- [[Conhecimento/Alterações/diarreia\|Diarreia]] (logo após comer = deficiência de Baço
+- [[Conhecimento/Alterações/preocupação\|Preocupação]]
+- [[Conhecimento/Alterações/distúrbios da menstruação\|Distúrbios da menstruação]]
+- Distúrbio circulatório
+- [[Conhecimento/Alterações/cansaço\|Cansaço]]
+- [[Conhecimento/Alterações/cansaço mental\|Cansaço mental]]
+- [[Conhecimento/Alterações/cansaço físico\|Cansaço físico]] com moxa. 
+- Ajuda com [[Conhecimento/Alterações/emagrecimento\|emagrecimento]]
 
 </div></div>
 
@@ -277,7 +346,18 @@ Ajuda com emagrecimento.
 Localizada na depressão inferior ao processo espinhoso (apofise) de T12, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Estômago**
-Alivia retenção de alimentos. Estimula descendência do estômago. [[Conhecimento/Alterações/vômito\|vômito]], [[Conhecimento/Alterações/refluxo\|refluxo]], [[Conhecimento/Alterações/gastrite\|gastrite]], [[Conhecimento/Alterações/dor abdominal\|dor abdominal]], [[Conhecimento/Alterações/esofagite\|esofagite]], [[Conhecimento/Alterações/soluço\|soluço]], [[Conhecimento/Alterações/diarreia\|diarreia]], [[Conhecimento/Alterações/constipação\|constipação]], [[distúrbio do apetite\|distúrbio do apetite]], [[Conhecimento/Alterações/lombalgia\|lombalgia]]. 
+- Alivia retenção de alimentos
+- Estimula descendência do estômago
+- [[Conhecimento/Alterações/vômito\|Vômito]]
+- [[Conhecimento/Alterações/refluxo\|Refluxo]]
+- [[Conhecimento/Alterações/gastrite\|Gastrite]]
+- [[Conhecimento/Alterações/dor abdominal\|Dor abdominal]]
+- [[Conhecimento/Alterações/esofagite\|Esofagite]]
+- [[Conhecimento/Alterações/soluço\|Soluço]]
+- [[Conhecimento/Alterações/diarreia\|Diarreia]]
+- [[Conhecimento/Alterações/constipação\|Constipação]]
+- [[Distúrbio do apetite\|Distúrbio do apetite]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]. 
 
 </div></div>
 
@@ -294,7 +374,14 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L1, a 1,5 t
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Triplo Aquecedor.**
-Envolvido com água e temperatura. Abre a via das águas no Aquecedor inferior. Estimula transformação e eliminação dos fluidos impuros. [[Conhecimento/Alterações/Edema\|Edema]]. [[distúrbio do sistema urinária\|distúrbio do sistema urinária]]. [[micção dolorosa\|micção dolorosa]], [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]], [[Conhecimento/Alterações/enurese noturna\|enurese noturna]].
+- Envolvido com água e temperatura
+- Abre a via das águas no Aquecedor inferior
+- Estimula transformação e eliminação dos fluidos impuros
+- [[Conhecimento/Alterações/Edema\|Edema]]
+- [[Distúrbio do sistema urinário\|Distúrbio do sistema urinário]]
+- [[Micção dolorosa\|Micção dolorosa]]
+- [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]]
+- [[Conhecimento/Alterações/enurese noturna\|enurese noturna]].
 
 </div></div>
 
@@ -311,7 +398,20 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha d
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Rim.**
-Tonifica o Rim, nutre a essência, nutre o Xue, beneficia ossos e medula, aumenta leucócitos, [[leucopenia\|leucopenia]], [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]] com outros, tonifica yang do rim (moxa), [[impotência\|impotência]], [[Conhecimento/Alterações/infertilidade\|infertilidade]], [[espermatorreia\|espermatorreia]], [[Conhecimento/Alterações/baixa libido\|baixa libido]], [[Conhecimento/Alterações/zumbido\|zumbido]], [[Conhecimento/Alterações/surdez\|surdez]], [[Conhecimento/Alterações/labirintite\|labirintite]]. 
+- Tonifica o Rim
+- Nutre a essência
+- Nutre o Xue
+- Beneficia ossos e medula
+- Aumenta leucócitos
+	- [[leucopenia\|leucopenia]] 
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]] 
+- Com outros, tonifica Yang do Rim (moxa)
+- [[Conhecimento/Alterações/impotência sexual\|Impotência sexual]]
+- [[Conhecimento/Alterações/infertilidade\|Infertilidade]]
+- [[Espermatorreia\|Espermatorreia]]
+- [[Conhecimento/Alterações/baixa libido\|Baixa libido]]
+- [[Conhecimento/Alterações/zumbido\|Zumbido]], [[Conhecimento/Alterações/surdez\|surdez]], [[Conhecimento/Alterações/labirintite\|labirintite]]. 
 [[patologia óssea\|patologia óssea]] (junto com mestre dos ossos [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]])
 
 ### Combinações
@@ -334,7 +434,9 @@ Tonifica o Rim, nutre a essência, nutre o Xue, beneficia ossos e medula, aument
 Localizada na depressão inferior ao processo espinhoso (apófise) de L3, a 1,5 tsun lateralmente do centro da coluna. Um pouco abaixo da linha do umbigo.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Vaso da concepção.**
-Harmoniza Qi e Xue. [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[irregularidade menstrual\|irregularidade menstrual]] 
+- Harmoniza Qi e Xue
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
+- [[Conhecimento/Alterações/menstruação irregular\|menstruação irregular]]
 
 </div></div>
 
@@ -349,8 +451,22 @@ Harmoniza Qi e Xue. [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[irregu
 ### Localização
 Localizada na depressão inferior ao processo espinhoso (apofise) de L4, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
-[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do intestino grosso. Da Chang Shu.
-[[Conhecimento/Alterações/constipação\|Constipação]], [[Conhecimento/Alterações/diarreia\|diarreia]], [[espasmo intestinal\|espasmo intestinal]], [[Conhecimento/Alterações/prolapso do reto\|prolapso do reto]], dor da [[evacuação\|evacuação]], dificuldade de [[evacuação\|evacuação]], [[síndrome do intestino irritável\|síndrome do intestino irritável]], [[colite\|colite]], [[gases\|gases]], [[Conhecimento/Alterações/hemorroida\|hemorróida]]. Massagear entre 5:00 e 7:00. Harmoniza e umidifica intestinos. Alivia plenitude. Fortalece região lombar baixa.
+**[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Intestino Grosso**.
+- [[Conhecimento/Alterações/constipação\|Constipação]]
+- [[Conhecimento/Alterações/diarreia\|Diarreia]]
+- [[Espasmo intestinal\|Espasmo intestinal]]
+- [[Conhecimento/Alterações/prolapso do reto\|Prolapso do reto]]
+- Dor da evacuação
+- Dificuldade de evacuação
+- [[Síndrome do intestino irritável\|Síndrome do intestino irritável]]
+- [[Colite\|Colite]]
+- [[Gases\|Gases]]
+- [[Conhecimento/Alterações/hemorroida\|Hemorróida]].
+
+Massagear entre 5:00 e 7:00
+* Harmoniza e umidifica intestinos
+* Alivia plenitude
+* Fortalece região lombar baixa.
 
 </div></div>
 
@@ -366,7 +482,10 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L4, a 1,5 t
 Borda inferior da L5
 ### Indicações
 Correspondente ao ponto [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]].
-[[Irregularidade intestinal\|Irregularidade intestinal]], patologias de trompas e ovário. Moxa para [[distúrbio sexual\|distúrbio sexual]]. [[Conhecimento/Alterações/lombalgia\|lombalgia]] 
+- [[Irregularidade intestinal\|Irregularidade intestinal]]
+- Patologias de trompas e ovário
+- Moxa para [[distúrbio sexual\|distúrbio sexual]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]] 
 
 
 
@@ -384,7 +503,11 @@ Correspondente ao ponto [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC0
 Primeiro forame sacral nível S1 e S2.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do intestino delgado.**
-Melhora movimento da água. Xiao Chang Shu. Harmoniza via das águas. [[Conhecimento/Alterações/constipação\|constipação]], [[hernia inguinal\|hernia inguinal]], beneficia a micção. 
+- Melhora movimento da água
+- Harmoniza via das águas
+- [[Conhecimento/Alterações/constipação\|Constipação]]
+- [[Hernia inguinal\|Hernia inguinal]]
+- Beneficia a micção. 
 
 </div></div>
 
@@ -416,7 +539,13 @@ Melhora movimento da água. Xiao Chang Shu. Harmoniza via das águas. [[Conhecim
 ### Localização
 No centro da fossa poplitea. 
 ### Indicações
-Usado como ponto local, equilíbrio para dor e sangria (veia visível no mal jeito para [[Conhecimento/Alterações/lombalgia\|lombalgia]]. Elimina excesso e calor na bexiga. Queimação na micção. Relaxa músculos e tendões no meridiano. [[hérnia de disco\|hérnia de disco]], acalma o feto ([[gravidez\|gravidez]]). 
+- Usado como ponto local
+- equilíbrio para dor e sangria (veia visível no mal jeito para [[Conhecimento/Alterações/lombalgia\|lombalgia]]
+- Elimina excesso e calor na bexiga
+- Queimação na micção
+- Relaxa músculos e tendões no meridiano
+- [[hérnia de disco\|hérnia de disco]]
+- [[acalma o feto\|acalma o feto]] ([[gravidez\|gravidez]]). 
 
 </div></div>
 
@@ -435,7 +564,12 @@ No final do tendão de Aquiles, antes do músculo.
 ### Indicações
 Agulha em sedação para sustentação emocional.
 
-Perpendicular relaxa tendões [[Conhecimento/Alterações/Cãibra\|Cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]]. Pernas cansadas, para quem trabalha muito em pé ou caminhando. [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]], [[Conhecimento/Alterações/trombose\|trombose]], [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]. 
+Perpendicular relaxa tendões [[Conhecimento/Alterações/Cãibra\|Cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
+Pernas cansadas, para quem trabalha muito em pé ou caminhando.
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Conhecimento/Alterações/trombose\|Trombose]]
+- [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]. 
 
 
 </div></div>
@@ -450,10 +584,25 @@ Perpendicular relaxa tendões [[Conhecimento/Alterações/Cãibra\|Cãibra]] com
 
 ## Kunlun
 ### Localização
-Na metade da distância entre a crista do maleolo lateral e o tendão de Aquiles.
+Na metade da distância entre a crista do maléolo lateral e o tendão de Aquiles.
 
 ### Indicações
-Libera endorfinas ao longo do trajeto, causando analgesia.  [[Raiz/fascite plantar\|fascite plantar]], [[Conhecimento/Alterações/esporão calcâneo\|esporão calcâneo]], [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]], [[entorse\|entorse]], [[Conhecimento/Alterações/cefaleia\|cefaleia]], [[Conhecimento/Alterações/cefaleia\|cefaleia]] frontal ou occipital, [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]], queimação na micção, harmoniza Xue, revigora Xue, menstruação com coágulo escuro, [[Conhecimento/Alterações/hemiplegia\|hemiplegia]], [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]], estimula trabalho de parto ([[gravidez\|gravidez]]), retenção placentaria.
+- Libera endorfinas ao longo do trajeto, causando analgesia.
+- [[Raiz/fascite plantar\|Fascite plantar]]
+- [[Conhecimento/Alterações/esporão calcâneo\|Esporão calcâneo]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Entorse\|Entorse]]
+- [[Conhecimento/Alterações/cefaleia\|Cefaleia]], [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]] ou [[Conhecimento/Alterações/cefaleia occipital\|occipital]]
+- [[Conhecimento/Alterações/incontinência urinária\|Incontinência urinária]]
+- Queimação na micção
+- Harmoniza Xue
+- Revigora Xue
+- Menstruação com coágulo escuro
+- [[Conhecimento/Alterações/hemiplegia\|Hemiplegia]]
+- [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]
+- Estimula trabalho de parto ([[gravidez\|gravidez]])
+- [[retenção placentária\|retenção placentária]].
 
 > [!NOTE] Endrofinas e analgesia 
 > [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]] endorfinas cintura para baixo 
@@ -475,7 +624,10 @@ Libera endorfinas ao longo do trajeto, causando analgesia.  [[Raiz/fascite plant
 ### Localização
 Na depressão inferior da crista do maleolo lateral.
 ### Indicações
-Relaxa tendões e músculos na parte externa da perna. [[Raiz/fascite plantar\|fascite plantar]], Confluência com [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]] - relaxa pescoço, trapézio e ombros.
+Relaxa tendões e músculos na parte externa da perna. [[Raiz/fascite plantar\|fascite plantar]]
+
+Confluência com [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]] - relaxa pescoço, trapézio e ombros.
+
 Confluência com [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]] - [[Conhecimento/Alterações/insônia\|insônia]]
 
 </div></div>
@@ -504,7 +656,8 @@ Ponto de sedação.
 ### Localização
 Ao longo do meridiano anterior a região metatarso-falangiana do quinto dedo.
 ### Indicações
-[[Raiz/fascite plantar\|Fascite plantar]], [[Conhecimento/Alterações/cistite\|cistite]] aguda
+- [[Raiz/fascite plantar\|Fascite plantar]]
+- [[Conhecimento/Alterações/cistite\|cistite]] aguda
 
 </div></div>
 
@@ -521,10 +674,11 @@ ponto de tonificação.
 ### Localização
 Na face lateral leito ungueal do quinto dedo.
 ### Indicações
-Acalma o feto. 
-Moxa junto agulha em [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] e em [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] indução do parto.
-Sangria desobstruir o meridiano, dor ao longo do trajeto.
-Excelente [[Conhecimento/Alterações/Diurético\|diurético]] junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B02\|B02]].
+- Acalma o feto. 
+- Sangria desobstruir o meridiano, dor ao longo do trajeto.
+### Combinações
+- Moxa junto agulha em [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] e em [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] indução do parto.
+- Excelente [[Conhecimento/Alterações/Diurético\|diurético]] junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B02\|B02]].
 
 </div></div>
 

@@ -9,4 +9,9 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T10, a 1,5 
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] da Vesícula Biliar.**
-Umidade e calor da vesícula biliar (calor subindo da região visceral). [[colecistite\|colecistite]], [[cálculo biliar\|cálculo biliar]], [[má digestão\|má digestão]], [[boca amarga\|boca amarga]], [[Conhecimento/Condições/hiperemese gravidica\|vômito durante a gravidez]].
+- Umidade e calor da vesícula biliar (calor subindo da região visceral).
+- [[Colecistite\|Colecistite]]
+- [[Cálculo biliar\|Cálculo biliar]]
+- [[Má digestão\|Má digestão]]
+- [[Boca amarga\|Boca amarga]]
+- [[Conhecimento/Condições/hiperemese gravidica\|Vômito durante a gravidez]].

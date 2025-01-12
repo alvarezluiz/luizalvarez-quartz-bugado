@@ -9,5 +9,10 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T4, a 1,5 t
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do pericárdio.**
-Regulariza e harmoniza o Qi do coração. [[Conhecimento/Alterações/arritimia\|arritimia]], [[Conhecimento/Alterações/Taquicardia\|taquicardia]], [[angina\|angina]], [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Conhecimento/Alterações/ansiedade\|ansiedade]]. Ponto calmante.
-*[[Acalma mente\|Acalma mente]]*
+- Regulariza e harmoniza o Qi do coração.
+- [[Conhecimento/Alterações/arritimia\|Arritimia]]
+- [[Conhecimento/Alterações/Taquicardia\|Taquicardia]]
+- [[Angina\|Angina]]
+- [[Conhecimento/Alterações/opressão torácica\|Opressão torácica]]
+- [[Conhecimento/Alterações/ansiedade\|Ansiedade]]
+- [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Ponto calmante]]

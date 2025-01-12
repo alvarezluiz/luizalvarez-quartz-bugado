@@ -8,4 +8,15 @@
 Localizada na depressão inferior ao processo espinhoso (apofise) de T12, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Estômago**
-Alivia retenção de alimentos. Estimula descendência do estômago. [[Conhecimento/Alterações/vômito\|vômito]], [[Conhecimento/Alterações/refluxo\|refluxo]], [[Conhecimento/Alterações/gastrite\|gastrite]], [[Conhecimento/Alterações/dor abdominal\|dor abdominal]], [[Conhecimento/Alterações/esofagite\|esofagite]], [[Conhecimento/Alterações/soluço\|soluço]], [[Conhecimento/Alterações/diarreia\|diarreia]], [[Conhecimento/Alterações/constipação\|constipação]], [[distúrbio do apetite\|distúrbio do apetite]], [[Conhecimento/Alterações/lombalgia\|lombalgia]]. 
+- Alivia retenção de alimentos
+- Estimula descendência do estômago
+- [[Conhecimento/Alterações/vômito\|Vômito]]
+- [[Conhecimento/Alterações/refluxo\|Refluxo]]
+- [[Conhecimento/Alterações/gastrite\|Gastrite]]
+- [[Conhecimento/Alterações/dor abdominal\|Dor abdominal]]
+- [[Conhecimento/Alterações/esofagite\|Esofagite]]
+- [[Conhecimento/Alterações/soluço\|Soluço]]
+- [[Conhecimento/Alterações/diarreia\|Diarreia]]
+- [[Conhecimento/Alterações/constipação\|Constipação]]
+- [[Distúrbio do apetite\|Distúrbio do apetite]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]. 

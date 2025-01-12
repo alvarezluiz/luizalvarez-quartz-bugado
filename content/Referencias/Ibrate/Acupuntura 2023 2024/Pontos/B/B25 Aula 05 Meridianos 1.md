@@ -7,5 +7,19 @@
 ### Localização
 Localizada na depressão inferior ao processo espinhoso (apofise) de L4, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
-[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do intestino grosso. Da Chang Shu.
-[[Conhecimento/Alterações/constipação\|Constipação]], [[Conhecimento/Alterações/diarreia\|diarreia]], [[espasmo intestinal\|espasmo intestinal]], [[Conhecimento/Alterações/prolapso do reto\|prolapso do reto]], dor da [[evacuação\|evacuação]], dificuldade de [[evacuação\|evacuação]], [[síndrome do intestino irritável\|síndrome do intestino irritável]], [[colite\|colite]], [[gases\|gases]], [[Conhecimento/Alterações/hemorroida\|hemorróida]]. Massagear entre 5:00 e 7:00. Harmoniza e umidifica intestinos. Alivia plenitude. Fortalece região lombar baixa.
+**[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Intestino Grosso**.
+- [[Conhecimento/Alterações/constipação\|Constipação]]
+- [[Conhecimento/Alterações/diarreia\|Diarreia]]
+- [[Espasmo intestinal\|Espasmo intestinal]]
+- [[Conhecimento/Alterações/prolapso do reto\|Prolapso do reto]]
+- Dor da evacuação
+- Dificuldade de evacuação
+- [[Síndrome do intestino irritável\|Síndrome do intestino irritável]]
+- [[Colite\|Colite]]
+- [[Gases\|Gases]]
+- [[Conhecimento/Alterações/hemorroida\|Hemorróida]].
+
+Massagear entre 5:00 e 7:00
+* Harmoniza e umidifica intestinos
+* Alivia plenitude
+* Fortalece região lombar baixa.

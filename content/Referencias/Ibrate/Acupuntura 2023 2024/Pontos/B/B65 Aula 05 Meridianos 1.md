@@ -8,4 +8,5 @@ Ponto de sedação.
 ### Localização
 Ao longo do meridiano anterior a região metatarso-falangiana do quinto dedo.
 ### Indicações
-[[Raiz/fascite plantar\|Fascite plantar]], [[Conhecimento/Alterações/cistite\|cistite]] aguda
+- [[Raiz/fascite plantar\|Fascite plantar]]
+- [[Conhecimento/Alterações/cistite\|cistite]] aguda

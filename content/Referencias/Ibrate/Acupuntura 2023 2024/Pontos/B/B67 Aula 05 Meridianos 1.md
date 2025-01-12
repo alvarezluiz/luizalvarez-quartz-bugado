@@ -8,7 +8,8 @@ ponto de tonificação.
 ### Localização
 Na face lateral leito ungueal do quinto dedo.
 ### Indicações
-Acalma o feto. 
-Moxa junto agulha em [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] e em [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] indução do parto.
-Sangria desobstruir o meridiano, dor ao longo do trajeto.
-Excelente [[Conhecimento/Alterações/Diurético\|diurético]] junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B02\|B02]].
+- Acalma o feto. 
+- Sangria desobstruir o meridiano, dor ao longo do trajeto.
+### Combinações
+- Moxa junto agulha em [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] e em [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] indução do parto.
+- Excelente [[Conhecimento/Alterações/Diurético\|diurético]] junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B02\|B02]].

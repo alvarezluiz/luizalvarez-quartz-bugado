@@ -9,7 +9,20 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha d
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Rim.**
-Tonifica o Rim, nutre a essência, nutre o Xue, beneficia ossos e medula, aumenta leucócitos, [[leucopenia\|leucopenia]], [[Conhecimento/Alterações/lombalgia\|lombalgia]], [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]] com outros, tonifica yang do rim (moxa), [[impotência\|impotência]], [[Conhecimento/Alterações/infertilidade\|infertilidade]], [[espermatorreia\|espermatorreia]], [[Conhecimento/Alterações/baixa libido\|baixa libido]], [[Conhecimento/Alterações/zumbido\|zumbido]], [[Conhecimento/Alterações/surdez\|surdez]], [[Conhecimento/Alterações/labirintite\|labirintite]]. 
+- Tonifica o Rim
+- Nutre a essência
+- Nutre o Xue
+- Beneficia ossos e medula
+- Aumenta leucócitos
+	- [[leucopenia\|leucopenia]] 
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]] 
+- Com outros, tonifica Yang do Rim (moxa)
+- [[Conhecimento/Alterações/impotência sexual\|Impotência sexual]]
+- [[Conhecimento/Alterações/infertilidade\|Infertilidade]]
+- [[Espermatorreia\|Espermatorreia]]
+- [[Conhecimento/Alterações/baixa libido\|Baixa libido]]
+- [[Conhecimento/Alterações/zumbido\|Zumbido]], [[Conhecimento/Alterações/surdez\|surdez]], [[Conhecimento/Alterações/labirintite\|labirintite]]. 
 [[patologia óssea\|patologia óssea]] (junto com mestre dos ossos [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]])
 
 ### Combinações

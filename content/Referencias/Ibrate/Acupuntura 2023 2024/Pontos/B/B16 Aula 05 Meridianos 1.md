@@ -8,4 +8,7 @@
 Localizada na depressão inferior ao processo espinhoso (apofise) de T6, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do vaso governador**.
-Harmoniza Qi do tórax. Fortalece diafragma. [[Conhecimento/Alterações/palpitação\|palpitação]]. [[Conhecimento/Alterações/soluço\|soluço]].
+- Harmoniza Qi do tórax
+- Fortalece diafragma
+- [[Conhecimento/Alterações/palpitação\|Palpitação]]
+- [[Conhecimento/Alterações/soluço\|Soluço]].

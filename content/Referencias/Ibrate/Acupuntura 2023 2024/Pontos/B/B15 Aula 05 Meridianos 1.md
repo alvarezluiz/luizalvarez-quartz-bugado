@@ -9,4 +9,10 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T5, a 1,5 t
 
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do coração. Xin shu.**
-Harmoniza Qi e Xue. Dissolve estagnação energética de Xue. Estimula capacidade intelectual e fala em crianças. Acalma a mente (agulha). Controla a [[Conhecimento/Alterações/ansiedade\|ansiedade]]. [[Conhecimento/Alterações/insônia\|insônia]]. Estimula o cérebro, pode usar com moxa.
+- Harmoniza Qi e Xue
+- Dissolve estagnação energética de Xue
+- Estimula capacidade intelectual e fala em crianças
+- [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Acalma a mente]] (agulha)
+- Controla a [[Conhecimento/Alterações/ansiedade\|ansiedade]]
+- [[Conhecimento/Alterações/insônia\|Insônia]]
+- Estimula o cérebro, pode usar com moxa.

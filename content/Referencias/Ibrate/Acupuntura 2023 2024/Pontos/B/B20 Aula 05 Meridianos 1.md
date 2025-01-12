@@ -8,5 +8,24 @@
 Localizada na depressão inferior ao processo espinhoso (apofise) de T11, a 1,5 tsun lateralmente do centro da coluna.
 ### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] do Baço. Pi shu.**
-Harmonizar e tonificar baço e estômago. Resolve [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] e [[Conhecimento/Alterações/fatores patogênicos/calor\|calor]]. Ativa o metabolismo das gorduras. Empachamento, dor de estômago, falta de apetite, estômago pesado, tosse de estômago, [[Conhecimento/Alterações/refluxo\|refluxo]], tosse por deficiência de baço. [[Conhecimento/Alterações/diabetes\|diabetes]], [[Conhecimento/Alterações/obesidade\|obesidade]], [[Conhecimento/Alterações/Edema\|edema]] de abdome, [[Conhecimento/Alterações/diarreia\|diarreia]] (logo após comer = deficiência de baço). [[Conhecimento/Alterações/preocupação\|preocupação]], [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], distúrbio circulatório. [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/cansaço mental\|cansaço mental]], [[Conhecimento/Alterações/cansaço físico\|cansaço físico]] com moxa. 
-Ajuda com emagrecimento.
+- Harmonizar e tonificar baço e estômago
+- Resolve [[Conhecimento/Alterações/fatores patogênicos/umidade\|umidade]] e [[Conhecimento/Alterações/fatores patogênicos/calor\|calor]]
+- Ativa o metabolismo das gorduras
+- Empachamento
+- Dor de estômago
+- Falta de apetite
+- Estômago pesado
+- tosse de estômago
+- [[Conhecimento/Alterações/refluxo\|refluxo]]
+- Tosse por deficiência de Baço
+- [[Conhecimento/Alterações/diabetes\|Diabetes]]
+- [[Conhecimento/Alterações/obesidade\|Obesidade]]
+- [[Conhecimento/Alterações/Edema\|Edema]] de abdome
+- [[Conhecimento/Alterações/diarreia\|Diarreia]] (logo após comer = deficiência de Baço
+- [[Conhecimento/Alterações/preocupação\|Preocupação]]
+- [[Conhecimento/Alterações/distúrbios da menstruação\|Distúrbios da menstruação]]
+- Distúrbio circulatório
+- [[Conhecimento/Alterações/cansaço\|Cansaço]]
+- [[Conhecimento/Alterações/cansaço mental\|Cansaço mental]]
+- [[Conhecimento/Alterações/cansaço físico\|Cansaço físico]] com moxa. 
+- Ajuda com [[Conhecimento/Alterações/emagrecimento\|emagrecimento]]
