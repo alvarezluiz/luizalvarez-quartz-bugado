@@ -1,5 +1,5 @@
 ---
-{"title":"04 - Diagnóstico","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2023-09-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-09-16T08:21-03:00"},"end":{"dateTime":"2023-09-16T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"04 - Diagnóstico","NAula":"Aula 4","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2023-09-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-09-16T08:21-03:00"},"end":{"dateTime":"2023-09-16T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

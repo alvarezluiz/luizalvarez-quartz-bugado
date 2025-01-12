@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"02 - Fisiologia Energética","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2023-07-15","NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-07-15T08:25-03:00"},"end":{"dateTime":"2023-07-15T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"publish":true,"title":"02 - Fisiologia Energética","NAula":"Aula 2","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2023-07-15","NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-07-15T08:25-03:00"},"end":{"dateTime":"2023-07-15T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

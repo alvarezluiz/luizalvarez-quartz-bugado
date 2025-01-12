@@ -1,5 +1,5 @@
 ---
-{"title":"05 - Meridianos 1 - 1. Introdução","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-10-14","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-10-14T08:25-03:00"},"end":{"dateTime":"2023-10-14T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"05 - Meridianos 1 - 1. Introdução","NAula":"Aula 5","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-10-14","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-10-14T08:25-03:00"},"end":{"dateTime":"2023-10-14T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
