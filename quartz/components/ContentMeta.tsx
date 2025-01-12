@@ -32,6 +32,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
+      // Exibe o autor como um link - atualizado com ChatGPT
+      if (fileData.frontmatter?.autor) {
+        segments.push(
+          <a href={`/autor/${encodeURIComponent(fileData.frontmatter.autor)}`}>
+            {fileData.frontmatter.autor}
+          </a>
+        );
+      }
+
 
       // Display reading time if enabled
       if (options.showReadingTime) {
