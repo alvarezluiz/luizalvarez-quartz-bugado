@@ -1,0 +1,32 @@
+---
+{"publish":true,"title":"Pontos (Ibrate)","PassFrontmatter":true}
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/index" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/index\|Bexiga]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/BP/index\|Baço]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/C/index\|Coração]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/E/index\|Estômago]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/index\|Fígado]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/index\|Intestino Delgado]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/IG/index\|Intestino Grosso]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/P/index\|Pulmão]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/PC/index\|Pericárdio]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/R/index\|Rim]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/TA/index\|Triplo Aquecedor]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VB/index\|Vesícula Biliar]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/index\|Vaso da Concepção]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VG/index\|Vaso Governador]]
+
+
+
+
+
+
+</div></div>

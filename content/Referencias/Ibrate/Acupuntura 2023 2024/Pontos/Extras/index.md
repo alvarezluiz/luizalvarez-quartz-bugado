@@ -1,5 +1,5 @@
 ---
-{"autor":"Doren Sayuri Kato","NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"title":"Índice","publish":true,"PassFrontmatter":true}
+{"autor":"Doren Sayuri Kato","NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","title":"Índice","publish":true,"PassFrontmatter":true}
 ---
 
 
@@ -30,6 +30,5 @@
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/Vale das almas Aula 10 Pontos extras\|Vale das almas]]                              |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/Yuyao Aula 10 Pontos extras\|Yuyao]]                                                |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/Yintang Aula 10 Pontos extras\|Yintang]]                                            |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/index\|Índice]]                                                                     |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/Extra da tireoide Aula 10\|Extra da tireóide]]                                      |
 
