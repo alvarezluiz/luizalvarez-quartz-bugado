@@ -6,5 +6,5 @@
 # Localização
 3 pontos distribuídos no peito ungueal do polegar. 
 # Indicações
-Sangria para gripe. 
-Se tiver dor de garganta, com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG01\|IG01]]. 
+Sangria para [[Conhecimento/Alterações/gripe\|gripe]]. 
+Se tiver [[dor de garganta\|dor de garganta]], com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG01\|IG01]]. 

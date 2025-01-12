@@ -3,11 +3,17 @@
 ---
 
 ![Yintang Ibrate.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Yintang%20Ibrate.webp)
-# Localização
-Entre as sobrancelhas 
+## Yintang
+### Localização
+Entre as sobrancelhas<br>
 Chakra da medicina chinesa 
-# Indicações
-[[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Calmante]]. Diferente dos quatro cavaleiros, relacionado ao fogo. 
-Irritação, raiva, [[Conhecimento/Alterações/TPM\|TPM]], problemas relacionados ao nariz, como [[Conhecimento/Alterações/cefaleia\|cefaleia]] de [[Conhecimento/Alterações/rinite\|rinite]] e [[Conhecimento/Alterações/sinusite\|sinusite]]. Efeito parecido ao [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]] para [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalmar a mente]]. 
-Abre os horizontes mentais. 
-Bom para pessoas [[Conhecimento/caracteríscicas de personalidade/metodica\|metódicas]] e [[Conhecimento/caracteríscicas de personalidade/irredutivel\|irredutíveis]].
+### Indicações
+- Diferente dos quatro cavaleiros, relacionado ao fogo. 
+	- [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Calmante]]
+	- Irritação
+	- raiva
+	- [[Conhecimento/Alterações/TPM\|TPM]]
+	- Abre os horizontes mentais. 
+	- bom para pessoas [[Conhecimento/caracteríscicas de personalidade/metodica\|metódicas]] e [[Conhecimento/caracteríscicas de personalidade/irredutivel\|irredutíveis]].
+	- como [[Conhecimento/Alterações/cefaleia\|cefaleia]] de [[Conhecimento/Alterações/rinite\|rinite]] e [[Conhecimento/Alterações/sinusite\|sinusite]]. Efeito parecido ao [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]] 
+- problemas relacionados ao nariz
