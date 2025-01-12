@@ -1,5 +1,5 @@
 ---
-{"title":"12 - 1.1 Fisiologia Energética 2","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-05-25","NivelAcesso":"ibrate","publish":true,"allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-05-25T10:40-03:00"},"end":{"dateTime":"2024-05-25T18:22-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"12 - 1 Fisiologia Energética 2","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-05-25","NivelAcesso":"ibrate","publish":true,"allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-05-25T10:40-03:00"},"end":{"dateTime":"2024-05-25T18:22-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
@@ -129,3 +129,20 @@ Geralmente agudo, voz alta e rude, respiração e movimento pesados, desconforto
 **Pulso:** cheio
 **Língua:** revestimento grosso
 
+## 6 Observações
+## Gestante 
+Para o corpo, bebê é uma estagnação 
+Nao usar meridiano do Fígado
+Não usar meridiano do Baço
+Não usar meridiano do Intestino Grosso 
+Não desestagnar 
+
+~~[[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]~~ e ~~[[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]]~~ principalmente
+
+### Sugestão de pontos
+## Medo
+[[Conhecimento/Acupuntura/Canais/Rim/R10\|R10]]
+[[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]]
+[[Conhecimento/Acupuntura/Canais/Rim/R05\|R05]] 
+### Rebelião do Qi do estômago 
+[[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] 

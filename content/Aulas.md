@@ -3,16 +3,24 @@
 ---
 
 
-## Aula 1
+## Aula 1 
+*[[Professora Simone Tano\|Simone Tano]]*
+- ### [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Teorias de base]]
+## Aula 2
+*[[Professora Simone Tano\|Simone Tano]]*
+### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 Fisiologia Energetica\|Fisiologia energética]]
 
-> [!NOTE] Aula 1
-> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Teorias de base]]
+## Aula 3 
+*[[Professora Monica Helena Soriani\|Monica Soriani]]*
+### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Etiopatogenia]]
+
+## Aula 4 [[Professora Simone Tano\|Simone Tano]]
+### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|Diagnóstico]]
 
 
-> [!NOTE] Aula 5
-> - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Introdução]]
-> - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|Bexiga]]
-
+## Aula 12, [[Professora Simone Tano\|Simone Tano]]
+### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.a Fisiologia Energetica 2\|Fisiologia enertética 2]], 
+### - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.a Inter-relacionamento sistemas Zang\|Inter-relacionamento sistemas Zang]]
 | Aula                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|01 - Teorias de base]]                                                     |
@@ -40,8 +48,7 @@
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.1 Moxa\|11 - 1 Moxa]]                                                                       |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.2 Sangria\|11 - 2 Sangria]]                                                                 |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.3 Ventosa (ba guan zhi)\|11 - 3 Ventosa]]                                                   |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.a Fisiologia Energetica 2\|12 - 1.1 Fisiologia Energética 2]]                             |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.b Fisiologia Energetica 2\|12 - 1.2 Fisiologia Energética 2]]                             |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.a Fisiologia Energetica 2\|12 - 1 Fisiologia Energética 2]]                               |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.a Inter-relacionamento sistemas Zang\|12 - 2 Inter-relacionamento sistemas Zang]]         |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.b Inter-relacionamento entre os sistemas Fu\|12 - 3 Inter-relacionamento sistemas Fu]]    |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.3 Finalizando\|12 - 3 Finalizando]]                                                         |
