@@ -1,5 +1,5 @@
 ---
-{"title":"F1","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"F1","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
@@ -8,5 +8,5 @@
 Leito ungueal do halux, face lateral.
 
 ## Indicações
-- Não usar em gestação ou pós parto.
+- [[Conhecimento/Condições/proibido em gestante\|Não usar em gestação ou pós parto]].
 Remove calor do sangue e para sangramento uterino (sangria) . Resolve calor e umidade nas vias urinárias e genitais. Secreção vaginal, retenção urinária. 

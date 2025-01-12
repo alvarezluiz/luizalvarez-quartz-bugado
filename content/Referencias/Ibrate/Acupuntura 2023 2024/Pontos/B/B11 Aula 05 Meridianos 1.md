@@ -2,13 +2,15 @@
 {"tags":["conhecimento/acupuntura/ponto"],"title":"B11","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
-[[Ponto mestre\|Ponto mestre]] dos ossos
-## Localização
-![Pontos-Bexiga-D.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
 
+
+![Pontos-Bexiga-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
+## Dashu
+### Localização
 Localizada na depressão inferior ao processo espinhoso (apofise) de T1, a 1,5 tsun lateralmente do centro da coluna.
 
-## Indicações
+### Indicações
+**[[Ponto mestre\|Ponto mestre]] dos ossos**
 - [[Fratura\|Fratura]]
 - [[Conhecimento/Alterações/artrose\|Artrose]]
 - [[Conhecimento/Alterações/Osteoporose\|Osteoporose]]

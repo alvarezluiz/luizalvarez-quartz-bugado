@@ -1,5 +1,5 @@
 ---
-{"title":"BP6","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Afeta o útero","PassFrontmatter":true}
+{"title":"BP6","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Afeta o útero","PassFrontmatter":true}
 ---
 
 

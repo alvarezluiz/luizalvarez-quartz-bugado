@@ -1,5 +1,5 @@
 ---
-{"title":"VB20","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Não usar antes da maturidade do feto","PassFrontmatter":true}
+{"title":"VB20","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Não usar antes da maturidade do feto","PassFrontmatter":true}
 ---
 
 

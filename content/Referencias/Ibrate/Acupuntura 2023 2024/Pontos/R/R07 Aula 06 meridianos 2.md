@@ -1,5 +1,5 @@
 ---
-{"title":"R7","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"R7","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 Ponto metal da água 

@@ -1,5 +1,5 @@
 ---
-{"title":"VB21","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Promove parto","PassFrontmatter":true}
+{"title":"VB21","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Promove parto","PassFrontmatter":true}
 ---
 
 ## Localização

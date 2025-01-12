@@ -1,5 +1,5 @@
 ---
-{"title":"F3","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"F3","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 Ponto fonte do fígado 
@@ -15,7 +15,7 @@ Acalma [[espasmo\|espasmos]], contrações e [[cãibras\|cãibras]] musculares.
 Pacifica e [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]]. Acalma [[Conhecimento/Acupuntura/efeitos de acupuntura/Yang do Fígado\|Yang do Fígado]]. 
 [[Cefaleia lateral\|Cefaleia lateral]] e [[cefaleia no topo da cabeça\|cefaleia no topo da cabeça]]. 
 [[Conhecimento/Alterações/vertigem\|vertigem]], [[Conhecimento/Alterações/zumbido\|zumbido]], [[Conhecimento/Alterações/hipertensão\|hipertensão]] arterial 
-Tosse com vômito, flatulência na garganta (vontade de por pra fora, ao contrário de baço pâncreas, que engole sapo).
+Tosse com vômito, flatulência na garganta (vontade de por pra fora, ao contrário de Baço que engole sapo).
 [[Conhecimento/Alterações/lactação\|Lactação]] difícil, [[Conhecimento/Alterações/pré-eclâmpsia\|pré-eclâmpsia]] 
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["conhecimento/acupuntura/ponto"],"title":"BP9","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","PassFrontmatter":true}
+{"tags":["conhecimento/acupuntura/ponto"],"title":"BP9","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
 Ponto mestre da circulação venosa 

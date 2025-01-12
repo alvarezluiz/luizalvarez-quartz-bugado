@@ -1,5 +1,5 @@
 ---
-{"title":"VB1","autor":"Doren Sayuri Kato","date":"2023-10-15","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"VB1","autor":"Doren Sayuri Kato","date":"2023-10-15","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização

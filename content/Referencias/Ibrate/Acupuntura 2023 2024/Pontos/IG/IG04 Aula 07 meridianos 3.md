@@ -1,5 +1,5 @@
 ---
-{"title":"IG4","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Promove o parto","PassFrontmatter":true}
+{"title":"IG4","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"ObservaçaoGestante":"Promove o parto","PassFrontmatter":true}
 ---
 
 Ponto fonte

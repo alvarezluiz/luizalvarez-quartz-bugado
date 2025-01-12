@@ -15,104 +15,202 @@ Começa na caixa torácica e termina na mão. Literaturas antigas usava posiçã
 
 ## Indicações gerais 
 Distúrbios respiratórios, pele, pelos, tristeza, dores e parestesia no trajeto 
-## Trajeto do meridiano
-![Meridiano P.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/Meridiano%20P.webp)
 ## Tronco
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P01\|P01]]
-![P01.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P01.webp)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P01-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 Ponto alarme 
-**Localização**
+## Localização
+![pontos-pulmao-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-c.webp)
+ 
 6 tsun lateral da linha central no segundo espaço intercostal. 
-**Indicação**
+
+## Indicação
 Estimula a descida do Qi do Pulmão. Pode ser usado em excesso de Pulmão. 
 
+</div></div>
+
+
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P02\|P02]]
-![P02.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P02.webp)
-**Localização**
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P02-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Localização
+![pontos-pulmao-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-c.webp)
+ 
 6 tsun da linha central, primeiro espaço intercostal, logo abaixo da clavícula. 
-**Indicação**
+
+## Indicação
 Estimula descida do Qi do pulmão ([[Conhecimento/Acupuntura/Canais/Pulmao/P01\|P01]] geralmente melhor)
+
+</div></div>
+
 
 ## Braço
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P05\|P05]]
-![P05.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P05.webp)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P05-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
 Ponto de sedação retira calor.
 Perpendicular da água ao Pulmão
 Ponto água dentro do metal. 
-**Localização**
+
+## Localização
+![pontos-pulmao-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-b.webp)
+ 
 Lateral ao tendão do bíceps. 
-**Indicação**
+
+## Indicação
 Promove dispersão e descendência do Qi do Pulmão. 
-Enfisema, plenitude torácica, acne, espinha, tabagismo (calor do Pulmão), alopecia areata (normalmente causada por stress, usar [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]] + [[Conhecimento/Acupuntura/Canais/Coraçao/C07\|C07]])
-Fleugma grossa, amarelada combinar com [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]]
-Epicondilite 
+[[Enfisema\|Enfisema]], [[Conhecimento/Alterações/plenitude torácica\|plenitude torácica]], [[Conhecimento/Alterações/acne\|acne]], espinha, [[Conhecimento/Alterações/tabagismo\|tabagismo]] (calor do Pulmão), [[alopecia areata\|alopecia areata]] (normalmente causada por stress, usar [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]] + [[Conhecimento/Acupuntura/Canais/Coraçao/C07\|C07]])
+[[Conhecimento/Alterações/fatores patogênicos/fleugma\|Fleugma]] grossa, amarelada combinar com [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]]
+[[Epicondilite\|Epicondilite]]
+
+</div></div>
+
 
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P06\|P06]]
-![P06.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P06.webp)
-**Localização**
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P06-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Localização
+![pontos-pulmao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-a.webp)
+ 
 5 tsun abaixo do [[Conhecimento/Acupuntura/Canais/Pulmao/P05\|P05]], um pouco acima da metade do Antebraço. 
-**Indicação**
+
+## Indicações 
 Ponto de emergência do Pulmão (dispneia) (ou [[Conhecimento/Acupuntura/Canais/Pulmao/P10\|P10]])
 Regulariza Qi do Pulmão, faz o Qi descer. 
 Região da garganta. 
 
+</div></div>
+
+
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]]
-![P07.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P07.webp)
-lieque (sequência quebrada)
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P07-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Lieque (sequência quebrada)
 Ponto Luo e de Confluência 
-**Localização**
+
+## Localização
+![pontos-pulmao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-a.webp)
+ 
 1,5 tsun antes da prega do punho.
 Ou superior ao processo estiloide. 
-**Indicação**
-Constipação 
+
+## Indicações 
+[[Conhecimento/Alterações/constipação\|Constipação]] 
 Confluência com [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]] estimula garganta, nariz e olhos. (R06 manda umidade para regeneração)
 Principal ponto do Pulmão. Estimula descida e dispersão do Qi e das aguas. 
-Retira fleugma e elimina vento perverso do Pulmão. Coriza e catarro vão sair por tosse ou fezes. Pneumonia. 
+Retira fleugma e elimina vento perverso do Pulmão. Coriza e catarro vão sair por tosse ou fezes. [[Pneumonia\|Pneumonia]]. 
 Edema da face, combinar com [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]] ou [[Conhecimento/Acupuntura/Canais/Estomago/E41\|E41]].
 Cefaleia. Estimula circulação de Qi Defensivo. 
-Com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG20\|IG20]] melhora Coriza. Nariz trancado, sinusite. 
-Tristeza, melancolia, extravasamento de emoções reprimidas. 
+Com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG20\|IG20]] melhora Coriza. Nariz trancado, [[Conhecimento/Alterações/sinusite\|sinusite]]. 
+[[Conhecimento/Alterações/tristeza\|Tristeza]], [[Conhecimento/Alterações/Melancolia\|melancolia]], extravasamento de [[emoções reprimidas\|emoções reprimidas]]. 
+
+</div></div>
+
 
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P08\|P08]]
-![P08.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P08.webp)
-**Localização**
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P08-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Localização
+![pontos-pulmao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-a.webp)
+ 
 1 tsun depois da prega do punho. 
 Não usar moxa. Ponto metal do metal. 
-**Indicação**
+
+## Indicações 
 Estimula secura. 
 Sedando bom para tosse sem secreção. Tosse seca. Tosse não produtiva. Tosse alérgica. 
 Tonificando, tosse produtiva.
 Sudorese excessiva. 
 
+</div></div>
+
+
 ## Mão
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P09\|P09]]
-![P09.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P09.webp)
-**Localização**
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P09-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Localização
+![pontos-pulmao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-a.webp)
+ 
 Prega do punho antes do início do polegar. 
 Ponto de tonificação 
 Ponto fonte. 
 Ponto mestre dos vasos sangüíneos. 
-**Indicação**
+
+## Indicação
 Deficiência de Pulmão. Dispneia, especialmente por esforço e voz fraca. 
 Resolve fleugma. Melhorar circulação de Qi e Xue. 
 Melhora retornos venoso. Varizes. Varicose. Flebite. 
 Extremidades frias com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]] e [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]]. 
 Leucemia não. 
 Luto com deficiência de Pulmão. 
+Secura do Pulmão ([[Aula 13 Síndromes 1.4 - Pulmão (Fei)b\|Aula 13 Síndromes 1.4 - Pulmão (Fei)b]])
+
+</div></div>
+
 
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P10\|P10]]
-![P10.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P10.webp)
-**Localização**
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P10-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Localização
 No meio da região tenar. 
-**Indicação**
-Broncoespasmo. Dispneia. Elimina calor do Pulmão. 
+![pontos-pulmao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-a.webp)
+ 
+## Indicação
+Broncoespasmo. Dispneia. Elimina calor do Pulmão.
+
+</div></div>
 
 ### [[Conhecimento/Acupuntura/Canais/Pulmao/P11\|P11]]
-![P11.webp](../../../../Referencias/MedicoFisiatra.com.br/Imagens/P/P11.webp)
-**Localização**
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/P/P11-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+## Localização
+![pontos-pulmao-a.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/pontos-pulmao-a.webp)
+ 
 Leito ungueal do polegar na face lateral (externa da mão)
-**Indicação**
+
+## Indicações 
 Febre com sangria, perda de consciência, transtornos mentais.
 Retira calor. 
 Estado inicial da entrada do fator patogênico. 
 Sangria com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG01\|IG01]] na dor de garganta. 
+
+</div></div>
+
