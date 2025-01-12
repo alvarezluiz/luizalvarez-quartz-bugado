@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Meridianos","PassFrontmatter":true}
+{"publish":true,"title":"Meridianos","aliases":"esse aqui","PassFrontmatter":true}
 ---
 
 
