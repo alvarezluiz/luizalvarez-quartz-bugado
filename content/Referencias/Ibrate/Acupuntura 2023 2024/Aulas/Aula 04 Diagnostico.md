@@ -172,8 +172,8 @@ Picante ou metálico: pulmão
 - menopausa: rim
 
 > [!quote] Fígado 
-> tumores, aglomerações - fígado 
-> hormônios - fígado 
+> tumores, aglomerações
+> hormônios
 
 **l) urina**
 - Clara e abundante: síndrome de frio
@@ -262,8 +262,9 @@ vitalidade ou Espírito da língua
 #### 5.2.4 umidade
 estado dos Jin ye, saúde e vitalidade 
 
-#### 5.2.5 revestimento
-informa o estado do sistema yang (visceras) (condições do Estômago e Baço)
+##### 5.2.5 revestimento
+
+Informa o estado do sistema yang (visceras) (condições do Estômago e Baço)
 >na verdade estômago e baço 
 
 Reflete influências de calor ou frio. Espessura Indica a força de Xie Qi.
@@ -305,7 +306,7 @@ Estagnação de Xue
 **Azul** 
 Síndrome de Frio interior 
 
-### 5.4 forma
+### 5.4 Forma 
 
 Indica o estado do Jin ye 
 Lingua seca deficiência 
@@ -350,7 +351,7 @@ Com ponta fina - sinal de calor
 Curta saburra branca e espessa - frio interior 
 Curta, úmida e sem saburra - deficiência de Yang 
 
-### 5.5 saburra 
+### 5.5 Saburra 
 Indica a presença ou ausência de Xie Qi:
 
 - Espessura: indica a força de Xie Qi.
@@ -384,7 +385,7 @@ Saburra em toda a língua → fleuma
 Língua segundo triplo Aquecedor:
 Ponta representa Aquecedor superior, meio médio e fundo inferior 
 
-#### 5.5.6 tipos de saburra 
+#### 5.5.6 Tipos de saburra 
 Verdadeira ou falsa
 Fina ou espessa 
 Brilhante ou seca 
@@ -524,22 +525,15 @@ Sindrome Yang
 
 Excesso de calor só de natureza yang
 
-
----
-
 ## 9 Pulsologia
 
 - Serve para:
-
 - Confirmar o diagnóstico semiológico;
-
 	- Avaliar Zang Fu;
-
 - Investigar outros distúrbios.
 
 
-MÉTODO DE PALPAÇÃO
-
+**Método de palpação** 
 ![pulso-ibrate.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2004/pulso-ibrate.webp)
 
 Todos os dedos no mesmo nível

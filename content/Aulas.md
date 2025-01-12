@@ -3,47 +3,47 @@
 ---
 
 
-| File                                                                                                                                                              | Professora            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Aula 01 teorias de base]]                                                             | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 Fisiologia Energetica\|Aula 02 Fisiologia Energetica]]                                                 | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|Aula 03 Etiopatogenia]]                                                                 | Monica Helena Soriani |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|Aula 04 Diagnostico]]                                                                     | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Aula 05 Meridianos 1 - 01 Introducao]]                                   | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|Aula 05 Meridianos 1 - 02 Bexiga]]                                           | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 03 Vescula Biliar\|Aula 05 Meridianos 1 - 03 Vescula Biliar]]                           | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 04 Estomago\|Aula 06 Meridianos 2 - 04 Estomago]]                                       | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 05 Baco\|Aula 06 Meridianos 2 - 05 Baco]]                                               | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 06 Figado\|Aula 06 Meridianos 2 - 06 Figado]]                                           | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 07 Rim\|Aula 06 Meridianos 2 - 07 Rim]]                                                 | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 08 Pulmao\|Aula 06 Meridianos 2 - 08 Pulmao]]                                           | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 09 Pericardio\|Aula 07 Meridianos 3 - 09 Pericardio]]                                   | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 10 Coracao\|Aula 07 Meridianos 3 - 10 Coracao]]                                         | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 11 Intestino Delgado\|Aula 07 Meridianos 3 - 11 Intestino Delgado]]                     | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 12 Intestino Grosso\|Aula 07 Meridianos 3 - 12 Intestino Grosso]]                       | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 13 Triplo aquecedor\|Aula 07 Meridianos 3 - 13 Triplo aquecedor]]                       | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 14 Vaso da concepcao\|Aula 07 Meridianos 3 - 14 Vaso da concepcao]]                     | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 15 Vaso governador\|Aula 07 Meridianos 3 - 15 Vaso governador]]                         | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.1 Canais Tendinomusculares\|Aula 10.1 Canais Tendinomusculares]]                                       | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.2 Pontos Extras\|Aula 10.2 Pontos Extras]]                                                             | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.3 Vasos Maravilhosos\|Aula 10.3 Vasos Maravilhosos]]                                                   | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.1 Moxa\|Aula 11.1 Moxa]]                                                                               | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.2 Sangria\|Aula 11.2 Sangria]]                                                                         | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.3 Ventosa (ba guan zhi)\|Aula 11.3 Ventosa (ba guan zhi)]]                                             | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.a Fisiologia Energetica 2\|Aula 12.1.a Fisiologia Energetica 2]]                                     | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.b Fisiologia Energetica 2\|Aula 12.1.b Fisiologia Energetica 2]]                                     | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.a Inter-relacionamento sistemas Zang\|Aula 12.2.a Inter-relacionamento sistemas Zang]]               | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.b Inter-relacionamento entre os sistemas Fu\|Aula 12.2.b Inter-relacionamento entre os sistemas Fu]] | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.3 Finalizando\|Aula 12.3 Finalizando]]                                                                 | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.1 Sindromes - Introducao\|Aula 13.1 Sindromes - Introducao]]                                           | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.2 Sindromes - Coracao\|Aula 13.2 Sindromes - Coracao]]                                                 | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.3 Sindromes - Figado\|Aula 13.3 Sindromes - Figado]]                                                   | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.4 Sindromes - Pulmao\|Aula 13.4 Sindromes - Pulmao]]                                                   | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.5 Sindromes - Baco\|Aula 13.5 Sindromes - Baco]]                                                       | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 14.1 Sindromes - Rim\|Aula 14.1 Sindromes - Rim]]                                                         | Doren Sayuri Kato     |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 16 Eletroacupuntura\|Aula 16 Eletroacupuntura]]                                                           | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas\|Aula 17 Acupuntura aplicada a disfuncoes esteticas]]       | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1a acupuntura craniana chinesa\|Aula 18.1a acupuntura craniana chinesa]]                               | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1b acupuntura craniana chinesa\|Aula 18.1b acupuntura craniana chinesa]]                               | Simone Tano           |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1c acupuntura craniana chinesa\|Aula 18.1c acupuntura craniana chinesa]]                               | Simone Tano           |
+| Aula                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|01 - Teorias de base]]                                                     |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 02 Fisiologia Energetica\|02 - Fisiologia Energética]]                                         |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 03 Etiopatogenia\|03 - Etiopatogenia]]                                                         |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 04 Diagnostico\|04 - Diagnóstico]]                                                             |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|05 - Meridianos 1 - 1. Introdução]]                           |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|05 - Meridianos 1 - 2. Bexiga]]                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 03 Vescula Biliar\|05 - Meridianos 1 - 3. Vesícula Biliar]]                  |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 04 Estomago\|06 - Meridianos 2 - 4. Estômago]]                               |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 05 Baco\|06 - Meridianos 2 - 5. Baço]]                                       |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 06 Figado\|06 - Meridianos 2 - 6. Fígado]]                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 07 Rim\|06 - Meridianos 2 - 7. Rim]]                                         |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 06 Meridianos 2 - 08 Pulmao\|06 - Meridianos 2 - 8. Pulmão]]                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 09 Pericardio\|07 - Meridianos 3 - 9. Pericárdio]]                           |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 10 Coracao\|07 - Meridianos 3 - 10. Coração]]                                |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 11 Intestino Delgado\|07 - Meridianos 3 - 11. Intestino Delgado]]            |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 12 Intestino Grosso\|07 - Meridianos 3 - 12. Intestino Grosso]]              |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 13 Triplo aquecedor\|07 - Meridianos 3 - 13. Triplo Aquecedor]]              |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 14 Vaso da concepcao\|07 - Meridianos 3 - 14. Vaso da Concepção]]            |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 07 Meridianos 3 - 15 Vaso governador\|07 - Meridianos 3 - 15. Vaso Governador]]                |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.1 Canais Tendinomusculares\|10 - 1 Canais Tendinomusculares]]                               |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.2 Pontos Extras\|10 - 2 Pontos Extras]]                                                     |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 10.3 Vasos Maravilhosos\|10 - 3 Vasos Maravilhosos]]                                           |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.1 Moxa\|11 - 1 Moxa]]                                                                       |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.2 Sangria\|11 - 2 Sangria]]                                                                 |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 11.3 Ventosa (ba guan zhi)\|11 - 3 Ventosa]]                                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.a Fisiologia Energetica 2\|12 - 1.1 Fisiologia Energética 2]]                             |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.1.b Fisiologia Energetica 2\|12 - 1.2 Fisiologia Energética 2]]                             |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.a Inter-relacionamento sistemas Zang\|12 - 2 Inter-relacionamento sistemas Zang]]         |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.2.b Inter-relacionamento entre os sistemas Fu\|12 - 3 Inter-relacionamento sistemas Fu]]    |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 12.3 Finalizando\|12 - 3 Finalizando]]                                                         |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.1 Sindromes - Introducao\|13 - 1 Síndromes - Introdução]]                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.2 Sindromes - Coracao\|13 - 2 Síndromes - Coração (Xin)]]                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.3 Sindromes - Figado\|13 - 3 Síndromes - Fígado (Gan)]]                                     |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.4 Sindromes - Pulmao\|13 - 4 Síndromes - Pulmão (Fei)]]                                     |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.5 Sindromes - Baco\|13 - 5 Síndromes - Baço (Pi)]]                                          |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 14.1 Sindromes - Rim\|14 - 1 Síndromes - Rim (Shen)]]                                          |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 16 Eletroacupuntura\|16 - Eletroacupuntura]]                                                   |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas\|17 Acupuntura aplicada a disfunções estéticas]] |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1a acupuntura craniana chinesa\|18 - 1 Acupuntura craniana chinesa]]                        |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1b acupuntura craniana chinesa\|13 - 2 Acupuntura craniana chinesa]]                        |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 18.1c acupuntura craniana chinesa\|18 - 3 Acupuntura craniana chinesa]]                        |
 

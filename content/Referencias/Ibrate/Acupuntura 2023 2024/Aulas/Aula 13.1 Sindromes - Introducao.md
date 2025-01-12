@@ -3,12 +3,12 @@
 ---
 
 
-# Objetivo
+## Objetivo
 Estudar os padrões de desarmonia dos Zang-Fu, baseado nos sinais e sintomas que se originam quando o Qi e/ou o Xue dos sistemas internos estão em desequilíbrio.
 
 *Sempre Qi ou Xue estará em excesso ou deficiência.*
 
-# Importante relembrar
+## Importante relembrar
 
 1) Zang-Fu
 2) Método dos 8 Princípios
