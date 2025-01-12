@@ -3,6 +3,16 @@
 ---
 
 
+## Aula 1
+
+> [!NOTE] Aula 1
+> [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|Teorias de base]]
+
+
+> [!NOTE] Aula 5
+> - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 01 Introducao\|Introdução]]
+> - [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 05 Meridianos 1 - 02 Bexiga\|Bexiga]]
+
 | Aula                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 01 teorias de base\|01 - Teorias de base]]                                                     |
