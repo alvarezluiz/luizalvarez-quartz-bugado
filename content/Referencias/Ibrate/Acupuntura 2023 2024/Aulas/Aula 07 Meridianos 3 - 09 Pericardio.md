@@ -149,7 +149,7 @@ A 2 tsun da prega do pulso, entre os tendões
 ## Indicações
 Mais indicado 
 - ótimo [[calmante\|calmante]]
-- bom para pessoas explosivas, reativas, [[Conhecimento/Alterações/Irritabilidade\|irritadas]], muito [[Conhecimento/Alterações/Agitação\|agitadas]]
+- bom para pessoas explosivas, reativas, [[Conhecimento/Alterações/Irritabilidade\|irritadas]], muito [[Conhecimento/Alterações/inquietaçao\|agitadas]]
 - melhora [[Conhecimento/Alterações/insônia\|insônia]]
 - [[Enjoo\|Enjoo]], principalmente [[enjoo de viagem\|enjoo de viagem]]
 - pode usar em grávidas

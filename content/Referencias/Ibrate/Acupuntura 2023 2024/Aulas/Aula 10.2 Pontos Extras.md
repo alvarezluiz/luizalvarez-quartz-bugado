@@ -571,6 +571,7 @@ Qualquer patologia que envolva tireóide. Inclusive remoção de tireóide.
 - [[Conhecimento/Alterações/hipotireoidismo\|Hipotireoidismo]]
 - [[Conhecimento/Alterações/hipertireoidismo\|Hipertireoidismo]]
 - [[Conhecimento/Alterações/tireoide de hashimoto\|Tireoide de Hashimoto]]
+
 Avaliar semanalmente. Analisar exames de sangue. 
 
 </div></div>

@@ -269,7 +269,7 @@ Nutrir Yin do Coração, se necessário, o Yin do Rim e pacificar a mente.
 
 [[Pessoas/Doren Sayuri Kato\|Doren Sayuri Kato]], [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13.2 Sindromes - Coracao\|Aula 13.2 Sindromes - Coracao]]
 
-**Manifestações Clínicas Gerais**: [[Conhecimento/Alterações/Agitaçao mental\|agitação mental]], sensação de [[Conhecimento/Alterações/inquietaçao\|inquietude]], "[[Conhecimento/Alterações/impulsividade\|impulsividade]]", sensação de calor, [[Conhecimento/Alterações/insônia\|insônia]], [[Conhecimento/Alterações/rubor facial\|rubor facial]], urina de coloração [[Conhecimento/Alterações/urina escura\|escura]] ou [[Conhecimento/Alterações/sangue na urina\|sangue na urina]] e [[Conhecimento/Alterações/gosto amargo na boca\|gosto amargo na boca]];
+**Manifestações Clínicas Gerais**: [[Conhecimento/Alterações/agitação mental\|agitação mental]], sensação de [[Conhecimento/Alterações/inquietaçao\|inquietude]], "[[Conhecimento/Alterações/impulsividade\|impulsividade]]", sensação de calor, [[Conhecimento/Alterações/insônia\|insônia]], [[Conhecimento/Alterações/rubor facial\|rubor facial]], urina de coloração [[Conhecimento/Alterações/urina escura\|escura]] ou [[Conhecimento/Alterações/sangue na urina\|sangue na urina]] e [[Conhecimento/Alterações/gosto amargo na boca\|gosto amargo na boca]];
 
 **Língua**: Vermelha, mais vermelha na ponta e edemaciada com pontos vermelhos e saburra amarela (calor). Pode haver rachadura na linha média alcançando a ponta.
 
