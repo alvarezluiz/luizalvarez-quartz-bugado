@@ -1,0 +1,14 @@
+---
+{"title":"ponto vício","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+---
+
+## Localização
+Usar bilateral em vício químico
+## Indicações
+- [[Conhecimento/Alterações/vício\|vício]] em geral
+- [[Conhecimento/Alterações/tabagismo\|tabagismo]] bilateral
+- [[Conhecimento/Alterações/Alcoolismo\|Alcoolismo]] bilateral
+- [[Conhecimento/Alterações/obesidade\|obesidade]] unilateral 
+- [[compulsão\|compulsão]]
+- [[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]]
+- [[compulsão sexual\|compulsão sexual]]
