@@ -1,5 +1,5 @@
 ---
-{"title":"ponto diafragma","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto diafragma","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
 ---
 
 ## Localização

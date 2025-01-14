@@ -1,5 +1,5 @@
 ---
-{"title":"ponto genitais externos","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto genitais externos","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
 ---
 
 ## Localização

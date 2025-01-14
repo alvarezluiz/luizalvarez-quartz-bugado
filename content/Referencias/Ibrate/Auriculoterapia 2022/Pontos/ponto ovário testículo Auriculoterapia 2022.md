@@ -1,5 +1,5 @@
 ---
-{"title":"ponto ovário testículo","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":null,"autor":"Auriculoterapia Doren","DataFonte":2022,"PassFrontmatter":true}
+{"title":"ponto ovário testículo","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","DataFonte":2022,"PassFrontmatter":true}
 ---
 
 ## Localização

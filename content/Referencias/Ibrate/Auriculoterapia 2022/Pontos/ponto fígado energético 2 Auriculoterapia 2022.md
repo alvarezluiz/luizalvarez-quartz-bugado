@@ -1,5 +1,5 @@
 ---
-{"title":"ponto fígado energético 2","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto fígado energético 2","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
 ---
 
 ## Localização

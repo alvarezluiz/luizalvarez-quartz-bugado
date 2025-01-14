@@ -1,5 +1,5 @@
 ---
-{"title":"ponto abdome","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"autor":null,"DataFonte":null,"tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
+{"title":"ponto abdome","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","DataFonte":null,"tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização

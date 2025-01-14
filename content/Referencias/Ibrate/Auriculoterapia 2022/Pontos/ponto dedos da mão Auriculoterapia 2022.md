@@ -1,5 +1,5 @@
 ---
-{"title":"ponto dedos da mão","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto dedos da mão","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
 ---
 
 ## Localização (12)

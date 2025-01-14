@@ -1,5 +1,5 @@
 ---
-{"title":"ponto adrenal","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"autor":"Auriculoterapia Doren","DataFonte":2022,"ObservaçaoGestante":"Ponto hormonal","PassFrontmatter":true}
+{"title":"ponto adrenal","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"autor":"Professora Doren Sayuri Kato","DataFonte":2022,"ObservaçaoGestante":"Ponto hormonal","PassFrontmatter":true}
 ---
 
 ## Localização

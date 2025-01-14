@@ -1,5 +1,5 @@
 ---
-{"title":"ponto alergia chinês","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":null,"autor":null,"DataFonte":null,"PassFrontmatter":true}
+{"title":"ponto alergia chinês","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","DataFonte":null,"PassFrontmatter":true}
 ---
 
 ## Localização

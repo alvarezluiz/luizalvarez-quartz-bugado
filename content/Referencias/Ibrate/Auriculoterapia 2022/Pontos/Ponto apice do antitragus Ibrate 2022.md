@@ -1,5 +1,5 @@
 ---
-{"title":"ponto ápice do antitragus","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"DataFonte":null,"tags":["conhecimento/auriculoterapia/ponto"],"autor":"Doren Sayuri Kato","date":2022,"PassFrontmatter":true}
+{"title":"ponto ápice do antitragus","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"DataFonte":null,"tags":["conhecimento/auriculoterapia/ponto"],"autor":"Professora Doren Sayuri Kato","date":2022,"PassFrontmatter":true}
 ---
 
 ## Localização

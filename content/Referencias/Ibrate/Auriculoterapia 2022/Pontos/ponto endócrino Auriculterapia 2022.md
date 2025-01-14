@@ -1,5 +1,5 @@
 ---
-{"title":"ponto endócrino","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":"Ponto hormonal","autor":"Auriculoterapia 2022 Doren","DataFonte":2022,"PassFrontmatter":true}
+{"title":"ponto endócrino","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":"Ponto hormonal","autor":"Professora Doren Sayuri Kato","DataFonte":2022,"PassFrontmatter":true}
 ---
 
 ## Localização
