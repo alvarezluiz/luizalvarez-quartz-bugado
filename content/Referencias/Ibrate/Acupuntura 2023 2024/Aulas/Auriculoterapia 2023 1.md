@@ -1,5 +1,5 @@
 ---
-{"title":"Auriculoterapia 2023 1 (Pós de Acupuntura)","tags":["conhecimento/auriculoterapia/aula"],"autor":"Doren Sayuri Kato","date":"2023-11-10","NivelAcesso":"ibrate","publish":true,"Conteudo":"auriculoterapia","allDay":false,"DiaSemana":"Sex","start":{"dateTime":"2023-11-10T19:08-03:00"},"end":{"dateTime":"2023-11-10T22:08-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"Auriculoterapia 2023 1 (Pós de Acupuntura)","tags":["conhecimento/auriculoterapia/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-11-10","NivelAcesso":"ibrate","publish":true,"Conteudo":"auriculoterapia","allDay":false,"DiaSemana":"Sex","start":{"dateTime":"2023-11-10T19:08-03:00"},"end":{"dateTime":"2023-11-10T22:08-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

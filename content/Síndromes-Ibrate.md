@@ -1,7 +1,6 @@
 ---
-{"publish":true,"Title":"Síndromes","PassFrontmatter":true}
+{"publish":true,"title":"Síndromes","PassFrontmatter":true}
 ---
-
 
 ## Índice por Zang Fu
 
