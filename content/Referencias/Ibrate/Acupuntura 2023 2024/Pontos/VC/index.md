@@ -4,8 +4,8 @@
 
 | Ponto                                                                                    |
 | ---------------------------------------------------------------------------------------- |
-| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/VC01 Aula 07 meridianos 3\|VC1]]  |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/VC03 Aula 07 meridianos 3\|VC3]]  |
+| [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/VC01 Aula 07 meridianos 3\|VC1]]  |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/VC04 Aula 07 meridianos 3\|VC4]]  |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/VC05 Aula 07 meridianos 3\|VC5]]  |
 | [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/VC06 Aula 07 meridianos 3\|VC6]]  |

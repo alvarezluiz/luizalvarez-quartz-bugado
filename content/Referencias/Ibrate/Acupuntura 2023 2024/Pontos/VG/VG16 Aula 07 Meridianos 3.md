@@ -16,5 +16,5 @@ Nao manter a agulha, somente picar
 - estimula a subida do Qi para o cérebro
 - clareia a mente para fala em sequela de acidente vascular cerebral
 
-### [[Aula 13 Síndromes 1.4 - Pulmão (Fei)b\|Aula 13 Síndromes 1.4 - Pulmão (Fei)b]]
+### [[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13 Síndromes 1.4 - Pulmão (Fei)b\|Aula 13 Síndromes 1.4 - Pulmão (Fei)b]]
 Expele [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/fator vento\|fator vento]]. Útil se houver [[Conhecimento/Alterações/cefaleia\|cefaleia]]

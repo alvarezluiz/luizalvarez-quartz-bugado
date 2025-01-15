@@ -1,5 +1,5 @@
 ---
-{"title":"ponto rim","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto rim","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
@@ -11,3 +11,4 @@ parte do [[Referencias/Ibrate/Auriculoterapia 2022/auriculocibernetica\|triângu
 
 ## Medicina Tradicional Chinesa
 Guarda energia dos pais, usada como reserva.
+

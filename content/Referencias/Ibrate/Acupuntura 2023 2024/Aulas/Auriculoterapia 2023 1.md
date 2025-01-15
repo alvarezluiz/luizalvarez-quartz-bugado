@@ -4,7 +4,7 @@
 
 
 
-1951 Paul Nogier fase científica da Acupuntura 
+1951 Paul Nogier inicia fase científica da Acupuntura 
 
 Dr Barma tradução de nogier para francês 
 

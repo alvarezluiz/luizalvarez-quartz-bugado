@@ -17,4 +17,4 @@ Melhora retornos venoso. Varizes. Varicose. Flebite.
 Extremidades frias com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]] e [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]]. 
 Leucemia não. 
 Luto com deficiência de Pulmão. 
-Secura do Pulmão ([[Aula 13 Síndromes 1.4 - Pulmão (Fei)b\|Aula 13 Síndromes 1.4 - Pulmão (Fei)b]])
+Secura do Pulmão ([[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 13 Síndromes 1.4 - Pulmão (Fei)b\|Aula 13 Síndromes 1.4 - Pulmão (Fei)b]])
