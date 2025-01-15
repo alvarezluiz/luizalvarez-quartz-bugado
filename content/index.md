@@ -22,12 +22,12 @@
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VC/index\|Vaso da Concepção]]<br>
 > [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VG/index\|Vaso Governador]]<br>
 
-## [[Conhecimento/Acupuntura/Canais - Outros/Pontos extras\|Pontos extras]]
+## [[Pontos extras-Ibrate\|Pontos extras]]
 
-## [[Conhecimento/Acupuntura/Anotaçoes/Resumos/Pontos de comando\|Pontos de comando]]
+## [[Referencias/Ibrate/Acupuntura 2023 2024/Material/Pontos de Comando-Ibrate\|Pontos de Comando]]
 
-## [[Conhecimento/Acupuntura/Anotaçoes/Síndromes\|Síndromes]]
+## [[Síndromes-Ibrate\|Síndromes]]
 
-## [[Técnicas-Ibrate\|Técnicas-Ibrate]]
+## [[Técnicas-Ibrate\|Técnicas]]
 
 

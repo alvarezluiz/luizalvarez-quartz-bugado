@@ -1,5 +1,5 @@
 ---
-{"title":"07 - Meridianos 3 - 10. Coração","NAula":"Aula 07","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-12-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-12-16T10:40-03:00"},"end":{"dateTime":"2023-12-16T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"07 - Meridianos 3 - 10. Coração","SubTitle":"Coração","NAula":"Aula 07","tags":["conhecimento/acupuntura/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-12-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-12-16T10:40-03:00"},"end":{"dateTime":"2023-12-16T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
@@ -120,7 +120,7 @@ Luo do coração
 1 tsun acima da prega do punho
 
 ## Indicações
-- principal ponto para [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Qi do Coração (Ibrate 2024, D)\|deficiencia de Qi do Coração]]
+- principal ponto para [[Síndrome da Deficiência do Qi do Coração (Ibrate 2024, D)\|deficiencia de Qi do Coração]]
 - em deficiência de Qi, paciente apresente [[dispnéia\|dispnéia]], [[Conhecimento/Alterações/cansaço\|cansaço]], [[fraqueza\|fraqueza]] ([[lingua palida\|lingua palida]])
 
 ## Combinações

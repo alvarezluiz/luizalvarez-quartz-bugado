@@ -1,5 +1,5 @@
 ---
-{"title":"Olhos do joelho","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Olhos do joelho","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![olhos do joelho Ibrate.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/olhos%20do%20joelho%20Ibrate.webp)

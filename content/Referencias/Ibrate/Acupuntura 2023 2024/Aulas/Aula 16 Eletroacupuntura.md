@@ -1,5 +1,5 @@
 ---
-{"title":"16 - Eletroacupuntura","NAula":"Aula 16","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","date":"2024-09-21","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","PassFrontmatter":true}
+{"title":"16 - Eletroacupuntura","NAula":"Aula 16","tags":["conhecimento/acupuntura/aula"],"autor":"Professora Simone Tano","date":"2024-09-21","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
 [[Pessoas/Simone Tano\|Simone Tano]] 2024-09-21 08.27 

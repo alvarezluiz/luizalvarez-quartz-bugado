@@ -1,5 +1,5 @@
 ---
-{"title":"Yintang","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Yintang","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![Yintang Ibrate.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Yintang%20Ibrate.webp)

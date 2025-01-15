@@ -1,5 +1,5 @@
 ---
-{"title":"Shi-shen-tsung","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Shi-shen-tsung","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![Shi-shen-tsung Ibrate.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Shi-shen-tsung%20Ibrate.webp)

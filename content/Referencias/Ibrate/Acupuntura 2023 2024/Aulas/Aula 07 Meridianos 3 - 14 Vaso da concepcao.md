@@ -1,5 +1,5 @@
 ---
-{"title":"07 - Meridianos 3 - 14. Vaso da Concepção","NAula":"Aula 07","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-12-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-12-16T10:40-03:00"},"end":{"dateTime":"2023-12-16T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"07 - Meridianos 3 - 14. Vaso da Concepção","SubTitle":"Vaso da Concepção","NAula":"Aula 07","tags":["conhecimento/acupuntura/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-12-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-12-16T10:40-03:00"},"end":{"dateTime":"2023-12-16T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
@@ -209,9 +209,7 @@ bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hí
 
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção hídrica\|retenção hídrica]]
-
-([[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]])
+[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção h[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
 
 </div></div>
 
@@ -244,10 +242,7 @@ Profundidade até 2 tsun
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E34\|VC12 + E34]] [[Conhecimento/Alterações/gastrite aguda\|gastrite aguda]]
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + PC06 + BP04\|VC12 + PC06 + BP04]] [[Conhecimento/Alterações/gastrite nervosa\|gastrite nervosa]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E45\|VC12 + E45]] [[Conhecimento/Alterações/dor de estômago\|dor de estômago]], [[Conhecimento/Alterações/pirose\|pirose]]
-
-
-([[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]])
+[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E45\|VC12 + E45]] [[Conhecimento/Alterações/dor de estômago\|dor de estômago]], [[p[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
 
 </div></div>
 
@@ -270,9 +265,7 @@ Ponto alarme do coração (dolorido em ansiosos)
 Elimina fogo do coração([[Conhecimento/Alterações/Dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + VC18\|VC14 + VC18]] [[Conhecimento/Alterações/opressão torácica\|opressão torácica]]
-
-[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]]
+[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]
 - [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + E24 + E25\|VC14 + E24 + E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)
 
 </div></div>

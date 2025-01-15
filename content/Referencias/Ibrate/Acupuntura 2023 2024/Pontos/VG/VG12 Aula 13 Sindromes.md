@@ -1,5 +1,5 @@
 ---
-{"tags":["conhecimento/acupuntura/ponto"],"title":"VG12","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
+{"tags":["conhecimento/acupuntura/ponto"],"title":"VG12","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
 ## Localização

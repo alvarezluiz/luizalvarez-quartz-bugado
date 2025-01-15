@@ -1,5 +1,5 @@
 ---
-{"title":"VC17","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"aliases":"alarme do pericárdio, alarme do pericardio, mestre do Qi","PassFrontmatter":true}
+{"title":"VC17","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"aliases":"alarme do pericárdio, alarme do pericardio, mestre do Qi","PassFrontmatter":true}
 ---
 
 Ponto alarme do pericárdio

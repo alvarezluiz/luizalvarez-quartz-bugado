@@ -1,5 +1,5 @@
 ---
-{"title":"06 - Meridianos 2 - 4. Estômago","NAula":"Aula 06","tags":["conhecimento/acupuntura/aula"],"autor":"Doren Sayuri Kato","date":"2023-11-18","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-11-18T08:22-03:00"},"end":{"dateTime":"2023-11-18T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"06 - Meridianos 2 - 4. Estômago","SubTitle":"Estômago","NAula":"Aula 06","tags":["conhecimento/acupuntura/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-11-18","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-11-18T08:22-03:00"},"end":{"dateTime":"2023-11-18T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
@@ -265,9 +265,7 @@ Ajuda a aumentar imunidade **após** [[quimioterapia\|quimioterapia]].
 [[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] e [[Conhecimento/Acupuntura/Canais/Baço/BP15\|BP15]] energia para baixo
 
 [[Raiz/Aula 17aa Acupuntura aplicada a disfunções estéticas\|Aula 17aa Acupuntura aplicada a disfunções estéticas]]
-[[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] elimina estagnação dos alimentos 
-
-[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#Pontos gerais (ambas obesidades)\|Aula 17 Acupuntura estética]]
+[[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] elimina estagnação dos a[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#Pontos gerais (ambas obesidades)\|Aula 17 Acupuntura estética]] estética]]
 - [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC14\|VC14]], [[Conhecimento/Acupuntura/Canais/Estomago/E24\|E24]], [[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)
 
 

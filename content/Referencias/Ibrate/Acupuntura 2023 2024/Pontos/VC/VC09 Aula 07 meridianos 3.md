@@ -1,5 +1,5 @@
 ---
-{"title":"VC9","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"VC9","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ponto do comando das aguas
@@ -14,6 +14,4 @@ bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hí
 
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção hídrica\|retenção hídrica]]
-
-([[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]])
+[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção h[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])

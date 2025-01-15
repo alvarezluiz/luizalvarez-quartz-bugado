@@ -1,5 +1,5 @@
 ---
-{"title":"Erjian","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Erjian","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![Erjian Ibrate.webp|400](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Erjian%20Ibrate.webp)

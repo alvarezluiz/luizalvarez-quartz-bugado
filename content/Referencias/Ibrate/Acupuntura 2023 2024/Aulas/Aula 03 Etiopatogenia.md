@@ -1,5 +1,5 @@
 ---
-{"title":"03 - Etiopatogenia","NAula":"Aula 03","tags":["conhecimento/acupuntura/aula"],"autor":"Monica Helena Soriani","date":"2023-08-19","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-08-19T08:25-03:00"},"end":{"dateTime":"2023-08-19T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"publish":true,"title":"03 - Etiopatogenia","SubTitle":"Etiopatogenia","NAula":"Aula 03","tags":["conhecimento/acupuntura/aula"],"autor":"Professora Monica Helena Soriani","date":"2023-08-19","NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-08-19T08:25-03:00"},"end":{"dateTime":"2023-08-19T12:40-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 

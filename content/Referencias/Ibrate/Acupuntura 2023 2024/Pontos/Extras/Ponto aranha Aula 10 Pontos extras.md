@@ -1,5 +1,5 @@
 ---
-{"title":"Ponto aranha","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Ponto aranha","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![ponto extra aranha Ibrate.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20aranha%20Ibrate.webp)

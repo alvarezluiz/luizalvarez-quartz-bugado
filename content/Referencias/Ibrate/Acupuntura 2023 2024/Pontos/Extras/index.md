@@ -1,5 +1,5 @@
 ---
-{"autor":"Doren Sayuri Kato","NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","title":"Índice","publish":true,"PassFrontmatter":true}
+{"autor":"Professora Doren Sayuri Kato","NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","title":"Índice","publish":true,"PassFrontmatter":true}
 ---
 
 

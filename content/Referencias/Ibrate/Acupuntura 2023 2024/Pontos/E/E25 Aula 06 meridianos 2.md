@@ -1,5 +1,5 @@
 ---
-{"title":"E25","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"E25","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
@@ -16,7 +16,5 @@ Ajuda a aumentar imunidade **após** [[quimioterapia\|quimioterapia]].
 [[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] e [[Conhecimento/Acupuntura/Canais/Baço/BP15\|BP15]] energia para baixo
 
 [[Raiz/Aula 17aa Acupuntura aplicada a disfunções estéticas\|Aula 17aa Acupuntura aplicada a disfunções estéticas]]
-[[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] elimina estagnação dos alimentos 
-
-[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#Pontos gerais (ambas obesidades)\|Aula 17 Acupuntura estética]]
+[[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] elimina estagnação dos a[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 Acupuntura aplicada a disfuncoes esteticas#Pontos gerais (ambas obesidades)\|Aula 17 Acupuntura estética]] estética]]
 - [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC14\|VC14]], [[Conhecimento/Acupuntura/Canais/Estomago/E24\|E24]], [[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)

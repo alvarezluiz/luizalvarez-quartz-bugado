@@ -1,5 +1,5 @@
 ---
-{"autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"title":"Cavalo d'água","PassFrontmatter":true}
+{"autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"title":"Cavalo d'água","PassFrontmatter":true}
 ---
 
 

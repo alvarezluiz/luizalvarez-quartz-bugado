@@ -1,5 +1,5 @@
 ---
-{"title":"Dannangxue","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Dannangxue","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 [[Conhecimento/Acupuntura/Canais - Outros/Pontos extras/Ex-LE6 Dannangxue\|Ex-LE6 Dannangxue]]

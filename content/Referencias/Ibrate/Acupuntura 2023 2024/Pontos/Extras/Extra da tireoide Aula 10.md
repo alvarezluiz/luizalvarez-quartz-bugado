@@ -1,5 +1,5 @@
 ---
-{"title":"Extra da tireóide","autor":"Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"title":"Extra da tireóide","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![extra da tireoide Ibrate.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/extra%20da%20tireoide%20Ibrate.webp)
