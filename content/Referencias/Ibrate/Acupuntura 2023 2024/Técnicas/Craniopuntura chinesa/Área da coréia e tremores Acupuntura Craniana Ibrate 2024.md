@@ -1,5 +1,5 @@
 ---
-{"title":"Area da coréia","autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
+{"title":"Area da coréia","autor":"Professora Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
 ---
 
 ![Shunfa 2006 1-3 vista lateral.webp](../../../../../Referencias/Shunfa%202006/Shunfa%202006%201-3%20vista%20lateral.webp)

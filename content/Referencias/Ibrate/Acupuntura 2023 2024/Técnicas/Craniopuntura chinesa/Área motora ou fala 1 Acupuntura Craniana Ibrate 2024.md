@@ -1,5 +1,5 @@
 ---
-{"title":"Área da fala 1 ou motora","autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
+{"title":"Área da fala 1 ou motora","autor":"Professora Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
 ---
 
 Zona motora ou Fala 1

@@ -1,8 +1,8 @@
 ---
-{"title":"ponto pé","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto pé","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
-Na crista no [[Conhecimento/Auriculoterapia/Região/antihelix\|antihelix]].
+Na crista no antihelix.
 ## Indicações
-Ponto local
+- Ponto local

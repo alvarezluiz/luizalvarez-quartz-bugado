@@ -1,5 +1,5 @@
 ---
-{"title":"Área genitourinária ou reprodutiva","autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
+{"title":"Área genitourinária ou reprodutiva","autor":"Professora Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
 ---
 
 

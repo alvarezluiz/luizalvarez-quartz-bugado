@@ -1,10 +1,10 @@
 ---
-{"title":"ponto ápice do antitragus","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"DataFonte":null,"tags":["conhecimento/auriculoterapia/ponto"],"autor":"Professora Doren Sayuri Kato","date":2022,"PassFrontmatter":true}
+{"title":"ponto ápice do antitragus","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","date":2022,"tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
 
-Na parte interior do ápice do [[Conhecimento/Auriculoterapia/Região/antitragus\|antitragus]]
+Na parte interior do ápice do antitragus.
 ## Indicações
 - [[Conhecimento/Alterações/Infecção\|Infecção]]
 - [[Conhecimento/Alterações/Virose\|Virose]]

@@ -1,5 +1,5 @@
 ---
-{"title":"Área sensitiva-motora do pé","autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
+{"title":"Área sensitiva-motora do pé","autor":"Professora Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
 ---
 
 ![Shunfa 2006 1-4 vista topo.webp](../../../../../Referencias/Shunfa%202006/Shunfa%202006%201-4%20vista%20topo.webp)

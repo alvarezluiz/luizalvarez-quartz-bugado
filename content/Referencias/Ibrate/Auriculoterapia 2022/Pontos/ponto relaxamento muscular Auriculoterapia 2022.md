@@ -1,9 +1,9 @@
 ---
-{"title":"ponto relaxamento muscular","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto relaxamento muscular","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
-Metade da distancia do fim da [[Conhecimento/Auriculoterapia/Região/raiz do helix\|raiz do helix]] e parede da [[Conhecimento/Auriculoterapia/Região/concha\|concha]].
+Metade da distancia do fim da raiz do helix e parede da concha.
 ## Indicações
 - Não usar em quem tem pressão baixa
 - Não usar em quem está sem dor e treina pra ganhar músculo

@@ -1,5 +1,5 @@
 ---
-{"title":"ponto hipófise","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","DataFonte":2022,"PassFrontmatter":true}
+{"title":"ponto hipófise","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","DataFonte":2022,"tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização

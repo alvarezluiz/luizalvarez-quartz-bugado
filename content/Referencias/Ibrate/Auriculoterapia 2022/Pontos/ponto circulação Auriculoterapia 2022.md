@@ -1,9 +1,9 @@
 ---
-{"title":"ponto circulação","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto circulação","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
-No final superior da [[Conhecimento/Auriculoterapia/Região/fossa triangular\|fossa triangular]], mas ainda dentro da fossa.
+No final superior da fossa triangular, mas ainda dentro da fossa.
 ## Indicações
 - [[Conhecimento/Alterações/varizes\|varizes]]
 - [[Conhecimento/Alterações/extremidades frias\|extremidades frias]]

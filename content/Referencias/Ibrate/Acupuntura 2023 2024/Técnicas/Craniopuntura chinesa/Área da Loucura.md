@@ -1,5 +1,5 @@
 ---
-{"title":"Área da loucura","autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
+{"title":"Área da loucura","autor":"Professora Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
 ---
 
 ## Localização

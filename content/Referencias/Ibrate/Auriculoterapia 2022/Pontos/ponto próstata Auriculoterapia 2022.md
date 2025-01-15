@@ -1,5 +1,5 @@
 ---
-{"title":"ponto próstata","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto próstata","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 Entre muro e assoalho da concha, abaixo do [[Conhecimento/Auriculoterapia/Pontos/ponto SNV\|ponto SNV]]

@@ -1,5 +1,5 @@
 ---
-{"title":"ponto coração","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","DataFonte":null,"PassFrontmatter":true}
+{"title":"ponto coração","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","ObservaçaoGestante":null,"autor":"Professora Doren Sayuri Kato","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização

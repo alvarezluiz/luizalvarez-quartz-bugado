@@ -1,9 +1,9 @@
 ---
-{"title":"ponto vago","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia"],"PassFrontmatter":true}
+{"title":"ponto vago","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"auriculoterapia","tags":["conhecimento/auriculoterapia/ponto"],"PassFrontmatter":true}
 ---
 
 ## Localização
-Na mesma altura do [[Conhecimento/Auriculoterapia/Pontos/ponto coração\|ponto coração]], no assoalho da [[Conhecimento/Auriculoterapia/Região/concha\|concha]] inferior.
+Na mesma altura do [[Conhecimento/Auriculoterapia/Pontos/ponto coração\|ponto coração]], no assoalho da concha inferior.
 ## Indicações
 - [[Distúrbio psicossomático\|Distúrbio psicossomático]] especialmente com reação fisiológica
 - [[Conhecimento/Alterações/Medo\|Medo]]

@@ -13,4 +13,4 @@ No ápice do tragus
 	- pós-operatório
 	- [[Conhecimento/Alterações/hipotensão\|hipotensão]]
 
-[[Conhecimento/Condições/proibido em gestante\|proibido em gestante]]
+- [[Conhecimento/Condições/proibido em gestante\|proibido em gestante]]

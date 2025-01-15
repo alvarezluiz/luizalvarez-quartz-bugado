@@ -1,5 +1,5 @@
 ---
-{"title":"Área da fala 2","autor":"Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
+{"title":"Área da fala 2","autor":"Professora Simone Tano","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","tags":["conhecimento/acupuntura/cranio-chinesa"],"PassFrontmatter":true}
 ---
 
 ![Shunfa 2006 1-5 vista posterior.webp](../../../../../Referencias/Shunfa%202006/Shunfa%202006%201-5%20vista%20posterior.webp)
