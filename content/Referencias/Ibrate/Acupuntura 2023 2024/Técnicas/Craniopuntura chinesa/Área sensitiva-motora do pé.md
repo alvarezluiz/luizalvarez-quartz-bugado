@@ -5,8 +5,9 @@
 ![Shunfa 2006 1-4 vista topo.webp](../../../../../Referencias/Shunfa%202006/Shunfa%202006%201-4%20vista%20topo.webp)
 
 
+## Localização
 1 cm lateral à linha média, 1,5cm para frente e 1,5cm para trás do ponto central da linha média. Sentido anterior-posterior.
-**Indicações**
+## Indicações
 - Dor, intumescimento e paralisia no membro inferior oposto,
 - Distensão lombar aguda
 - Entorse aguda

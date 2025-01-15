@@ -1,18 +1,20 @@
 ---
-{"title":"18 - 1 Acupuntura craniana chinesa","NAula":"Aula 18","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","PassFrontmatter":true}
+{"title":"18 - 1 Acupuntura craniana chinesa","tags":["conhecimento/acupuntura/aula"],"autor":"Simone Tano","NivelAcesso":"ibrate","publish":true,"Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
-
-Cranioacupuntura/Escalpuntura
-↓ 
-Microssistema
-↓
-Representação de todo o corpo no couro cabeludo.
-Seus pontos são estimulados nas áreas ou zonas correspondentes.
-
+## Cranioacupuntura chinesa 
+<center>
+Cranioacupuntura/Escalpuntura<br>
+↓<br>
+Microssistema<br>
+↓<br>
+Representação de todo o corpo no couro cabeludo.<br>
+↓<br>
+Seus pontos são estimulados nas áreas ou zonas correspondentes.<br>
+</center>
 ---
 
-Definição 
+## Definição 
 
 Consiste em puncionar determinadas áreas do cranio para tratar doenças de origem predominantemente neurológica.
 
@@ -20,27 +22,26 @@ Combina técnicas de acupuntura tradicional chinesa com modernos conhecimentos s
 
 ---
 
-Considerações históricas:
+## Considerações históricas:
 
-Década 70- Jiao Shun Fa (hospital no norte da china) associação de técnicas de acupuntura com conhecimentos de neurofisiologia para tratar doenças neurológicas.
-
-Considerou a estimulação do cérebro a partir das áreas externas da cabeça obedecendo às localizações corticais para obter efeitos terapêuticos.
-
----
-
-Considerações históricas:
-
-1970 - Jiao Shun Fa após aplicação de cranioacupuntura chinesa em região de giro pós central, amenizou dor espasmódica em braços e pernas de senhora com 70 anos que persistia há anos.
-
-1971 - Jiao Shun Fa curou paciente com paralisia da perna direita.
-
-1972 - formou duas turmas de escalpo-acupuntura para difundir a terapia com aprovação do Ministério de Saúde Pública na província de Shanxi na China.
-
-
+Década 70
+- Jiao Shun Fa (hospital no norte da China) 
+- Associação de técnicas de acupuntura com conhecimentos de neurofisiologia para tratar doenças neurológicas.
+- Considerou a estimulação do cérebro a partir das áreas externas da cabeça obedecendo às localizações corticais para obter efeitos terapêuticos.
 
 ---
 
-Considerações
+
+1970
+- Jiao Shun Fa após aplicação de cranioacupuntura chinesa em região de giro pós central, amenizou dor espasmódica em braços e pernas de senhora com 70 anos que persistia há anos.
+1971
+- Jiao Shun Fa curou paciente com paralisia da perna direita.
+1972
+- formou duas turmas de escalpo-acupuntura para difundir a terapia com aprovação do Ministério de Saúde Pública na província de Shanxi na China.
+
+---
+
+## Considerações
 
 - Associação da proximidade do couro cabeludo com encéfalo;
 
@@ -51,76 +52,71 @@ Considerações
 ---
 
 
-Seleção bilateral quando objetivo for tratamento de órgãos
+- Seleção bilateral quando objetivo for tratamento de órgãos
 
-Seleção unilateral CONTRALATERAL quando apresenta alterações neurológicas  
+- Seleção unilateral CONTRALATERAL quando apresenta alterações neurológicas
 
 ---
 
+## Métodos de aplicação da craniopuntura chinesa
+*apostila*
 
-MÉTODOS DE APLICAÇÃO DA CRANEOACUPUNTURA: (apostila)
-
-01. Posição do paciente para a aplicação da agulha
+01. **Posição** do paciente para a aplicação da agulha
 
 *sentado ou deitado*
 ____________________________________
 
-02. Cuidados com assepsia
+02. **Cuidados** com assepsia
 *álcool 70%*
 ____________________________________
 
 03. Agulhas recomendadas
-*0.25x25, 0.25x30*
+- 0.25x**25**, 0.25x30
 ____________________________________
 
 04. Método de inserção das agulhas
-*inclinação de 30º e inserção de 15º*
+- inclinação de 30º e inserção de 15º
 ____________________________________
 
 05. Manipulação das agulhas
-*a cada 5 minutos*
+- a cada 5 minutos
 ____________________________________
 
-06. Durante a estimulação com agulhas
-*estímulos motor. (solicitar a movimentação da área Afetada)':*
+06. Durante a estimulação com agulhas:
+- **estímulos** motores. (solicitar a movimentação da área Afetada)
 ____________________________________
 
 07. Sensações do paciente
-*De calor pu amortecimento que passa logo em seguida da aplicação*
+- De calor ou amortecimento que passa logo em seguida da aplicação
 ____________________________________
 
 
 08. Utilização de estimulação com eletroacupuntura
-*brurst ou contínua. 8 a 10hz 20 minutos (ouvir audio)*
+- Brurst ou contínua. 2 a 2,5 hz 20 minutos
 ____________________________________
 
 09. Tratamento neurológico: 
-*contralateral*
+- contralateral
 ____________________________________
 
 10. Tratamento orgânico: 
-*aplicação bilateral*
+- aplicação bilateral
 ____________________________________
 
 11. Duração da sessão
-*30 a 40 minutos*
+- 30 a 40 minutos
 ____________________________________
 
 12. Retirada das agulhas
-*se estiver yang - deixar sangrar*
----
-*se estiver yin - estancar*
+- se estiver yang - deixar sangrar
+- se estiver yin - estancar
 ____________________________________
 
 13. Ciclo de tratamento e de alternância
-*Minimo de 3X/semana. Ciclo de 10 dias seguidos de tratamento e descansa 3 a dias e em seguida recomeça novo ciclo À medida que melhorar, espaçar.*
-____________________________________
-
-____________________________________
+- Minimo de 3X/semana. Ciclo de 10 dias seguidos de tratamento e descansa 3 a 5 dias e em seguida recomeça novo ciclo. À medida que melhorar, espaçar.
 
 ____________________________________ 
-
-INDICAÇÕES GERAIS:
+## Indicações gerais 
 
 01. Tratamento de sequelas de paralisias por AVE, TCE, tumores, aneurismas, tromboses cerebrais, encefalites;
 
@@ -144,7 +140,7 @@ INDICAÇÕES GERAIS:
 
 ---
 
-"Efeitos" eventuais da craniopuntura
+## "Efeitos" eventuais da craniopuntura
 
 - Cefaleia;
 - Palidez;
@@ -157,7 +153,7 @@ INDICAÇÕES GERAIS:
 ---
 
 
-PRECAUÇÕES e Contra Indicações:
+## Precauções e Contra Indicações:
 
 - Pacientes com febre alta;
 - Pacientes com insuficiência cardíaca;

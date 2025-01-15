@@ -3,7 +3,8 @@
 ---
 
 
+## Localização
 Linha vertical a partir do canto externo do olho, 2cm acima da linha do cabelo. 
 
-Indicações 
-sangramento uterino (metrorragia), Inflamação da região pélvica, prolapso uterino, Infecções de bexiga, Impotência masculina;
+## Indicações 
+Sangramento uterino ([[Conhecimento/Alterações/metrorragia\|metrorragia]]), Inflamação da região pélvica, [[Conhecimento/Alterações/prolapso uterino\|prolapso uterino]], Infecções de bexiga, [[Conhecimento/Alterações/impotência sexual\|impotência sexual]] masculina
