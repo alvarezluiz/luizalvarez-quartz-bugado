@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Índice","PassFrontmatter":true}
+{"publish":true,"title":"Índice - Ibrate","PassFrontmatter":true}
 ---
 
 
-## [[Aulas-Ibrate\|Aulas-Ibrate]]
+## [[Aulas-Ibrate\|Aulas]]
 
 ## [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/index\|Meridianos]]
 
