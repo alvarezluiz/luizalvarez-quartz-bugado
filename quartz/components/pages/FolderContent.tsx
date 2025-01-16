@@ -77,8 +77,14 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         allPagesInFolder.push({
           slug: subfolderSlug,
           dates: subfolderDates,
-          frontmatter: { title: subfolderTitle }, tags: ["folder"] },
-        )
+          frontmatter: {
+            title: subfolderTitle,
+            tags: ["folder"], // Incluído no lugar certo
+          },
+        })
+
+
+
       }
     })
 
