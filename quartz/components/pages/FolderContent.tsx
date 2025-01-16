@@ -55,13 +55,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         return
       }
 
-
-      // Remove apenas o campo "tags" do frontmatter
-      if (file.frontmatter) {
-        delete file.frontmatter.tags
-      }
-
-
       if (isDirectChild) {
         allPagesInFolder.push(file)
       } else if (options.showSubfolders) {
