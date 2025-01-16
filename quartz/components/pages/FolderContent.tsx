@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import path from "path"
 
 import style from "../styles/listPage.scss"
-import { byDateAndAlphabetical, PageList, SortFn } from "../PageList"
+import { PageList, SortFn } from "../PageList"
 import { stripSlashes, simplifySlug, joinSegments, FullSlug } from "../../util/path"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
@@ -26,6 +26,13 @@ const defaultOptions: FolderContentOptions = {
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
+  // Função de ordenação alfabética com base no nome do arquivo
+  const byFileName = (a: QuartzPluginData, b: QuartzPluginData) => {
+    const nameA = a.slug?.toLowerCase() ?? "" // Usa o campo `slug` do arquivo
+    const nameB = b.slug?.toLowerCase() ?? ""
+    return nameA.localeCompare(nameB, undefined, { numeric: true }) // Ordena considerando números
+  }
+
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
     const folderSlug = stripSlashes(simplifySlug(fileData.slug!))
@@ -36,36 +43,48 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     allFiles.forEach((file) => {
       const fileSlug = stripSlashes(simplifySlug(file.slug!))
-      const prefixed = fileSlug.startsWith(folderSlug) && fileSlug !== folderSlug
+
+      // Verifica se o arquivo está na mesma pasta, sem permitir sobreposição com pastas irmãs
+      const isInCurrentFolder = fileSlug.startsWith(folderSlug) &&
+        (fileSlug === folderSlug || fileSlug.slice(folderSlug.length, folderSlug.length + 1) === path.posix.sep)
+
       const fileParts = fileSlug.split(path.posix.sep)
       const isDirectChild = fileParts.length === folderParts.length + 1
 
-      if (!prefixed) {
+      if (!isInCurrentFolder) {
         return
       }
+
+
+      // Remove apenas o campo "tags" do frontmatter
+      if (file.frontmatter) {
+        delete file.frontmatter.tags
+      }
+
 
       if (isDirectChild) {
         allPagesInFolder.push(file)
       } else if (options.showSubfolders) {
-        const subfolderSlug = joinSegments(
-          ...fileParts.slice(0, folderParts.length + 1),
-        ) as FullSlug
+        const subfolderSlug = joinSegments(...fileParts.slice(0, folderParts.length + 1)) as FullSlug
         const pagesInFolder = allPagesInSubfolders.get(subfolderSlug) || []
         allPagesInSubfolders.set(subfolderSlug, [...pagesInFolder, file])
       }
     })
+
+    // Ordena as páginas na pasta principal e subpastas
+    allPagesInFolder.sort(byFileName)
 
     allPagesInSubfolders.forEach((files, subfolderSlug) => {
       const hasIndex = allPagesInFolder.some(
         (file) => subfolderSlug === stripSlashes(simplifySlug(file.slug!)),
       )
       if (!hasIndex) {
-        const subfolderDates = files.sort(byDateAndAlphabetical(cfg))[0].dates
+        const subfolderDates = files.sort(byFileName)[0].dates
         const subfolderTitle = subfolderSlug.split(path.posix.sep).at(-1)!
         allPagesInFolder.push({
           slug: subfolderSlug,
           dates: subfolderDates,
-          frontmatter: { title: subfolderTitle, tags: ["folder"] },
+          frontmatter: { title: subfolderTitle }, tags: ["folder"] },
         })
       }
     })
@@ -74,7 +93,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
-      sort: options.sort,
+      sort: byFileName, // Passa a função de ordenação
       allFiles: allPagesInFolder,
     }
 
