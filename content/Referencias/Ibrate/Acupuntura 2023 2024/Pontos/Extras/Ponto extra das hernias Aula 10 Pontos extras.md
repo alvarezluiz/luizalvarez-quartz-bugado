@@ -1,5 +1,5 @@
 ---
-{"title":"Extra das hérnias","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"date":"2024-03-23","title":"Extra das hérnias","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![ponto extra das hernias Ibrate.webp|Ibrate](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/ponto%20extra%20das%20hernias%20Ibrate.webp)

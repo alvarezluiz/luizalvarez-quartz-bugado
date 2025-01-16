@@ -1,5 +1,5 @@
 ---
-{"title":"Quatro costuras","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
+{"date":"2024-03-23","title":"Quatro costuras","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupunturaupuntura","tags":["conhecimento/acupuntura/ponto"],"PassFrontmatter":true}
 ---
 
 ![Sifung Ibrate.webp|400](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/Sifung%20Ibrate.webp)

@@ -6,7 +6,7 @@
 
 1951 Paul Nogier inicia fase científica da Acupuntura 
 
-Dr Barma tradução de nogier para francês 
+Dr Barma tradução de Nogier para chinês
 
 Cicatriz tóxica 
 1 plexo solar 

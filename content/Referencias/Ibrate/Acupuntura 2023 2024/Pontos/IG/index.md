@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Intestino Grosso","NivelAcesso":"ibrate","PassFrontmatter":true}
+{"date":"2023-12-16","publish":true,"title":"Intestino Grosso","NivelAcesso":"ibrate","PassFrontmatter":true}
 ---
 
 | Ponto                                                                                    |
