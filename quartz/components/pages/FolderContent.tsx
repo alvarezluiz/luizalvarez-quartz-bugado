@@ -78,7 +78,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           slug: subfolderSlug,
           dates: subfolderDates,
           frontmatter: { title: subfolderTitle }, tags: ["folder"] },
-        })
+        )
       }
     })
 
