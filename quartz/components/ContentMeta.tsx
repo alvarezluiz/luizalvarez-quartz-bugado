@@ -32,14 +32,23 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
-      // Exibe o autor como um link - atualizado com ChatGPT
+      // Exibe o autor como um link
       if (fileData.frontmatter?.autor) {
+        // Extraímos o nome do autor da frontmatter e o formatamos para criar o link
+        const autor = fileData.frontmatter.autor;
+
+        // Mapeando a URL do autor para o formato exportado, assumindo que a estrutura no Obsidian
+        // é convertida para URLs amigáveis durante a exportação (o caminho pode variar)
+        const autorLink = `/referencias/ibrate/acupuntura-2023-2024/professoras/${encodeURIComponent(autor.toLowerCase().replace(/\s+/g, '-'))}`;
+
+        // Adiciona o link para o autor
         segments.push(
-          <a href={`/autor/${encodeURIComponent(fileData.frontmatter.autor)}`}>
-            {fileData.frontmatter.autor}
+          <a href={autorLink}>
+            {autor}
           </a>
         );
       }
+
 
 
       // Display reading time if enabled
