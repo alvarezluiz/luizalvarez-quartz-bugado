@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Pontos de comando","PassFrontmatter":true}
+{"publish":true,"title":"Pontos de comando","date":"2023-10-14","PassFrontmatter":true}
 ---
 
 
