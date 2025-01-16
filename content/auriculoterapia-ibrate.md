@@ -21,6 +21,7 @@
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto bexiga Auriculoterapia 2022\|ponto bexiga]]                               |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto boca Auriculoterapia 2022\|ponto boca]]                                   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto braço Auriculoterapia 2022\|ponto braço]]                                 |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto brônquios Auriculoterapia 2022\|Ponto brônquios]]                         |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto cardia Auriculoterapia 2022\|ponto cardia]]                               |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto cerebelo Auriculoterapia 2022\|ponto cerebelo]]                           |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto ciático Auriculoterapia 2022\|ponto ciático]]                             |
@@ -30,7 +31,9 @@
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto coração Auriculoterapia 2022\|ponto coração]]                             |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto cordas vocais Auriculoterapia 2022\|ponto cordas vocais]]                 |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto cotovelo Auriculoterapia 2022\|ponto cotovelo]]                           |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto coxa Auriculoterapia 2022\|Ponto coxa]]                                   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto dedos da mão Auriculoterapia 2022\|ponto dedos da mão]]                   |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto dedos do pé auriculoterapia 2022\|ponto hipófise]]                        |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto dentes chinês Auriculoterapia 2022\|ponto dentes chinês]]                 |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto diafragma Auriculoterapia 2022\|ponto diafragma]]                         |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto encéfalo Auriculoterapia 2022\|ponto encéfalo]]                           |
@@ -46,8 +49,10 @@
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto frontal Auriculoterapia 2022\|ponto frontal]]                             |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto genitais externos Auriculoterapia 2022\|ponto genitais externos]]         |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto hipertensão anterior Auriculoterapia 2022\|ponto hipertensão anterior]]   |
-| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto hipertensão posterior Auriculoterapia 2022\|ponto hipertensão posterior]] |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto hipertensão posterior Auriculoterapia 2022\|Ponto hipertensão posterior]] |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto hipófise Auriculoterapia 2022\|ponto hipófise]]                           |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto hipotálamo Auriculoterapia 2022\|ponto hipotálamo]]                       |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto hipotensão Auriculoterapia 2022\|Ponto hipotensâo]]                       |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto imunidade anterior Auriculoterapia 2022\|ponto imunidade anterior]]       |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto imunidade posterior Auriculoterapia 2022\|ponto imunidade posterior]]     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto intestino delgado Auriculoterapia 2022\|ponto intestino delgado]]         |
@@ -55,6 +60,7 @@
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto joelho Auriculoterapia 2022\|ponto joelho]]                               |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto lumbago Auriculoterapia 2022\|ponto lumbago]]                             |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto mamas Auriculoterapia 2022\|ponto mamas]]                                 |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto mão Auriculoterapia 2022\|ponto mão]]                                     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto metabolismo Auriculoterapia 2022\|ponto metabolismo]]                     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto nariz externo Auriculoterapia 2022\|ponto nariz externo]]                 |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto nariz interno Auriculoterapia 2022\|ponto nariz interno]]                 |
@@ -66,21 +72,26 @@
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto ovário testículo Auriculoterapia 2022\|ponto ovário testículo]]           |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto pâncreas Auriculterapia 2022\|ponto pâncreas]]                            |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto pé Auriculoterapia 2022\|ponto pé]]                                       |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto pele Auriculoterapia 2022\|Ponto pele]]                                   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto perna Auriculoterapia 2022\|ponto perna]]                                 |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto plexo solar Auriculoterapia 2022\|ponto plexo solar]]                     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto próstata Auriculoterapia 2022\|ponto próstata]]                           |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto psiquismo Auriculoterapia 2022\|ponto psiquismo]]                         |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto pulmão Auriculoterapia 2022\|ponto pulmão]]                               |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto punho Auriculoterapia 2022\|ponto punho]]                                 |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto quadril Auriculoterapia 2022\|Ponto quadril]]                             |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto relaxamento muscular Auriculoterapia 2022\|ponto relaxamento muscular]]   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto rim Auriculoterapia 2022\|ponto rim]]                                     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto sede Auriculoterapia 2022\|ponto sede]]                                   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto shen men Auriculoterapia 2022\|ponto shen men]]                           |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto SNV Auriculoterapia 2022\|Ponto SNV]]                                     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto sono Auriculoterapia 2022\|ponto sono]]                                   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto subcortex Auriculoterapia 2022\|ponto subcortex]]                         |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto tálamo Auriculoterapia 2022\|ponto tálamo]]                               |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto temporal Auriculoterapia 2022\|ponto temporal]]                           |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto termorregulador Auriculoterapia 2022\|ponto termorregulador]]             |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto tireóide Auriculoterapia 2022\|ponto tireóide]]                           |
+| [[Conhecimento/Auriculoterapia/Pontos/ponto tornozelo Auriculoterapia 2022\|Ponto tornozelo]]                                    |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto tosse posterior Auriculoterapia 2022\|ponto tosse posterior]]             |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto tronco cerebral posterior Auriculoterapia 2022\|ponto tronco cerebral]]   |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto uretra Auriculoterapia 2022\|ponto uretra]]                               |
