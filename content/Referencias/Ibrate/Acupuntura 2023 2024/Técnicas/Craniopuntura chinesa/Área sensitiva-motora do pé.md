@@ -19,5 +19,5 @@
 - torsões emergenciais da coluna lombar. 
 
 > [!NOTE] Jiao Shunfa 2006
-> hiperplasia cervical e lombar, [[alopecia areata\|alopecia areata]], [[Conhecimento/Alterações/Dermatite de contato\|dermatite de contato]], [[neurodermatite\|neurodermatite]] e [[Conhecimento/Alterações/insônia\|insônia]] severa:
+> hiperplasia cervical e lombar, [[alopecia areata\|alopecia areata]], [[Conhecimento/Alterações/dermatite de contato\|dermatite de contato]], [[neurodermatite\|neurodermatite]] e [[Conhecimento/Alterações/insônia\|insônia]] severa:
 > Estimulação simultânea dos 2/5 superiores da área sensorial e dessa área.

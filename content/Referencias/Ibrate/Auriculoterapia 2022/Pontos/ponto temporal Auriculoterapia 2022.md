@@ -8,6 +8,6 @@ No meio entre [[Conhecimento/Auriculoterapia/Pontos/ponto frontal\|ponto frontal
 - [[Conhecimento/Alterações/cefaleia\|cefaleia]]
 	[[Cefaleia temporal\|Cefaleia temporal]]
 - [[Disfunção temporomandibular\|Disfunção temporomandibular]]
-- [[Conhecimento/Alterações/Bruxismo\|Bruxismo]]
+- [[Conhecimento/Alterações/bruxismo\|bruxismo]]
 - [[Conhecimento/Alterações/ATM\|ATM]]
 - [[Conhecimento/Alterações/insônia\|insônia]] junto com outros (ver [[Conhecimento/Alterações/insônia#Doren Sayuri Kato 2022\|aqui]])

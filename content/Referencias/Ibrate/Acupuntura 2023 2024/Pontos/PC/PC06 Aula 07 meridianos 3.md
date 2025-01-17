@@ -21,7 +21,7 @@ Mais indicado
 *[[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]]*
 
 ## Combinações
-### [[Conhecimento/Acupuntura/Canais - Outros/Combinações/PC06 + BP04 (Confluência)\|PC06 + BP04 (Confluência)]] 
+### [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/PC06 + BP04 (Confluência)\|PC06 + BP04 (Confluência)]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -40,7 +40,7 @@ Ambos ansiolíticos, mas [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais - Outros/Combinações/Triangulo de Buda - Doren\|Triangulo de Buda - Doren]]
+### [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/Triangulo de Buda - Doren\|Triangulo de Buda - Doren]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -58,7 +58,7 @@ Pessoas [[Conhecimento/Alterações/stress\|estressadas]]
 </div></div>
  
 
-### [[Conhecimento/Acupuntura/Canais - Outros/Combinações/F03 + PC06\|F03 + PC06]]
+### [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/F03 + PC06\|F03 + PC06]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 

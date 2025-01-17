@@ -7,4 +7,4 @@
 ### Localização
 Próximo a [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA21\|TA21]] e [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID19\|ID19]]. Punturar com a boca aberta para criar o espaço. 
 ### Indicações
-Beneficia ouvido e fortalece a audição. [[Conhecimento/Alterações/Bruxismo\|bruxismo]], [[Conhecimento/Alterações/ATM\|ATM]], [[alteração auditiva\|alteração auditiva]], [[dor de dente\|dor de dente]], [[salivação excessiva\|salivação excessiva]]
+Beneficia ouvido e fortalece a audição. [[Conhecimento/Alterações/bruxismo\|bruxismo]], [[Conhecimento/Alterações/ATM\|ATM]], [[alteração auditiva\|alteração auditiva]], [[dor de dente\|dor de dente]], [[salivação excessiva\|salivação excessiva]]

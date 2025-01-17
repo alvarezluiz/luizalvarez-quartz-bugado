@@ -11,5 +11,5 @@ A frente do músculo masseter
 Elimina [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/fator vento\|fator vento]] da face, elimina [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/fator frio\|fator frio]] da face, Elimina [[Conhecimento/Alterações/fatores patogênicos/calor\|calor]] da face, rege mandíbula, fortalece os dentes. 
 
 ## Indicações
-[[Conhecimento/Alterações/paralisia facial\|Paralisia facial]], [[Conhecimento/Alterações/Bruxismo\|bruxismo]], [[Conhecimento/Alterações/neuralgia do trigêmeo\|neuralgia do trigêmeo]], [[Conhecimento/Alterações/afta\|afta]], [[salivação excessiva\|salivação excessiva]], dificuldade na mastigação, [[caxumba\|caxumba]], espasmo no músculo masseter. 
+[[Conhecimento/Alterações/paralisia facial\|Paralisia facial]], [[Conhecimento/Alterações/bruxismo\|bruxismo]], [[Conhecimento/Alterações/neuralgia do trigêmeo\|neuralgia do trigêmeo]], [[Conhecimento/Alterações/afta\|afta]], [[salivação excessiva\|salivação excessiva]], dificuldade na mastigação, [[caxumba\|caxumba]], espasmo no músculo masseter. 
 Para dor nos dentes +[[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] que libera endorfinas para membros superiores e cabeça. 

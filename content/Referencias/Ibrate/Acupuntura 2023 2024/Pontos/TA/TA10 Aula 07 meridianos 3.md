@@ -9,7 +9,7 @@ Ponto de sedação.
 Na fossa do olécrano fletido: Atrás do cotovelo, com braço fletido, passa o olécrano e vai abrindo o braço devagar até a fossa abrir.
 ## Indicações
 - ponto a distância para [[Conhecimento/Alterações/amigdalite\|amigdalite]]
-- excelente para [[Conhecimento/Alterações/insônia\|insônia]] com [[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA10 + C05\|C05]]
+- excelente para [[Conhecimento/Alterações/insônia\|insônia]] com [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA10 + C05\|C05]]
 - [[epicondilite\|epicondilite]]
 - [[enxaqueca temporal\|enxaqueca temporal]]
 

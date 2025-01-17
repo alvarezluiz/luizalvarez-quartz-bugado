@@ -8,5 +8,5 @@
 No freio naso-labial.
 ## Indicações
 ### Sangria
-[[Conhecimento/Alterações/hemorroida\|hemorroida]] e [[Conhecimento/Alterações/prolapso do reto\|prolapso do reto]]
+[[Conhecimento/Alterações/hemorroidas\|hemorroidas]] e [[Conhecimento/Alterações/prolapso do reto\|prolapso do reto]]
 furar a bolinha com lanceta até perceber que ela rompe - fazer quando tiver a bolinha)

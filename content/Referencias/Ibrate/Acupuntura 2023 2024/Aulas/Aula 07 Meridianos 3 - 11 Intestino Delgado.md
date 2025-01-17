@@ -84,7 +84,7 @@ Cranial à articulação metacarpofalangeana, na dobra da pele ao flexionar os d
 - tremor nas mãos
 
 ## Combinações
-[[Referencias/Ibrate/Acupuntura 2023 2024/Material/Pontos de Confluência\|Ponto de confluência]]: [[Conhecimento/Acupuntura/Canais - Outros/Combinações/ID03 + B62\|ID03 + B62]] → relaxa musculatura de trapézio, ombro e escápula
+[[Referencias/Ibrate/Acupuntura 2023 2024/Material/Pontos de Confluência\|Ponto de confluência]]: [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/ID03 + B62\|ID03 + B62]] → relaxa musculatura de trapézio, ombro e escápula
 
 
 </div></div>

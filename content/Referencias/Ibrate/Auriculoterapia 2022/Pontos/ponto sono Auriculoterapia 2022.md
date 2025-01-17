@@ -5,6 +5,6 @@
 ## Localização
 No meio do helix, na altura da incisura intertrágica.
 ## Indicações
-- Distúrbio do [[sono\|sono]]
+- [[Conhecimento/Alterações/distúrbios do sono\|distúrbios do sono]]
 - [[Conhecimento/Alterações/sonolência diurna\|sonolência diurna]]
 - [[Conhecimento/Alterações/pesadelo\|pesadelo]]

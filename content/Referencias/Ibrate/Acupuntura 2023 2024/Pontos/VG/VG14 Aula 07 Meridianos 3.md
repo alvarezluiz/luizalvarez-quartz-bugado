@@ -17,6 +17,6 @@ Neste ponto existe um cruzamento dos meridianos Yang
 - [[Conhecimento/Alterações/cefaleia\|dor de cabeça]]
 
 ## Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VG14 + VG04\|VG14 + VG04]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VG14 + VG04\|VG14 + VG04]]
 tonifica do aumenta vitalidade 
 Dor ao longo da coluna, VG14 sedando e VG04 tonificando 

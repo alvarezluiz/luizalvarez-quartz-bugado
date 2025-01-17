@@ -13,5 +13,5 @@ Ponto alarme do coração (dolorido em ansiosos)
 Elimina fogo do coração([[Conhecimento/Alterações/dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]
-- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + E24 + E25\|VC14 + E24 + E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC14 + E24 + E25\|VC14 + E24 + E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)

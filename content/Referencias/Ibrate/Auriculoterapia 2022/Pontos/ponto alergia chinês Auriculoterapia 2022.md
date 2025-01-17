@@ -15,7 +15,7 @@ Para chineses, todas as alergias são respiratórias.
 - [[Conhecimento/Alterações/rinite\|rinite]]
 - [[Conhecimento/Alterações/asma\|asma]]
 - [[Conhecimento/Alterações/sinusite\|sinusite]]
-- [[Dermatite de contato \|Dermatite de contato ]]
+- [[Conhecimento/Alterações/dermatite de contato\|dermatite de contato]]
 - [[Conhecimento/Alterações/Eczema\|Eczema]]
 - [[Conhecimento/Alterações/psoríase\|psoríase]]
 - [[Conhecimento/Alterações/acne\|acne]]

@@ -7,5 +7,5 @@ Acima do limite do tragus e raiz do hélix, no meio da espessura
 ## Indicações
 - Pré cirurgia
 - Pós cirurgia
-- [[Conhecimento/Alterações/hemorroida\|hemorroida]]
+- [[Conhecimento/Alterações/hemorroidas\|hemorroidas]]
 - [[Conhecimento/Alterações/constipação\|constipação]] de mais de 5 dias

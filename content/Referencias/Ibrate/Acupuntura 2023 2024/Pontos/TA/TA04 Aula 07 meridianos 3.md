@@ -17,8 +17,8 @@ No centro da prega dorsal do punho
 - [[Enjoo\|Enjoo]]
 pode usar em gestante
 ## Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA04 + E42\|TA04 + E42]] tonifica Qi original: [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/apatia\|apatia]], [[Conhecimento/Alterações/falta de vontade\|falta de vontade]]. Auxilia Jing.
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA04 + E42\|TA04 + E42]] tonifica Qi original: [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/apatia\|apatia]], [[Conhecimento/Alterações/falta de vontade\|falta de vontade]]. Auxilia Jing.
 
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA04 + B64\|TA04 + B64]] equilibra circulação das águas. Pode ser usado em [[Conhecimento/Alterações/cistite\|cistite]] de repetição. Equilíbrio alto e baixo
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA04 + B64\|TA04 + B64]] equilibra circulação das águas. Pode ser usado em [[Conhecimento/Alterações/cistite\|cistite]] de repetição. Equilíbrio alto e baixo
 
 

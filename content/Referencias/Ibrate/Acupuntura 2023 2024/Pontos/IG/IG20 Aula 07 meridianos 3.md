@@ -10,4 +10,4 @@ Na lateral das narinas,como se fosse bigode de gato
 # Indicações
 - [[Conhecimento/Alterações/sinusite\|sinusite]]
 - fleugma
-- estagnação nos seios paranasais: [[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG20 + IG04 + E40 + E03 + ventosa nos seios paranasais\|IG20 + IG04 + E40 + E03 + ventosa nos seios paranasais]], como forma de tentativa de liberar mucosidade
+- estagnação nos seios paranasais: [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/IG20 + IG04 + E40 + E03 + ventosa nos seios paranasais\|IG20 + IG04 + E40 + E03 + ventosa nos seios paranasais]], como forma de tentativa de liberar mucosidade

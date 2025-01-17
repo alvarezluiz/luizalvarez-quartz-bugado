@@ -9,4 +9,4 @@
 ## Indicações
 - relaxa o trapézio
 ## Combinações
-- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA15 + VB20\|TA15 + VB20]] para [[Conhecimento/Alterações/cervicalgia\|cervicalgia]] com [[dor no trapézio\|dor no trapézio]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA15 + VB20\|TA15 + VB20]] para [[Conhecimento/Alterações/cervicalgia\|cervicalgia]] com [[dor no trapézio\|dor no trapézio]]

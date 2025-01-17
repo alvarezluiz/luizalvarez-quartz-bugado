@@ -15,4 +15,4 @@ Celeiro das emoções
 - choro de óbtio
 - 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC17 + VC18\|VC17 + VC18]]:  VC17 agulha subindo e VC18 agulha descendo - mágoa, tristeza
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC17 + VC18\|VC17 + VC18]]:  VC17 agulha subindo e VC18 agulha descendo - mágoa, tristeza

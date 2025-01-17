@@ -15,4 +15,4 @@ Proibido na gravidez
 - Indicado para [[Conhecimento/Alterações/edema\|edema]], fortalece Qi ancestral.
 - 
 ##  Combinações
-Com [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC04 + VC05\|VC05]] [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], [[Conhecimento/Alterações/Mioma\|Mioma]], [[Conhecimento/Alterações/cisto no ovário\|cisto no ovário]], [[Conhecimento/Alterações/dismenorreia\|dismenorreia]], [[Conhecimento/Alterações/cólica menstrual\|cólica menstrual]], [[Conhecimento/Alterações/endometriose\|endometriose]]
+Com [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC04 + VC05\|VC05]] [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], [[Conhecimento/Alterações/Mioma\|Mioma]], [[Conhecimento/Alterações/cisto no ovário\|cisto no ovário]], [[Conhecimento/Alterações/dismenorreia\|dismenorreia]], [[Conhecimento/Alterações/cólica menstrual\|cólica menstrual]], [[Conhecimento/Alterações/endometriose\|endometriose]]

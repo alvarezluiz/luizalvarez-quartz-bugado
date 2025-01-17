@@ -21,6 +21,6 @@ Profundidade até 2 tsun
 - vômito na gravidez no primeiro trimestre ([[Conhecimento/Condições/hiperemese gravidica\|hiperemese gravidica]])
 - 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E34\|VC12 + E34]] [[Conhecimento/Alterações/gastrite aguda\|gastrite aguda]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + PC06 + BP04\|VC12 + PC06 + BP04]] [[Conhecimento/Alterações/gastrite nervosa\|gastrite nervosa]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E45\|VC12 + E45]] [[Conhecimento/Alterações/dor de estômago\|dor de estômago]], [[p[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC12 + E34\|VC12 + E34]] [[Conhecimento/Alterações/gastrite aguda\|gastrite aguda]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC12 + PC06 + BP04\|VC12 + PC06 + BP04]] [[Conhecimento/Alterações/gastrite nervosa\|gastrite nervosa]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC12 + E45\|VC12 + E45]] [[Conhecimento/Alterações/dor de estômago\|dor de estômago]], [[p[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])

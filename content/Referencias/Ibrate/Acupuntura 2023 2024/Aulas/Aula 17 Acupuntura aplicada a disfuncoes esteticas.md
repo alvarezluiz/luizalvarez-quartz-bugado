@@ -222,9 +222,9 @@ Tipo ginoide, yin, pera
 - [[Conhecimento/Acupuntura/Canais/Rim/R03\|R03]] nutre o Qi (yin e Yang) dos rins
 - [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]] evacuação (circulação) das águas 
 - [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID06\|ID06]] eliminação de gases fétidos 
-- BP02 com um dos seguintes, elimina gordura: 	- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/BP02+VB41\|VB41]] umidade calor 
-	- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/BP02+VB42\|VB42]] espalha Qi do fígado 
-	- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/BP02+VB43\|VB43]] equilibrar fígado, eliminar calor 
+- BP02 com um dos seguintes, elimina gordura: 	- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/BP02+VB41\|VB41]] umidade calor 
+	- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/BP02+VB42\|VB42]] espalha Qi do fígado 
+	- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/BP02+VB43\|VB43]] equilibrar fígado, eliminar calor 
 - [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]] obesidade abaixo da cintura, elimina Mucosidade 
 - [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]] desintoxicação, movimenta o Xue e alivia a estagnação 
 - [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA08\|TA08]] ou [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA06\|TA06]] regula os três aquecedores e promove o movimento intestinal 

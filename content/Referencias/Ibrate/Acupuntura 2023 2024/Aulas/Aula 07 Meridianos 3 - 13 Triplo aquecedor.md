@@ -115,9 +115,9 @@ No centro da prega dorsal do punho
 - [[Enjoo\|Enjoo]]
 pode usar em gestante
 ## Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA04 + E42\|TA04 + E42]] tonifica Qi original: [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/apatia\|apatia]], [[Conhecimento/Alterações/falta de vontade\|falta de vontade]]. Auxilia Jing.
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA04 + E42\|TA04 + E42]] tonifica Qi original: [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/apatia\|apatia]], [[Conhecimento/Alterações/falta de vontade\|falta de vontade]]. Auxilia Jing.
 
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA04 + B64\|TA04 + B64]] equilibra circulação das águas. Pode ser usado em [[Conhecimento/Alterações/cistite\|cistite]] de repetição. Equilíbrio alto e baixo
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA04 + B64\|TA04 + B64]] equilibra circulação das águas. Pode ser usado em [[Conhecimento/Alterações/cistite\|cistite]] de repetição. Equilíbrio alto e baixo
 
 
 
@@ -219,7 +219,7 @@ Ponto de sedação.
 Na fossa do olécrano fletido: Atrás do cotovelo, com braço fletido, passa o olécrano e vai abrindo o braço devagar até a fossa abrir.
 ## Indicações
 - ponto a distância para [[Conhecimento/Alterações/amigdalite\|amigdalite]]
-- excelente para [[Conhecimento/Alterações/insônia\|insônia]] com [[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA10 + C05\|C05]]
+- excelente para [[Conhecimento/Alterações/insônia\|insônia]] com [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA10 + C05\|C05]]
 - [[epicondilite\|epicondilite]]
 - [[enxaqueca temporal\|enxaqueca temporal]]
 
@@ -259,7 +259,7 @@ Dores no ombro.
 ## Indicações
 - relaxa o trapézio
 ## Combinações
-- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/TA15 + VB20\|TA15 + VB20]] para [[Conhecimento/Alterações/cervicalgia\|cervicalgia]] com [[dor no trapézio\|dor no trapézio]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/TA15 + VB20\|TA15 + VB20]] para [[Conhecimento/Alterações/cervicalgia\|cervicalgia]] com [[dor no trapézio\|dor no trapézio]]
 
 
 </div></div>

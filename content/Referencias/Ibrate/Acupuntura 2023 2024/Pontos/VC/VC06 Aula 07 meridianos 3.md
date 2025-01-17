@@ -18,4 +18,4 @@ Responsável pelo armazenamento e distribuição do Qi
 
 ##  Combinações
 com [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] - estagnação de baço
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC04 + VC06\|VC04 + VC06]] aquece o útero ([[Conhecimento/Alterações/infertilidade\|aumenta fertilidade]])
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC04 + VC06\|VC04 + VC06]] aquece o útero ([[Conhecimento/Alterações/infertilidade\|aumenta fertilidade]])

@@ -7,7 +7,7 @@ Fim da linha reta vertical traçada a partir do fim do antitragus. Na borda infe
 ## Indicações
 - Tensão emocional
 - [[esquizofrenia\|esquizofrenia]]
-- [[Psicoses\|Psicoses]]
+- [[Conhecimento/Alterações/Psicose\|Psicose]]
 - [[Conhecimento/Alterações/depressão\|depressão]]
 - [[Conhecimento/Alterações/mania\|mania]]
 - [[sindrome bipolar\|sindrome bipolar]]
@@ -22,6 +22,6 @@ Fim da linha reta vertical traçada a partir do fim do antitragus. Na borda infe
 - [[Conhecimento/Alterações/tabagismo\|tabagismo]]
 - [[Conhecimento/Alterações/obesidade\|obesidade]]
 - [[Conhecimento/Alterações/fibromialgia\|fibromialgia]]
-- psicose
+- [[Conhecimento/Alterações/pesadelo\|pesadelo]]
 
 Não usar na ansiedade tem pontos melhores

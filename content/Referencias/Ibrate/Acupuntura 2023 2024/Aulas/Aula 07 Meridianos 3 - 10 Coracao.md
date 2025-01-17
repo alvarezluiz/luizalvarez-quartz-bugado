@@ -124,7 +124,7 @@ Luo do coração
 - em deficiência de Qi, paciente apresente [[dispnéia\|dispnéia]], [[Conhecimento/Alterações/cansaço\|cansaço]], [[fraqueza\|fraqueza]] ([[lingua palida\|lingua palida]])
 
 ## Combinações
-- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/C05 + TA10\|C05 + TA10]] - [[Conhecimento/Alterações/insônia\|insônia]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/C05 + TA10\|C05 + TA10]] - [[Conhecimento/Alterações/insônia\|insônia]]
 
 </div></div>
 

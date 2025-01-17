@@ -127,7 +127,7 @@ Proibido na gravidez
 - Indicado para [[Conhecimento/Alterações/edema\|edema]], fortalece Qi ancestral.
 - 
 ##  Combinações
-Com [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC04 + VC05\|VC05]] [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], [[Conhecimento/Alterações/Mioma\|Mioma]], [[Conhecimento/Alterações/cisto no ovário\|cisto no ovário]], [[Conhecimento/Alterações/dismenorreia\|dismenorreia]], [[Conhecimento/Alterações/cólica menstrual\|cólica menstrual]], [[Conhecimento/Alterações/endometriose\|endometriose]]
+Com [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC04 + VC05\|VC05]] [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], [[Conhecimento/Alterações/Mioma\|Mioma]], [[Conhecimento/Alterações/cisto no ovário\|cisto no ovário]], [[Conhecimento/Alterações/dismenorreia\|dismenorreia]], [[Conhecimento/Alterações/cólica menstrual\|cólica menstrual]], [[Conhecimento/Alterações/endometriose\|endometriose]]
 
 </div></div>
 
@@ -155,7 +155,7 @@ Responsável pelo armazenamento e distribuição do Qi
 
 ##  Combinações
 com [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] - estagnação de baço
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC04 + VC06\|VC04 + VC06]] aquece o útero ([[Conhecimento/Alterações/infertilidade\|aumenta fertilidade]])
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC04 + VC06\|VC04 + VC06]] aquece o útero ([[Conhecimento/Alterações/infertilidade\|aumenta fertilidade]])
 
 </div></div>
 
@@ -208,8 +208,8 @@ ponto do comando das aguas
 bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hídrica\|retenção hídrica]], bom para [[Conhecimento/Alterações/edema\|edema]], [[Conhecimento/Alterações/retenção urinária\|retenção urinária]] (aumenta [[Conhecimento/Alterações/Diurético\|diurese]])
 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção h[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC09 + BP09\|VC09 + BP09]] [[retenção h[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
 
 </div></div>
 
@@ -240,9 +240,9 @@ Profundidade até 2 tsun
 - vômito na gravidez no primeiro trimestre ([[Conhecimento/Condições/hiperemese gravidica\|hiperemese gravidica]])
 - 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E34\|VC12 + E34]] [[Conhecimento/Alterações/gastrite aguda\|gastrite aguda]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + PC06 + BP04\|VC12 + PC06 + BP04]] [[Conhecimento/Alterações/gastrite nervosa\|gastrite nervosa]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC12 + E45\|VC12 + E45]] [[Conhecimento/Alterações/dor de estômago\|dor de estômago]], [[p[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC12 + E34\|VC12 + E34]] [[Conhecimento/Alterações/gastrite aguda\|gastrite aguda]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC12 + PC06 + BP04\|VC12 + PC06 + BP04]] [[Conhecimento/Alterações/gastrite nervosa\|gastrite nervosa]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC12 + E45\|VC12 + E45]] [[Conhecimento/Alterações/dor de estômago\|dor de estômago]], [[p[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura aplicada a disfunções estéticas]]estéticas]])
 
 </div></div>
 
@@ -265,8 +265,8 @@ Ponto alarme do coração (dolorido em ansiosos)
 Elimina fogo do coração([[Conhecimento/Alterações/dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]
-- [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + E24 + E25\|VC14 + E24 + E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]
+- [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC14 + E24 + E25\|VC14 + E24 + E25]] - combinação que acalma a fome (VC14 acalma o coração, estômago direciona a energia do estômago para baixo)
 
 </div></div>
 
@@ -328,7 +328,7 @@ Celeiro das emoções
 - choro de óbtio
 - 
 ##  Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC17 + VC18\|VC17 + VC18]]:  VC17 agulha subindo e VC18 agulha descendo - mágoa, tristeza
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VC17 + VC18\|VC17 + VC18]]:  VC17 agulha subindo e VC18 agulha descendo - mágoa, tristeza
 
 </div></div>
 

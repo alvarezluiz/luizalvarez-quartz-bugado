@@ -118,7 +118,7 @@ Palpar e escolher o lado mais dolorido.
 Fim do meridiano do vaso governador. [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG28\|VG28]]
 Bolinha no freio. Não necessariamente no meio. 
 ### Indicações
-- Sinal de [[Conhecimento/Alterações/hemorroida\|hemorróida]] 
+- Sinal de [[Conhecimento/Alterações/hemorroidas\|hemorróida]] 
 - Sangria. Quase não sangra. Não dói.
 - Se não tiver bolinha, moxa no [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]. 
 
@@ -465,6 +465,21 @@ Ponto no meio da face lateral da falange do dedo anular.
 Ideal útero  lado, ovário outro lado. 
 
 Substitui ou auxilia [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]]. 
+
+</div></div>
+
+### Para baixa libido:
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+combinação
+- [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC03\|VC03]]
+- [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]]
+- [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]]
+- [[Conhecimento/Acupuntura/Canais - Outros/Pontos extras/Pontos extras do utero e extra dos ovarios\|pontos extras do útero e ponto extra dos ovários]]
+
 
 </div></div>
 

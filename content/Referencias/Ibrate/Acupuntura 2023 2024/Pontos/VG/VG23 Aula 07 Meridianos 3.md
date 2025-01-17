@@ -16,4 +16,4 @@
 [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]]
 
 ## Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VG20 + VG23\|VG20 + VG23]] Insônia
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VG20 + VG23\|VG20 + VG23]] Insônia

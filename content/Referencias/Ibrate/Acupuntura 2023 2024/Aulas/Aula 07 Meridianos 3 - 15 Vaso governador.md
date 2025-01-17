@@ -167,7 +167,7 @@ Neste ponto existe um cruzamento dos meridianos Yang
 - [[Conhecimento/Alterações/cefaleia\|dor de cabeça]]
 
 ## Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VG14 + VG04\|VG14 + VG04]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VG14 + VG04\|VG14 + VG04]]
 tonifica do aumenta vitalidade 
 Dor ao longo da coluna, VG14 sedando e VG04 tonificando 
 
@@ -285,7 +285,7 @@ Prolapsos ([[Prolapso de bexiga\|bexiga]], [[Conhecimento/Alterações/prolapso 
 [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|acalma a mente]]
 
 ## Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/VG20 + VG23\|VG20 + VG23]] Insônia
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/VG20 + VG23\|VG20 + VG23]] Insônia
 
 </div></div>
 
@@ -325,7 +325,7 @@ A meia distância da base do nariz e lábios, agulha perpendicular
 No freio naso-labial.
 ## Indicações
 ### Sangria
-[[Conhecimento/Alterações/hemorroida\|hemorroida]] e [[Conhecimento/Alterações/prolapso do reto\|prolapso do reto]]
+[[Conhecimento/Alterações/hemorroidas\|hemorroidas]] e [[Conhecimento/Alterações/prolapso do reto\|prolapso do reto]]
 furar a bolinha com lanceta até perceber que ela rompe - fazer quando tiver a bolinha)
 
 </div></div>

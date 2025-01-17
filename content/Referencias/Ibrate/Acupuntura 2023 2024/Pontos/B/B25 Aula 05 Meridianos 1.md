@@ -17,7 +17,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L4, a 1,5 t
 - [[Síndrome do intestino irritável\|Síndrome do intestino irritável]]
 - [[Colite\|Colite]]
 - [[Gases\|Gases]]
-- [[Conhecimento/Alterações/hemorroida\|Hemorróida]].
+- [[Conhecimento/Alterações/hemorroidas\|Hemorróida]].
 
 Massagear entre 5:00 e 7:00
 * Harmoniza e umidifica intestinos

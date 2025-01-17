@@ -30,8 +30,8 @@ Fonte do meridiano
 	- [[Conhecimento/Alterações/alergia\|alergia]] de pele (vermelhas)
 - [[anestesia\|anestesia]] frequência alta e estímulo constante
 # Combinações
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG04 + IG20\|IG04 + IG20]] rinite, sinusite, congestão nasal
-Sangria com ventosa [[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG04 + IG11 + VG14 + BP10\|IG04 + IG11 + VG14 + BP10]] + [[Conhecimento/Acupuntura/Canais/Pulmao/P05\|P05]] (refresca a pele) [[Conhecimento/Alterações/acne\|acne]] e [[Conhecimento/Alterações/Alergia de pele\|alergia de pele]]
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG04 + E25\|IG04 + E25]] [[Conhecimento/Alterações/constipação\|constipação]] (estimula movimento)
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG04 + IG15\|IG04 + IG15]] dor no ombro (região do meridiano)
-[[Conhecimento/Acupuntura/Canais - Outros/Combinações/IG04 + R07\|IG04 + R07]] + ponto emocional (como [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]], [[Conhecimento/Acupuntura/Canais/Pericardio/PC05\|PC05]] ou [[Conhecimento/Acupuntura/Canais/Pericardio/PC04\|PC04]]) - [[Raiz/hiperidrose\|hiperidrose]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/IG04 + IG20\|IG04 + IG20]] rinite, sinusite, congestão nasal
+Sangria com ventosa [[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/IG04 + IG11 + VG14 + BP10\|IG04 + IG11 + VG14 + BP10]] + [[Conhecimento/Acupuntura/Canais/Pulmao/P05\|P05]] (refresca a pele) [[Conhecimento/Alterações/acne\|acne]] e [[Conhecimento/Alterações/Alergia de pele\|alergia de pele]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/IG04 + E25\|IG04 + E25]] [[Conhecimento/Alterações/constipação\|constipação]] (estimula movimento)
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/IG04 + IG15\|IG04 + IG15]] dor no ombro (região do meridiano)
+[[Referencias/Ibrate/Acupuntura 2023 2024/Combinações/IG04 + R07\|IG04 + R07]] + ponto emocional (com [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]], [[Conhecimento/Acupuntura/Canais/Pericardio/PC05\|PC05]] ou [[Conhecimento/Acupuntura/Canais/Pericardio/PC04\|PC04]]) - [[Raiz/hiperidrose\|hiperidrose]]

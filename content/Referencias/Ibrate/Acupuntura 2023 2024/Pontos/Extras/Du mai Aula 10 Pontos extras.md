@@ -7,6 +7,6 @@
 Fim do meridiano do vaso governador. [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG28\|VG28]]
 Bolinha no freio. Não necessariamente no meio. 
 ### Indicações
-- Sinal de [[Conhecimento/Alterações/hemorroida\|hemorróida]] 
+- Sinal de [[Conhecimento/Alterações/hemorroidas\|hemorróida]] 
 - Sangria. Quase não sangra. Não dói.
 - Se não tiver bolinha, moxa no [[Conhecimento/Acupuntura/Canais/Vaso Governador/VG20\|VG20]]. 

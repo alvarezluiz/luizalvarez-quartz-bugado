@@ -9,7 +9,7 @@ Tudo que se relacione com [[Conhecimento/Acupuntura/Anotaçoes/Substancias/Sangu
 - [[Conhecimento/Alterações/varizes\|varizes]]
 - [[Conhecimento/Alterações/trombose\|trombose]]
 - [[Conhecimento/Alterações/hemorragia\|hemorragia]]
-- [[Conhecimento/Alterações/hemorroida\|hemorroida]]
+- [[Conhecimento/Alterações/hemorroidas\|hemorroidas]]
 - [[Conhecimento/Alterações/diabetes\|diabetes]]
 - [[Conhecimento/Alterações/Extremidade fria\|Extremidade fria]]
 - [[Conhecimento/Alterações/leucemia\|leucemia]]
