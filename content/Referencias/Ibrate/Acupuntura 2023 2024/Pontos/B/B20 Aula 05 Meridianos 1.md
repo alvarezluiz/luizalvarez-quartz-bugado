@@ -20,7 +20,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T11, a 1,5 
 - Tosse por deficiência de Baço
 - [[Conhecimento/Alterações/diabetes\|Diabetes]]
 - [[Conhecimento/Alterações/obesidade\|Obesidade]]
-- [[Conhecimento/Alterações/Edema\|Edema]] de abdome
+- [[Conhecimento/Alterações/edema\|edema]] de abdome
 - [[Conhecimento/Alterações/diarreia\|Diarreia]] (logo após comer = deficiência de Baço
 - [[Conhecimento/Alterações/preocupação\|Preocupação]]
 - [[Conhecimento/Alterações/distúrbios da menstruação\|Distúrbios da menstruação]]

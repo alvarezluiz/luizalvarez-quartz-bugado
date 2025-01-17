@@ -7,7 +7,7 @@ Usar bilateral em vício químico
 ## Indicações
 - [[Conhecimento/Alterações/vício\|vício]] em geral
 - [[Conhecimento/Alterações/tabagismo\|tabagismo]] bilateral
-- [[Conhecimento/Alterações/Alcoolismo\|Alcoolismo]] bilateral
+- [[Conhecimento/Alterações/alcoolismo\|alcoolismo]] bilateral
 - [[Conhecimento/Alterações/obesidade\|obesidade]] unilateral 
 - [[compulsão\|compulsão]]
 - [[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]]

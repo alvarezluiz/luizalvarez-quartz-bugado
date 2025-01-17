@@ -9,7 +9,7 @@ Metade da distancia do fim da raiz do helix e parede da concha.
 - Não usar em quem está sem dor e treina pra ganhar músculo
 - Efeito dorflex
 - [[Conhecimento/Alterações/dor muscular\|dor muscular]]
-- [[Conhecimento/Alterações/Cãibra\|Cãibra]]
+- [[Conhecimento/Alterações/cãibra\|cãibra]]
 - [[Conhecimento/Alterações/Contratura muscular\|Contratura muscular]]
 - [[Conhecimento/Alterações/cervicalgia\|cervicalgia]]
 - [[Conhecimento/Alterações/lombalgia\|lombalgia]]

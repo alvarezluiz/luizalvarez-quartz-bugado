@@ -12,7 +12,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L1, a 1,5 t
 - Envolvido com água e temperatura
 - Abre a via das águas no Aquecedor inferior
 - Estimula transformação e eliminação dos fluidos impuros
-- [[Conhecimento/Alterações/Edema\|Edema]]
+- [[Conhecimento/Alterações/edema\|edema]]
 - [[Distúrbio do sistema urinário\|Distúrbio do sistema urinário]]
 - [[Micção dolorosa\|Micção dolorosa]]
 - [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]]

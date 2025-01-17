@@ -6,6 +6,6 @@ Entre muro e assoalho da concha, abaixo do [[Conhecimento/Auriculoterapia/Pontos
 ## Indicações
 - [[Conhecimento/Alterações/prostatite\|prostatite]]
 - Tumor na próstata
-- [[Ejaculação precoce \|Ejaculação precoce ]]
+- [[Conhecimento/Alterações/ejaculação precoce\|ejaculação precoce]]
 - [[Conhecimento/Alterações/infertilidade\|esterilidade]] 
 - [[Conhecimento/Alterações/impotência sexual\|impotência sexual]]

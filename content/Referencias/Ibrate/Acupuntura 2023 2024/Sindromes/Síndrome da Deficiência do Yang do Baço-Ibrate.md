@@ -4,7 +4,7 @@
 
 ## Diagnóstico
 ## Manifestações Clínicas Gerais
-[[Conhecimento/Alterações/anorexia\|Anorexia]], [[Conhecimento/Alterações/distensão abdominal após as refeições\|distensão abdominal após as refeições]], [[Conhecimento/Alterações/palidez\|compleição pálida]] ou branca-brilhante, [[Conhecimento/Alterações/Edema\|edema]]. [[Conhecimento/Alterações/Diarreia após refeições\|Diarreia após refeições]], com [[Conhecimento/Alterações/fezes com alimentos\|alimentos mal digeridos]].
+[[Conhecimento/Alterações/anorexia\|Anorexia]], [[Conhecimento/Alterações/distensão abdominal após as refeições\|distensão abdominal após as refeições]], [[Conhecimento/Alterações/palidez\|compleição pálida]] ou branca-brilhante, [[Conhecimento/Alterações/edema\|edema]]. [[Conhecimento/Alterações/Diarreia após refeições\|Diarreia após refeições]], com [[Conhecimento/Alterações/fezes com alimentos\|alimentos mal digeridos]].
 
 ## Língua
 Pálida, edemaciada e úmida

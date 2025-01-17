@@ -11,4 +11,5 @@ Entre [[Conhecimento/Auriculoterapia/Pontos/ponto esôfago\|ponto esôfago]] e [
 - [[Conhecimento/Alterações/vômito\|vômito]]
 - [[Conhecimento/Alterações/refluxo\|refluxo]]
 - [[Hérnia de hiato\|Hérnia de hiato]]
-- [[Regurgitação\|Regurgitação]]
+- [[Conhecimento/Alterações/regurgitação ácida\|regurgitação ácida]]
+

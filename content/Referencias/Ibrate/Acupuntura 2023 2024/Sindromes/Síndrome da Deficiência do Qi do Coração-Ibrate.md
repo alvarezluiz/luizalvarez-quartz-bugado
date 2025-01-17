@@ -8,7 +8,7 @@
 **Língua**: [[Conhecimento/Alterações/Língua pálida\|Língua pálida]] ou de cor normal. Nos casos severos a língua pode apresentar uma rachadura na linha média, que vai até a ponta, com edema nas laterais.
 
 **Manifestações Clínicas principais**:
-[[Conhecimento/Alterações/palpitação\|palpitação]], [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/Dispneia\|dispneia]] e [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/pulso vazio\|pulso vazio]] (não tem força, desaparece com pequena pressão)
+[[Conhecimento/Alterações/palpitação\|palpitação]], [[Conhecimento/Alterações/cansaço\|cansaço]], [[Conhecimento/Alterações/dispneia\|dispneia]] e [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/pulso vazio\|pulso vazio]] (não tem força, desaparece com pequena pressão)
 
 > [!Note] Pulso vazio
 > Não tem força. Desaparece com pequena pressão. Não tem força (Qi) para bater, por consequência leva a deficiência de Xue. 

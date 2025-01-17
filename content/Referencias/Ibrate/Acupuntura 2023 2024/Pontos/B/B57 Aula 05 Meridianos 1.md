@@ -11,7 +11,7 @@ No final do tendão de Aquiles, antes do músculo.
 ### Indicações
 Agulha em sedação para sustentação emocional.
 
-Perpendicular relaxa tendões [[Conhecimento/Alterações/Cãibra\|Cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
+Perpendicular relaxa tendões [[Conhecimento/Alterações/cãibra\|cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
 Pernas cansadas, para quem trabalha muito em pé ou caminhando.
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
 - [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]

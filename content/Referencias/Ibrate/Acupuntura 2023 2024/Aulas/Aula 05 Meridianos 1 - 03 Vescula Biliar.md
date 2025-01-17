@@ -201,7 +201,7 @@ Braço esticado ao longo do corpo, com a mão aberta, onde apontar o dedo médio
 - [[Entorse\|Entorse]]
 - Qualquer ferimento no tendão
 - Relaxa o tendão
-- [[Conhecimento/Alterações/Cãibra\|Cãibra]]
+- [[Conhecimento/Alterações/cãibra\|cãibra]]
 - [[espasmo muscular\|espasmo muscular]]
 - [[Conhecimento/Alterações/tendinite\|tendinite]]
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]], especialmente nas pernas

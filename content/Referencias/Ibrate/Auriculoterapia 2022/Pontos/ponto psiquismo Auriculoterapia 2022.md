@@ -17,7 +17,7 @@ Fim da linha reta vertical traçada a partir do fim do antitragus. Na borda infe
 - [[compulsividade\|compulsividade]]
 - [[Conhecimento/Alterações/ansiedade\|ansiedade]]
 - [[agressividade\|agressividade]]
-- [[Conhecimento/Alterações/Alcoolismo\|Alcoolismo]]
+- [[Conhecimento/Alterações/alcoolismo\|alcoolismo]]
 - [[Conhecimento/Alterações/vício\|vício]]
 - [[Conhecimento/Alterações/tabagismo\|tabagismo]]
 - [[Conhecimento/Alterações/obesidade\|obesidade]]

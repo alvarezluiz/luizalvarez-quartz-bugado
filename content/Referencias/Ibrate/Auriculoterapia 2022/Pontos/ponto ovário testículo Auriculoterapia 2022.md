@@ -11,6 +11,6 @@
 - [[Conhecimento/Alterações/metrorragia\|metrorragia]]
 - [[Conhecimento/Alterações/amenorreia\|amenorreia]]
 - [[Conhecimento/Alterações/dismenorreia\|dismenorreia]]
-- [[Conhecimento/Alterações/Cisto no ovario\|Cisto no ovario]]
+- [[Conhecimento/Alterações/cisto no ovário\|cisto no ovário]]
 - [[Conhecimento/Alterações/baixa libido\|baixa libido]]
 - [[Conhecimento/Alterações/hirsutismo\|hirsutismo]]

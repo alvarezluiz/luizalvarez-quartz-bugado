@@ -3,7 +3,7 @@
 ---
 
 **Manifestações Clínicas Gerais**
-[[Conhecimento/Alterações/Dispneia\|Dispneia]], sons em forma de respingo no tórax, [[Conhecimento/Alterações/calafrio\|calafrios]].
+[[Conhecimento/Alterações/dispneia\|dispneia]], sons em forma de respingo no tórax, [[Conhecimento/Alterações/calafrio\|calafrios]].
 
 **Língua**
 Pálida com saburra branca-espessa-pegajosa.

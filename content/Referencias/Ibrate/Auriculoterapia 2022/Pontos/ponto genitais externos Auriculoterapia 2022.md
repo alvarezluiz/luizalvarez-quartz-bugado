@@ -7,7 +7,7 @@ Sobre a raiz do helix, sobreposto ao [[Conhecimento/Auriculoterapia/Pontos/ponto
 ## Indicações
 - [[Conhecimento/Alterações/impotência sexual\|impotência sexual]]
 - [[Conhecimento/Alterações/baixa libido\|baixa libido]]
-- [[Conhecimento/Alterações/Ejaculação precoce\|Ejaculação precoce]]
+- [[Conhecimento/Alterações/ejaculação precoce\|ejaculação precoce]]
 - [[dor genital\|dor genital]]
 - [[prurido genital\|prurido genital]]
 - [[candidíase\|candidíase]]

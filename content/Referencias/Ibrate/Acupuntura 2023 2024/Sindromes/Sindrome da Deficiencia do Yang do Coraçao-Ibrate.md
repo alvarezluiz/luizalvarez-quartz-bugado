@@ -3,10 +3,10 @@
 ---
 
 
-**Manifestações Clínicas Gerais:** [[Conhecimento/Alterações/Dispneia\|dispnéia]] ao fazer esforço físico, sensação de plenitude e desconforto no precórdio, face pálida e brilhante.
+**Manifestações Clínicas Gerais:** [[Conhecimento/Alterações/dispneia\|dispnéia]] ao fazer esforço físico, sensação de plenitude e desconforto no precórdio, face pálida e brilhante.
 - Língua - Pálida, úmida e edemaciada.
 - [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/Pulso em no\|Pulso em no]].
-- Manifestações Clínicas Principais: [[Conhecimento/Alterações/palpitação\|palpitação]], [[Conhecimento/Alterações/sensaçao de frio\|sensaçao de frio]], [[Conhecimento/Alterações/membros frios\|membros frios]] (especialmente as mãos) e [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/pulso profundo\|pulso profundo]].
+- Manifestações Clínicas Principais: [[Conhecimento/Alterações/palpitação\|palpitação]], [[Conhecimento/Alterações/sensação de frio\|sensação de frio]], [[Conhecimento/Alterações/membros frios\|membros frios]] (especialmente as mãos) e [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/pulso profundo\|pulso profundo]].
 - Sem alegria, [[Conhecimento/Alterações/apatia\|apatia]], sem vontade de conversar, se relacionar. Momento inadequado para decisões importantes.
 ## Etiologia
 - É a mesma da Deficiência do Qi do Coração (Xin). (Perda de sangue e alterações emocionais).

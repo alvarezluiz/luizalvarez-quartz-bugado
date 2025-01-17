@@ -100,7 +100,7 @@ Para encontrar os tendões, pedir para o paciente juntar polegar e mínimo, assi
 - [[Conhecimento/Alterações/distúrbio mental\|distúrbio mental]]
 - [[Distúrbio psicossomático\|Distúrbio psicossomático]]
 	- [[Conhecimento/Alterações/angústia\|angústia]]
-	- [[Conhecimento/Alterações/Dispneia\|Dispneia]]
+	- [[Conhecimento/Alterações/dispneia\|dispneia]]
 	- [[Conhecimento/Alterações/hipertensão nervosa\|hipertensão nervosa]]
 
 

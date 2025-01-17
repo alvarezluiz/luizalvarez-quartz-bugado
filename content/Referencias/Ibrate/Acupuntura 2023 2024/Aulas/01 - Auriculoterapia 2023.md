@@ -1,5 +1,5 @@
 ---
-{"title":"01 - Auriculoterapia 2023 1 (Pós de Acupuntura)","NAula":"Aula A","tags":["conhecimento/auriculoterapia/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-11-10","NivelAcesso":"ibrate","publish":true,"Conteudo":"auriculoterapia","allDay":false,"DiaSemana":"Sex","start":{"dateTime":"2023-11-10T19:08-03:00"},"end":{"dateTime":"2023-11-10T22:08-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"01 - Auriculoterapia 2023 1 (Pós de Acupuntura)","NAula":"Auriculoterapia 1","tags":["conhecimento/auriculoterapia/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-11-10","NivelAcesso":"ibrate","publish":true,"Conteudo":"auriculoterapia","allDay":false,"DiaSemana":"Sex","start":{"dateTime":"2023-11-10T19:08-03:00"},"end":{"dateTime":"2023-11-10T22:08-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
@@ -107,7 +107,7 @@ Suliano descreve como antitragus. Na verdade é na divisa, sem penetrar a cartil
 ## Raiz superior da hélice 
 #### [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto dedos do pé auriculoterapia 2022\|Ponto dedos do pé]]
 #### [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto pé Auriculoterapia 2022\|Ponto pé]]
-#### [[Conhecimento/Auriculoterapia/Pontos/ponto tornozelo Auriculoterapia 2022\|Ponto tornozelo]]
+#### [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto tornozelo Auriculoterapia 2022\|Ponto tornozelo]]
 #### [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto perna Auriculoterapia 2022\|Ponto perna]]
 #### [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto joelho Auriculoterapia 2022\|Ponto joelho]]
 #### [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto coxa Auriculoterapia 2022\|Ponto coxa]]

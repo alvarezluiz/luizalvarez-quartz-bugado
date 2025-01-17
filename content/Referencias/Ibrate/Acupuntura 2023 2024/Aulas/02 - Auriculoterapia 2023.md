@@ -1,5 +1,5 @@
 ---
-{"title":"02 - Auriculoterapia 2023 2 (Pós de acupuntura)","NAula":"Aula B","tags":["conhecimento/auriculoterapia/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-12-01","NivelAcesso":"ibrate","publish":true,"Conteudo":"auriculoterapia","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-12-01T19:06-03:00"},"end":{"dateTime":"2023-12-01T22:06-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
+{"title":"02 - Auriculoterapia 2023 2 (Pós de acupuntura)","NAula":"Auriculoterapia 2","tags":["conhecimento/auriculoterapia/aula"],"autor":"Professora Doren Sayuri Kato","date":"2023-12-01","NivelAcesso":"ibrate","publish":true,"Conteudo":"auriculoterapia","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2023-12-01T19:06-03:00"},"end":{"dateTime":"2023-12-01T22:06-03:00"},"location":"R. Prof. João Cândido, n° 344 - 2° andar - Centro, Londrina - PR, 86010-901","PassFrontmatter":true}
 ---
 
 
@@ -151,7 +151,7 @@ Fígado energético
 Tosse 
 Tálamo 
 
-## obesidade
+## Obesidade
 
 Hipertrofica 
 Aumenta tamanho de células adiposas
@@ -162,7 +162,7 @@ Aumenta a quantidade de células adiposas
 Sempre foi magro e engordou. 
 Resultado rápido. 
 
-### seleção de pontos 
+### Seleção de pontos 
 Shen men
 Rim
 Snv
@@ -192,7 +192,7 @@ Boca, fígado energético 1 e 2, psiquismo,. Vago, coração
 Gula de doce
 Pâncreas 
 
-## drogas, alcoolismo 
+## Drogas, alcoolismo 
 
 ### Seleção de pontos
 Cibernético 

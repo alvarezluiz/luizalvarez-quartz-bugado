@@ -18,7 +18,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T7, a 1,5 t
 - [[Conhecimento/Alterações/varizes\|Varizes]]
 - [[pernas cansadas\|pernas cansadas]]
 - extremidades frias
-- [[Conhecimento/Alterações/Cãibra\|Cãibra]]
+- [[Conhecimento/Alterações/cãibra\|cãibra]]
 - [[Conhecimento/Alterações/soluço\|Soluço]]
 - [[Conhecimento/Alterações/Náusea\|Náusea]]
 - [[Conhecimento/Alterações/eructação\|Eructação]]

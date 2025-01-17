@@ -12,7 +12,7 @@ Usar bilateral se necessário
 - [[Falta de fome\|Falta de fome]]
 - [[Conhecimento/Alterações/anorexia\|anorexia]]
 - [[Conhecimento/Alterações/Compulsão alimentar\|Compulsão alimentar]]
-- [[Conhecimento/Alterações/Alergia alimentar\|Alergia alimentar]]
+- [[Conhecimento/Alterações/alergia alimentar\|alergia alimentar]]
 - [[perda de pesa\|perda de pesa]]
 - [[Conhecimento/Alterações/obesidade\|obesidade]] (obrigatório)
 - [[Conhecimento/Condições/bulimia\|bulimia]]

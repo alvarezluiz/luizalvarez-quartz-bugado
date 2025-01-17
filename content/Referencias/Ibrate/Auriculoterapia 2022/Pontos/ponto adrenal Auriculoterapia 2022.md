@@ -9,7 +9,7 @@ No ápice do tragus
 - [[Conhecimento/Alterações/TPM\|TPM]]
 - [[Conhecimento/Alterações/Diurético\|Diurético]]
 - [[Conhecimento/Alterações/hipertensão\|hipertensão]]
-	- [[Conhecimento/Alterações/Edema\|Edema]]
+	- [[Conhecimento/Alterações/edema\|edema]]
 	- pós-operatório
 	- [[Conhecimento/Alterações/hipotensão\|hipotensão]]
 

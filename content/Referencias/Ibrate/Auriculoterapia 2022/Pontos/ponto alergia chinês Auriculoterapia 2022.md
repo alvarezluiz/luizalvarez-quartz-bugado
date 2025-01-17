@@ -9,8 +9,8 @@ Para chineses, todas as alergias são respiratórias.
 [[Pele\|Pele]] é regida pelo [[Conhecimento/Acupuntura/Anotaçoes/Zang Fu/orgaos/Pulmão\|Pulmão]]
 - [[Conhecimento/Alterações/alergia\|alergia]]
 - [[alergia respiratória \|alergia respiratória ]]
-- [[Conhecimento/Alterações/Alergia medicamentosa\|Alergia medicamentosa]]
-- [[Conhecimento/Alterações/Alergia alimentar\|Alergia alimentar]] com [[Conhecimento/Auriculoterapia/Pontos/ponto boca\|ponto boca]], [[Conhecimento/Auriculoterapia/Pontos/ponto estômago\|ponto estômago]] e [[Conhecimento/Auriculoterapia/Pontos/ponto intestino grosso\|ponto intestino grosso]]
+- [[Conhecimento/Alterações/alergia medicamentosa\|alergia medicamentosa]]
+- [[Conhecimento/Alterações/alergia alimentar\|alergia alimentar]] com [[Conhecimento/Auriculoterapia/Pontos/ponto boca\|ponto boca]], [[Conhecimento/Auriculoterapia/Pontos/ponto estômago\|ponto estômago]] e [[Conhecimento/Auriculoterapia/Pontos/ponto intestino grosso\|ponto intestino grosso]]
 - [[Conhecimento/Alterações/Alergia de pele\|alergia de pele]] com [[Conhecimento/Auriculoterapia/Pontos/ponto pele\|ponto pele]] e ponto local
 - [[Conhecimento/Alterações/rinite\|rinite]]
 - [[Conhecimento/Alterações/asma\|asma]]

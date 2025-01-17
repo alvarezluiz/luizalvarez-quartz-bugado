@@ -14,7 +14,7 @@
 ## Etiologia
 Alterações emocionais, tais como [[Conhecimento/Alterações/ansiedade\|ansiedade]] crônica, [[Conhecimento/Alterações/preocupação\|preocupação]] constante e [[Conhecimento/Alterações/depressão\|depressão]]
 
-O Fogo do Coração (Xin) é frequentemente transmitido pelo Fogo do Fígado ([[Conhecimento/Alterações/furia\|furia]], [[Conhecimento/Alterações/frustaçao\|frustaçao]], [[Conhecimento/Alterações/ressentimento\|ressentimento]])
+O Fogo do Coração (Xin) é frequentemente transmitido pelo Fogo do Fígado ([[Conhecimento/Alterações/fúria\|fúria]], [[Conhecimento/Alterações/frustação\|frustação]], [[Conhecimento/Alterações/ressentimento\|ressentimento]])
 
 ## Tratamento
 

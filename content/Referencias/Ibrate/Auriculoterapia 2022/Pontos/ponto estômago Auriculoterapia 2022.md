@@ -5,6 +5,7 @@
 ## Localização
 No início da raiz do helix.
 ## Indicações
+- [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]]
 - [[Conhecimento/Alterações/gastrite\|gastrite]]
 - [[úlcera\|úlcera]]
 - [[gastralgia\|gastralgia]]
@@ -13,7 +14,7 @@ No início da raiz do helix.
 - [[Enjoo\|Enjoo]]
 - [[Enjoo da quimioterapia\|Enjoo da quimioterapia]]
 - [[Conhecimento/Alterações/Fome Compulsiva\|Fome Compulsiva]]
-- [[Conhecimento/Alterações/Alergia alimentar\|Alergia alimentar]]
+- [[Conhecimento/Alterações/alergia alimentar\|alergia alimentar]]
 - [[Conhecimento/Alterações/obesidade\|obesidade]]
 - [[Conhecimento/Condições/bulimia\|bulimia]]
 - [[Conhecimento/Alterações/insônia\|insônia]] junto com outros (ver [[Protocolo insônia\|aqui]])

@@ -10,7 +10,7 @@ ponto do comando das aguas
 1 tsun acima do umbigo
 
 ##  Indicações
-bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hídrica\|retenção hídrica]], bom para [[Conhecimento/Alterações/Edema\|Edema]], [[Conhecimento/Alterações/retenção urinária\|retenção urinária]] (aumenta [[Conhecimento/Alterações/Diurético\|diurese]])
+bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hídrica\|retenção hídrica]], bom para [[Conhecimento/Alterações/edema\|edema]], [[Conhecimento/Alterações/retenção urinária\|retenção urinária]] (aumenta [[Conhecimento/Alterações/Diurético\|diurese]])
 
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]

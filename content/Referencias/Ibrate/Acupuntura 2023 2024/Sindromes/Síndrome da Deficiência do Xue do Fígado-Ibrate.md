@@ -3,7 +3,7 @@
 ---
 
 
-**Manifestações Clínicas Gerais**: [[Conhecimento/Alterações/tontura\|tontura]], [[Conhecimento/Alterações/parestesia\|parestesia]] dos membros, [[Conhecimento/Alterações/insônia\|insônia]] (xue não chega na cabeça), "flutuação" nos olhos, [[Conhecimento/Alterações/hipomenorreia\|menstruação escassa]] ou [[Conhecimento/Alterações/amenorreia\|amenorreia]], lábios pálidos, debilidade muscular, espasmos musculares, [[Conhecimento/Alterações/Cãibra\|cãibra]] e [[Conhecimento/Alterações/unhas quebradiças\|unhas quebradiças]] e esbranquiçadas.
+**Manifestações Clínicas Gerais**: [[Conhecimento/Alterações/tontura\|tontura]], [[Conhecimento/Alterações/parestesia\|parestesia]] dos membros, [[Conhecimento/Alterações/insônia\|insônia]] (xue não chega na cabeça), "flutuação" nos olhos, [[Conhecimento/Alterações/hipomenorreia\|menstruação escassa]] ou [[Conhecimento/Alterações/amenorreia\|amenorreia]], lábios pálidos, debilidade muscular, espasmos musculares, [[Conhecimento/Alterações/cãibra\|cãibra]] e [[Conhecimento/Alterações/unhas quebradiças\|unhas quebradiças]] e esbranquiçadas.
 
 **Língua**: pálida, principalmente nas laterais, em casos extremos, pode assumir uma coloração alaranjada e seca.
 

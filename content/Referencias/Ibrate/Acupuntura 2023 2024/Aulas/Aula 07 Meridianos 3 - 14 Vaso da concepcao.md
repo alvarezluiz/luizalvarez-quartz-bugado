@@ -124,10 +124,10 @@ Proibido na gravidez
 ##  Indicações
 - Reforça o efeito do [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC04\|VC04]]
 - Aumenta o metabolismo das águas. 
-- Indicado para [[Conhecimento/Alterações/Edema\|edema]], fortalece Qi ancestral.
+- Indicado para [[Conhecimento/Alterações/edema\|edema]], fortalece Qi ancestral.
 - 
 ##  Combinações
-Com [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC04 + VC05\|VC05]] [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], [[Conhecimento/Alterações/Mioma\|Mioma]], [[Conhecimento/Alterações/Cisto no ovario\|cisto no ovario]], [[Conhecimento/Alterações/dismenorreia\|dismenorreia]], [[Conhecimento/Alterações/cólica menstrual\|cólica menstrual]], [[Conhecimento/Alterações/endometriose\|endometriose]]
+Com [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC04 + VC05\|VC05]] [[Conhecimento/Alterações/distúrbios da menstruação\|distúrbios da menstruação]], [[Conhecimento/Alterações/Mioma\|Mioma]], [[Conhecimento/Alterações/cisto no ovário\|cisto no ovário]], [[Conhecimento/Alterações/dismenorreia\|dismenorreia]], [[Conhecimento/Alterações/cólica menstrual\|cólica menstrual]], [[Conhecimento/Alterações/endometriose\|endometriose]]
 
 </div></div>
 
@@ -205,7 +205,7 @@ ponto do comando das aguas
 1 tsun acima do umbigo
 
 ##  Indicações
-bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hídrica\|retenção hídrica]], bom para [[Conhecimento/Alterações/Edema\|Edema]], [[Conhecimento/Alterações/retenção urinária\|retenção urinária]] (aumenta [[Conhecimento/Alterações/Diurético\|diurese]])
+bom para [[Conhecimento/Alterações/obesidade\|obesidade]] com [[retenção hídrica\|retenção hídrica]], bom para [[Conhecimento/Alterações/edema\|edema]], [[Conhecimento/Alterações/retenção urinária\|retenção urinária]] (aumenta [[Conhecimento/Alterações/Diurético\|diurese]])
 
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC09 + E40\|VC09 + E40]] [[Conhecimento/Alterações/fatores patogênicos/fleugma\|fleugma]]
@@ -262,7 +262,7 @@ Ponto alarme do coração (dolorido em ansiosos)
 6 tsun acima do umbigo. Logo abaixo do processo xifóide. Máximo 1 tsun de profundidade.
 
 ##  Indicações
-Elimina fogo do coração([[Conhecimento/Alterações/Dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
+Elimina fogo do coração([[Conhecimento/Alterações/dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
 
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]

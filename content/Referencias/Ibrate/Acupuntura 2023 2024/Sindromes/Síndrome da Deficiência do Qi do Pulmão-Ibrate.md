@@ -10,9 +10,9 @@
 [[Conhecimento/Alterações/Língua pálida\|Pálida]] ou de coloração normal.
 
 **Manifestações Clínicas Principais**
-[[Conhecimento/Alterações/Dispneia\|Dispneia]], [[Conhecimento/Alterações/debilidade da voz\|debilidade da voz]], compleição branca e brilhante e [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/pulso vazio\|pulso vazio]].
+[[Conhecimento/Alterações/dispneia\|dispneia]], [[Conhecimento/Alterações/debilidade da voz\|debilidade da voz]], compleição branca e brilhante e [[Conhecimento/Acupuntura/Diagnóstico/Pulsos/pulso vazio\|pulso vazio]].
 
-> [!NOTE] Para [[Conhecimento/Alterações/Dispneia\|dispneia]]
+> [!NOTE] Para [[Conhecimento/Alterações/dispneia\|dispneia]]
 > [[Conhecimento/Acupuntura/Canais/Pulmao/P01\|P01]], [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]], [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]], [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]] ou [[Conhecimento/Acupuntura/Canais/Baço/BP03\|BP03]]
 
 Quando língua de coloração normal e pele brilhante porque o Qi do Coração não foi afetado.

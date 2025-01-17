@@ -3,52 +3,52 @@
 ---
 
 
-## Desequilíbrios de Qi
-### Deficiencia de Qi
-[[Síndrome da Deficiência do Qi do Coração (Ibrate 2024, D)\|Deficiência do Qi do Coração]]
-[[Síndrome da Deficiência do Qi do Pulmão (Ibrate 2024, D)\|Deficiência do Qi do Pulmão]]
-[[Síndrome da Deficiência do Qi do Baço (Ibrate 2024, D)\|Deficiencia do Qi do Baço]]
-### Estagnação de Qi
-[[Síndrome da Estagnação do Qi do Fígado (Ibrate 2024)\|Estagnação do Qi do Fígado]]
+### Desequilíbrios de Qi
+#### Deficiência de Qi
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Qi do Coração-Ibrate\|Deficiência do Qi do Coração]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Qi do Pulmão-Ibrate\|Deficiência do Qi do Pulmão]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Qi do Baço-Ibrate\|Deficiencia do Qi do Baço]]
+#### Estagnação de Qi
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Qi do Fígado-Ibrate\|Estagnação do Qi do Fígado]]
 
-### Deficiencia de Yang
-[[Sindrome da Deficiencia do Yang do Coraçao (Ibrate 2024, D)\|Deficiência do Yang do Coração]]
-### Deficiencia de Yin
-[[Sindrome da Deficiência do Yin do Coração (Ibrate 2024, D)\|Deficiência do Yin do Coração]]
-[[Síndrome da Deficiência do Yin do Pulmão (Ibrate 2024, D)\|Deficiência do Yin do Pulmão]]
-### Excesso de Yang
-[[Síndrome do Excesso do Yang do Fígado gerando Vento (Ibrate 2024, D)\|Excesso do Yang do Fígado gerando Vento]]
-[[Síndrome da Ascendência do Yang do Fígado - Fogo agitando Fígado (Ibrate 2024, D)\|Ascendência do Yang do Fígado]]
-[[Síndrome da Deficiência do Yang do Baço (Ibrate 2024, D)\|sindrome da deficiencia do yang do baço]]
-### Estagnaçao de Xue
-[[Síndrome da Estagnação do Xue do Coração (Ibrate 2024, D)\|Síndrome da Estagnação do Xue do Coração (Ibrate 2024, D)]]
-[[Síndrome da Estagnação do Xue do Fígado (Ibrate 2024, D)\|Síndrome da Estagnação do Xue do Fígado (Ibrate 2024, D)]]
-### Deficiência de Xue
-[[Síndrome da Deficiência do Xue do Coração (Ibrate 2024, D)\|Síndrome da Deficiência do Xue do Coração (Ibrate 2024, D)]]
-[[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Xue do Fígado causando Vento-Ibrate\|Síndrome da Deficiência do Xue do Fígado causando Vento-Ibrate]]
-[[Síndrome da Deficiência do Xue do Fígado (Ibrate 2024, D)\|Síndrome da Deficiência do Xue do Fígado (Ibrate 2024, D)]]
+#### Deficiência de Yang
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Sindrome da Deficiencia do Yang do Coraçao-Ibrate\|Deficiência do Yang do Coração]]
+#### Deficiência de Yin
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Sindrome da Deficiência do Yin do Coração-Ibrate\|Deficiência do Yin do Coração]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Yin do Pulmão-Ibrate\|Deficiência do Yin do Pulmão]]
+#### Excesso de Yang
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome do Excesso do Yang do Fígado gerando Vento-Ibrate\|Excesso do Yang do Fígado gerando Vento]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Ascendência do Yang do Fígado - Fogo agitando Fígado-Ibrate\|Ascendência do Yang do Fígado]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Yang do Baço-Ibrate\|sindrome da deficiencia do yang do baço]]
+#### Estagnação de Xue
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Xue do Coração-Ibrate\|Síndrome da Estagnação do Xue do Coração-Ibrate]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Xue do Fígado-Ibrate\|Síndrome da Estagnação do Xue do Fígado-Ibrate]]
+#### Deficiência de Xue
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Xue do Coração-Ibrate\|Síndrome da Deficiência do Xue do Coração-Ibrate]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Xue do Fígado causando Vento-Ibrate\|Síndrome da Deficiência do Xue do Fígado causando Vento-Ibrate]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Xue do Fígado-Ibrate\|Síndrome da Deficiência do Xue do Fígado-Ibrate]]
 
-## Fatores patogênicos
-### Fogo
-[[Sindrome da Agitacao do Fogo do Coracao\|Agitação do Fogo do Coração]]
-[[Síndrome do Fleugma e Fogo afetando o Coração (Ibrate 2024, D)\|Fleugma e Fogo afetando o Coração]]
-### Calor
-[[Síndrome do Calor gerando Vento do Fígado agredindo o Qi do Fígado (Ibrate 2024, D)\|Calor gerando Vento do Fígado agredindo Qi do Fígado]]
-[[Síndrome da Invasão do Pulmão pelo Vento-Calor (Ibrate 2024, D)\|Invasão do Pulmão pelo Vento-Calor]]
-[[Síndrome da Umidade-Calor invadindo o Baço (Ibrate 2024, D)\|Umidade-Calor invadindo o Baço]]
-### Vento
-[[Síndrome do Calor gerando Vento do Fígado agredindo o Qi do Fígado (Ibrate 2024, D)\|Calor gerando Vento do Fígado agredindo o Qi do Fígado]]
-[[Síndrome da Invasão do Pulmão pelo Vento-Calor (Ibrate 2024, D)\|Invasão do Pulmão pelo Vento-Calor]]
-[[Síndrome da Invasão do Pulmão pelo Vento-Frio (Ibrate 2024, D)\|Invasção do Pulmão pelo Vento-Frio]]
-### Fleugma
-[[Síndrome do Fleugma e Fogo afetando o Coração (Ibrate 2024, D)\|Fleugma e Fogo afetando o Coração]]
-[[Síndrome do Fleugma obstruindo o Pulmão (Ibrate 2024, D)\|Fleugma obstruindo o Pulmão]]
-### Frio
-[[Síndrome da Estagnação do Frio no Meridiano do Fígado (Ibrate 2024, D)\|Estagnação do Frio no Meridiano do Fígado]]
-[[Síndrome da Invasão do Pulmão pelo Vento-Frio (Ibrate 2024, D)\|Invasão do Pulmão pelo Vento-Frio]]
-[[Síndrome da Umidade-Frio invadindo o Baço (Ibrate 2024, D)\|Umidade-Frio invadindo o Baço]]
-### Secura
-[[Síndrome da Secura do Pulmão (Ibrate 2024, D)\|Secura do Pulmão]]
-### Umidade
-[[Síndrome da Umidade-Calor invadindo o Baço (Ibrate 2024, D)\|Umidade-Calor invadindo o Baço]]
-[[Síndrome da Umidade-Frio invadindo o Baço (Ibrate 2024, D)\|Umidade-Frio Invadindo o Baço]]
+### Fatores patogênicos
+#### Fogo
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Sindrome da Agitacao do Fogo do Coracao-Ibrate\|Agitação do Fogo do Coração]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Fleugma e Fogo afetando o Coração-Ibrate\|Fleugma e Fogo afetando o Coração]]
+#### Calor
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome do Calor gerando Vento do Fígado agredindo o Qi do Fígado-Ibrate\|Calor gerando Vento do Fígado agredindo Qi do Fígado]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Invasão do Pulmão pelo Vento-Calor-Ibrate\|Invasão do Pulmão pelo Vento-Calor]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Umidade-Calor invadindo o Baço-Ibrate\|Umidade-Calor invadindo o Baço]]
+#### Vento
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome do Calor gerando Vento do Fígado agredindo o Qi do Fígado-Ibrate\|Calor gerando Vento do Fígado agredindo o Qi do Fígado]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Invasão do Pulmão pelo Vento-Calor-Ibrate\|Invasão do Pulmão pelo Vento-Calor]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Invasão do Pulmão pelo Vento-Frio-Ibrate\|Invasção do Pulmão pelo Vento-Frio]]
+#### Fleugma
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Fleugma e Fogo afetando o Coração-Ibrate\|Fleugma e Fogo afetando o Coração]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome do Fleugma obstruindo o Pulmão-Ibrate\|Fleugma obstruindo o Pulmão]]
+#### Frio
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Frio no Meridiano do Fígado-Ibrate\|Estagnação do Frio no Meridiano do Fígado]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Invasão do Pulmão pelo Vento-Frio-Ibrate\|Invasão do Pulmão pelo Vento-Frio]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Umidade-Frio invadindo o Baço-Ibrate\|Umidade-Frio invadindo o Baço]]
+#### Secura
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Secura do Pulmão-Ibrate\|Secura do Pulmão]]
+#### Umidade
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Umidade-Calor invadindo o Baço-Ibrate\|Umidade-Calor invadindo o Baço]]
+##### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Umidade-Frio invadindo o Baço-Ibrate\|Umidade-Frio Invadindo o Baço]]

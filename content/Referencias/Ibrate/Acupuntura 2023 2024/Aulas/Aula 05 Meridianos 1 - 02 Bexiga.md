@@ -238,7 +238,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T7, a 1,5 t
 - [[Conhecimento/Alterações/varizes\|Varizes]]
 - [[pernas cansadas\|pernas cansadas]]
 - extremidades frias
-- [[Conhecimento/Alterações/Cãibra\|Cãibra]]
+- [[Conhecimento/Alterações/cãibra\|cãibra]]
 - [[Conhecimento/Alterações/soluço\|Soluço]]
 - [[Conhecimento/Alterações/Náusea\|Náusea]]
 - [[Conhecimento/Alterações/eructação\|Eructação]]
@@ -321,7 +321,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T11, a 1,5 
 - Tosse por deficiência de Baço
 - [[Conhecimento/Alterações/diabetes\|Diabetes]]
 - [[Conhecimento/Alterações/obesidade\|Obesidade]]
-- [[Conhecimento/Alterações/Edema\|Edema]] de abdome
+- [[Conhecimento/Alterações/edema\|edema]] de abdome
 - [[Conhecimento/Alterações/diarreia\|Diarreia]] (logo após comer = deficiência de Baço
 - [[Conhecimento/Alterações/preocupação\|Preocupação]]
 - [[Conhecimento/Alterações/distúrbios da menstruação\|Distúrbios da menstruação]]
@@ -377,7 +377,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L1, a 1,5 t
 - Envolvido com água e temperatura
 - Abre a via das águas no Aquecedor inferior
 - Estimula transformação e eliminação dos fluidos impuros
-- [[Conhecimento/Alterações/Edema\|Edema]]
+- [[Conhecimento/Alterações/edema\|edema]]
 - [[Distúrbio do sistema urinário\|Distúrbio do sistema urinário]]
 - [[Micção dolorosa\|Micção dolorosa]]
 - [[Conhecimento/Alterações/incontinência urinária\|incontinência urinária]]
@@ -564,7 +564,7 @@ No final do tendão de Aquiles, antes do músculo.
 ### Indicações
 Agulha em sedação para sustentação emocional.
 
-Perpendicular relaxa tendões [[Conhecimento/Alterações/Cãibra\|Cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
+Perpendicular relaxa tendões [[Conhecimento/Alterações/cãibra\|cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
 Pernas cansadas, para quem trabalha muito em pé ou caminhando.
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
 - [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]

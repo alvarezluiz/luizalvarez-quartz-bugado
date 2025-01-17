@@ -10,7 +10,7 @@ Ponto alarme do coração (dolorido em ansiosos)
 6 tsun acima do umbigo. Logo abaixo do processo xifóide. Máximo 1 tsun de profundidade.
 
 ##  Indicações
-Elimina fogo do coração([[Conhecimento/Alterações/Dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
+Elimina fogo do coração([[Conhecimento/Alterações/dispneia\|dispneia]] emocional, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Acalma mente\|Acalma mente]]
 
 ##  Combinações
 [[Conhecimento/Acupuntura/Canais - Outros/Combinações/VC14 + VC18\|VC14 + VC18]] [[opressão t[[Aula 17 Acupuntura aplicada a disfuncoes esteticas#\|Aula 17 Acupuntura estética]] estética]]

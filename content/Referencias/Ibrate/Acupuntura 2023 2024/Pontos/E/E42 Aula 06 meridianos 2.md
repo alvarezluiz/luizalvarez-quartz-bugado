@@ -10,7 +10,7 @@ Fonte do Estômago
 ## Indicações
 - efeito local na face
 	- bom para pós operatório de face. 
-- [[Conhecimento/Alterações/Edema\|Edema]]
+- [[Conhecimento/Alterações/edema\|edema]]
 - fezes em bolinhas
 - [[fezes ressecadas\|fezes ressecadas]]
 - [[Conhecimento/Alterações/constipação\|constipação]]
