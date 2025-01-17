@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Sintomas, doenças, transtornos e alterações","PassFrontmatter":true}
+{"publish":true,"title":"Sintomas, doenças, transtornos e alterações","NivelAcesso":"full","PassFrontmatter":true}
 ---
 
 

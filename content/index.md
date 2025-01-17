@@ -30,4 +30,6 @@
 
 ## [[Técnicas-Ibrate\|Técnicas]]
 
+## [[Sintomas, doenças, transtornos e alterações\|Sintomas, doenças, transtornos e alterações]]
+
 
