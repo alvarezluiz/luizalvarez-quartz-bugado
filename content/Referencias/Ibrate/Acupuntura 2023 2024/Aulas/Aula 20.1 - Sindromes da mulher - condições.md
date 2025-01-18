@@ -76,14 +76,14 @@ Conectam coração, útero e Rins
 
 
 > [!NOTE] Title
-> estrogenio yin e progesterone yang 
+> estrogenio yin e progesterona yang 
 > 
 
 
 ---
 #### Canal Du Mai (ID3 lado D e B62 lado E); 
 - Se origina no meio da proteção vital;
-- Tem forte  relação com os RINS, especialmente no Ming Men ==(Vg4)==; (errado no slide original)
+- Tem forte  relação com os RINS, especialmente no Ming Men (VG4); 
 - “Mar de meridianos Yang”;
 - Pode ser usado para amenorréia, ciclo atrasado ou infertilidade.
 - Gravidez, irregularidade, libido, sexualidade e menstruação;
@@ -100,7 +100,7 @@ Conectam coração, útero e Rins
 
 Equilíbrio alto e baixo 
 > [!NOTE] escalda pés 
-> T1 leva calor bom para o útero 
+> R1 leva calor bom para o útero 
 ## substâncias 
 ### Jing
 - Pré natal: herdado
@@ -475,8 +475,8 @@ Def Qi P e BP: menorragia, ou falhar em subir o Qi, levando a prolapsos
 ---
 
 ### Preocupação
-- Coagula o Qi do P, C e BP 
-Podenfsrar
+- Coagula o Qi do Pulmão, Coração e Baço 
+Podem causar
 - ciclos atrasados ou doloridos
 
 - O Qi do pulmão pode estagnar, como resultado da preocupação, gerando falta de ar, tpm e distensão dos seios;
