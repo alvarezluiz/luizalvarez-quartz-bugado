@@ -13,7 +13,7 @@ Na metade da distância entre a crista do maléolo lateral e o tendão de Aquile
 - [[Raiz/fascite plantar\|Fascite plantar]]
 - [[Conhecimento/Alterações/esporão calcâneo\|Esporão calcâneo]]
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]
 - [[Entorse\|Entorse]]
 - [[Conhecimento/Alterações/cefaleia\|Cefaleia]], [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]] ou [[Conhecimento/Alterações/cefaleia occipital\|occipital]]
 - [[Conhecimento/Alterações/incontinência urinária\|Incontinência urinária]]

@@ -6,4 +6,4 @@
 Abaixo do [[Conhecimento/Auriculoterapia/Pontos/ponto epicentro\|ponto epicentro]].
 ## Indicações
 Não entra no limite de 2 agulhas na região da coluna.
-- [[ciatalgia \|ciatalgia ]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]

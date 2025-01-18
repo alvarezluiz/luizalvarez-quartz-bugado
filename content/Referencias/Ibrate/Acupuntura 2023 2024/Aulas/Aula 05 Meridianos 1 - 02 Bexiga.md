@@ -80,7 +80,7 @@ Muito perigoso, canto interno do olho
 
 
 ## Tronco 
-![Pontos-Bexiga-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
+![Pontos-Bexiga-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
 ### [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B11-Aula-05-Meridianos-1#Dashu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -405,7 +405,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha d
 - Aumenta leucócitos
 	- [[leucopenia\|leucopenia]] 
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]] 
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]] 
 - Com outros, tonifica Yang do Rim (moxa)
 - [[Conhecimento/Alterações/impotência sexual\|Impotência sexual]]
 - [[Conhecimento/Alterações/infertilidade\|Infertilidade]]
@@ -567,7 +567,7 @@ Agulha em sedação para sustentação emocional.
 Perpendicular relaxa tendões [[Conhecimento/Alterações/cãibra\|cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
 Pernas cansadas, para quem trabalha muito em pé ou caminhando.
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]
 - [[Conhecimento/Alterações/trombose\|Trombose]]
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]. 
 
@@ -591,7 +591,7 @@ Na metade da distância entre a crista do maléolo lateral e o tendão de Aquile
 - [[Raiz/fascite plantar\|Fascite plantar]]
 - [[Conhecimento/Alterações/esporão calcâneo\|Esporão calcâneo]]
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]
 - [[Entorse\|Entorse]]
 - [[Conhecimento/Alterações/cefaleia\|Cefaleia]], [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]] ou [[Conhecimento/Alterações/cefaleia occipital\|occipital]]
 - [[Conhecimento/Alterações/incontinência urinária\|Incontinência urinária]]

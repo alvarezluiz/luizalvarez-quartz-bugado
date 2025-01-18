@@ -12,4 +12,4 @@ Na [[Conhecimento/Auriculoterapia/Região/antihelix\|antihelix]] abaixo do [[Con
 - [[síndrome do impacto fêmoro-acetabular\|síndrome do impacto fêmoro-acetabular]]
 - [[Conhecimento/Alterações/anquilose de quadril\|anquilose de quadril]]
 - [[displasia de quadril\|displasia de quadril]]
-- [[Conhecimento/Alterações/ciatalgia\|ciatalgia]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]

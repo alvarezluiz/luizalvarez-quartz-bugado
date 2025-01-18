@@ -14,6 +14,6 @@ Agulha em sedação para sustentação emocional.
 Perpendicular relaxa tendões [[Conhecimento/Alterações/cãibra\|cãibra]] com [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]].
 Pernas cansadas, para quem trabalha muito em pé ou caminhando.
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]
 - [[Conhecimento/Alterações/trombose\|Trombose]]
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]. 

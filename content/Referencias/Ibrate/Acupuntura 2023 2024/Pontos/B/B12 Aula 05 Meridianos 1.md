@@ -3,7 +3,7 @@
 ---
 
 
-![Pontos-Bexiga-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
+![Pontos-Bexiga-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
 ## Feng men
 > Porta do vento
 ### Localização

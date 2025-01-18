@@ -11,7 +11,7 @@ Braço esticado ao longo do corpo, com a mão aberta, onde apontar o dedo médio
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]
 - dor no joelho que sobe para coxa
 - paralisias dos membros inferiores
-- [[Conhecimento/Alterações/ciatalgia\|ciatalgia]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]
 - Para hemiplegia associar com [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]].
 
 ### Combinações

@@ -10,6 +10,6 @@ Atenção ao comprimento da agulha.
 ### Indicações
 - Ponto local
 - [[Conhecimento/Condições/bursite trocanterica\|Bursite trocanterica]]
-- [[Conhecimento/Alterações/ciatalgia\|Ciatalgia]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]] por estimular a circulação do Qi e do Xue, evitando atrofia.
 - [[Conhecimento/Alterações/prurido\|Prurido]] no anus e virilha.

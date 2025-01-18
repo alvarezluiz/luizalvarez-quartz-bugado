@@ -150,7 +150,7 @@ Atenção ao comprimento da agulha.
 ### Indicações
 - Ponto local
 - [[Conhecimento/Condições/bursite trocanterica\|Bursite trocanterica]]
-- [[Conhecimento/Alterações/ciatalgia\|Ciatalgia]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]] por estimular a circulação do Qi e do Xue, evitando atrofia.
 - [[Conhecimento/Alterações/prurido\|Prurido]] no anus e virilha.
 
@@ -173,7 +173,7 @@ Braço esticado ao longo do corpo, com a mão aberta, onde apontar o dedo médio
 - [[Conhecimento/Alterações/Sequela neurológica\|Sequela neurológica]]
 - dor no joelho que sobe para coxa
 - paralisias dos membros inferiores
-- [[Conhecimento/Alterações/ciatalgia\|ciatalgia]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]
 - Para hemiplegia associar com [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]].
 
 ### Combinações

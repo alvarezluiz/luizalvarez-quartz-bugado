@@ -138,13 +138,13 @@ Bolinha no freio. Não necessariamente no meio.
 ### Localização
 Ponto auricular da próstata, contralateral à dor.
 ### Indicações
-- [[Conhecimento/Alterações/ciatalgia\|Ciatalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]]
+- [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]
 ### Instruções
 1. Fazer o Teste de Lasegue
 	Levantar uma perna de cada vez segurando pelo calcanhar. Com a perna solta. 
 2. Três agulhas sistêmicas no ponto auricular da próstata, contralateral ao lado pior. 
-3. Usar os outros pontos necessários para [[Conhecimento/Alterações/ciatalgia\|ciatalgia]] ou [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]]. 
+3. Usar os outros pontos necessários para [[Conhecimento/Alterações/ciatalgia\|Conhecimento/Alterações/ciatalgia]] ou [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]. 
 4. Refazer o teste de Lasegue, observar e demonstrar a diferença.
 
 </div></div>

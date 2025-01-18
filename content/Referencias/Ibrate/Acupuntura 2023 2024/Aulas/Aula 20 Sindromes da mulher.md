@@ -605,9 +605,122 @@ Alimentos:
 
 
 
----
-
 
 ---
-- R6 japonês 
  
+![-2660468346918229591.jpeg](../../../../-2660468346918229591.jpeg)
+
+---
+
+Ligamento retouterino - Ponto frequente de endometriose
+Relata dor no ciático 
+
+---
+
+
+ 
+![2186179243054127925.png](../../../../2186179243054127925.png)
+
+---
+
+
+Imagem slide 71
+
+
+
+---
+
+
+![1929976787920016563.png](../../../../1929976787920016563.png)
+
+---
+
+
+![-7755174838263767596.png](../../../../-7755174838263767596.png)
+
+---
+
+## Do nascimento a menarca
+
+---
+
+### O patrimônio 
+
+- No momento do nascimento até a menarca – eventos chave para determinar a fertilidade ao longo da vida!
+- Meninas ainda dentro do útero da mãe, irão criar os folículos nos ovários que vão abrigar os oócitos.
+- A saúde folicular será determinada pela interação da mãe com o meio e a saúde da mãe = JING
+- Com o passar dos anos iremos perdendo patrimônio folicular. 
+
+---
+
+
+![-7764165310553845279.jpeg](../../../../-7764165310553845279.jpeg)
+
+---
+
+6 a 7 milhões de oócitos
+Nascemos com 700.000 de oocitos
+Puberdade 300 mil oócitos
+E só se ovula aprox. 1% desses oócitos.
+
+Interação com o meio
+Alteração do estilo de vida!
+
+
+---
+
+
+![3912580858523300131.jpeg](../../../../3912580858523300131.jpeg)
+
+---
+
+## Menarca 
+
+- Menarca é o nome dado à primeira menstruação da mulher e é uma das últimas fases da puberdade. 
+
+- “Quando a menina atinge a idade de 14 anos, o Gui celestial (menstruação) chega,  o Vaso da Concepção está aberto, o Chong mai está fluindo, e a menstruação chega.”
+INSPIRADA EM: MACIOCIA, G, OBSTETRICS AND GYNECOLOGY INCHINESE MEDICINE, 2ªED, 2011
+
+---
+
+- Estudo comprovou que a cada 1 ano de aumento da menarca, o risco de mortalidade cardiovascular foi reduzido. Sendo o menor marcador de risco quando a menarca acontece aos 15 anos.
+Link para artigo!
+
+É possível abrandar os sintomas mudando os hábitos de vida da criança;
+
+Acupuntura
+
+---
+
+- 19 crianças
+- 6-7 anos foram submetidas a 12 semanas de tratamento com acupuntura (24 sessões)
+
+Resultado:
+- Nível de Lh, estágio de Tanner de mama, e escores de sintomas diminuíram significativamente.
+
+
+- Comprovando a eficácia da acupuntura no tratamento da puberdade precoce.
+
+---
+
+- Padrão de desarmonia mais comum: Deficiência de yin do rim e fogo do fígado. 
+- Sinais e sintomas: dor ou sensibilidade nos seios, mau cheiro na boca, calor na palma da mão, sudorese, fezes secas e língua vermelha.
+- Sugestão de pontos: bp6+e29
+- R1: nutre o r, elimina calor;
+- R3+r6: nutre o yin do rim e resfria calor no sangue;
+- Vc4: regula o útero;
+- Yintang: tranquiliza a mente;
+
+- Geleia real e dente de leão. Evitar açúcar, ultraprocessados, consumir carnes orgânicas e evitar soja. 
+
+---
+
+
+![5098152083867338037.png](../../../../5098152083867338037.png)
+---
+
+
+![-3061287228884280931.png](../../../../-3061287228884280931.png)
+
+---
+

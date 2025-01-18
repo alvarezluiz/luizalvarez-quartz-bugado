@@ -2,7 +2,7 @@
 {"date":"2023-10-14","tags":["conhecimento/acupuntura/ponto"],"title":"B23","autor":"Professora Doren Sayuri Kato","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","PassFrontmatter":true}
 ---
 
-![Pontos-Bexiga-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
+![Pontos-Bexiga-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
 ## Shen shu
 ### Localização
 Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha do umbigo entre L2 e L3) , a 1,5 tsun lateralmente do centro da coluna.
@@ -16,7 +16,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha d
 - Aumenta leucócitos
 	- [[leucopenia\|leucopenia]] 
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Lombociatalgia]] 
+- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]] 
 - Com outros, tonifica Yang do Rim (moxa)
 - [[Conhecimento/Alterações/impotência sexual\|Impotência sexual]]
 - [[Conhecimento/Alterações/infertilidade\|Infertilidade]]
