@@ -746,4 +746,40 @@ Resultado:
 - Do ponto de vista ocidental, a fisiologia feminina sofreu muitos preconceitos e crenças ao longo da história. Hoje compreende-se que sua natureza é cíclica, e que há uma relação dinâmica entre os ovários, útero e a hipófise, ou seja, há um eixo entre o sistema nervoso central e a parte reprodutiva feminina, o que proporciona uma dança hormonal delicada e complexa. 
 
 ---
- 
+Sugestão 
+- Domínio do yin 
+
+- Da Fertilidade à Maternidade; a Mulher e suas Fases Segundo a Medicina Tradicional Chinesa
+
+- 3ª edição
+
+- Helena Campiglia
+
+- Ícone editora
+---
+
+Um ciclo dito saudável acontece geralmente entre 25 e 33 dias.
+A irregularidade é mais importante do que a sua duração.
+
+
+Ciclo sempre adiantado (+ 7 dias) = Deficiência Qi ou calor no sangue
+Ciclo sempre atrasado (+ 7 dias) = Deficiência sangue, estase sangue ou estase de frio.
+Irregularidade (às vezes adiantado, as vezes atrasado): estagnação de Qi do F, estase sangue do F, def de BP ou R.
+
+---
+
+O sangue menstrual é o melhor diagnóstico do que o seu corpo tem a dizer 
+
+---
+
+Segundo a Medicina Ocidental, o ciclo menstrual se divide em:
+- Fase Folicular ou proliferativa
+- Ovulação
+- Fase Lútea ou secretória.
+
+
+Para a Medicina Tradicional Chinesa, as fases serão divididas em:
+- Menstruação
+- Pós Menstruação 
+- Ovulação
+- Pós ovulação
