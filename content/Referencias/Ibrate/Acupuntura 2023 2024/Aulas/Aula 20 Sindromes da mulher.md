@@ -724,3 +724,26 @@ Resultado:
 
 ---
 
+## Menstruação 
+
+---
+
+- “Quando a menina atinge a idade de 14 anos, o Gui celestial chega, o Vaso da concepção está aberto, o Chong Mai está fluindo e a menstruação chega.”
+
+- “O Tian Gui chega, e a menina pode conceber.”
+
+- “Tian Gui é o esperma no homem e o sangue menstrual na mulher, que são armazenados na sala do esperma ou no Zi Bao respectivamente.”
+
+---
+
+- A menstruação é o momento em que o mar de sangue (Chong Mai) se esvazia. O QI se dirige para baixo através do meridiano Vaso Concepção(Ren mai), e a eliminação do sangue depende do fluxo do Qi. 
+
+- É contado o primeiro dia do ciclo como o primeiro dia de sangramento, finalizando no último dia antes de começar a próxima menstruação.
+
+
+---
+
+- Do ponto de vista ocidental, a fisiologia feminina sofreu muitos preconceitos e crenças ao longo da história. Hoje compreende-se que sua natureza é cíclica, e que há uma relação dinâmica entre os ovários, útero e a hipófise, ou seja, há um eixo entre o sistema nervoso central e a parte reprodutiva feminina, o que proporciona uma dança hormonal delicada e complexa. 
+
+---
+ 
