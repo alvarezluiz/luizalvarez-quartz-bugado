@@ -414,5 +414,5 @@
 - [[Conhecimento/Alterações/acne\|acne]]
 - [[Conhecimento/Alterações/acidente vascular cerebral\|acidente vascular cerebral]]
 - [[Conhecimento/Alterações/abundancia de sonhos\|abundancia de sonhos]]
-- [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]]
 - [[Conhecimento/Alterações/lombalgia\|lombalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]]
