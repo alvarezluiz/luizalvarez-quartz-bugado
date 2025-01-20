@@ -106,6 +106,13 @@ a {
   }
 }
 
+/* Adiciona a regra para ocultar o elemento */
+a.internal.transclude-src {
+   display: none;
+  }
+
+
+
 .desktop-only {
   display: initial;
   @media all and ($mobile) {
