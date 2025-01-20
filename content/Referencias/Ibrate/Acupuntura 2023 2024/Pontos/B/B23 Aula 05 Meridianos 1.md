@@ -16,7 +16,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha d
 - Aumenta leucócitos
 	- [[leucopenia\|leucopenia]] 
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]] 
+- [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]] 
 - Com outros, tonifica Yang do Rim (moxa)
 - [[Conhecimento/Alterações/impotência sexual\|Impotência sexual]]
 - [[Conhecimento/Alterações/infertilidade\|Infertilidade]]
