@@ -17,8 +17,8 @@ Energia perversa [[Conhecimento/Alterações/fatores patogênicos/Umidade-Calor\
 
 ## Tratamento
 resolver a umidade, eliminar o calor.
-- Pontos: [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]], [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]], [[quartz/Referencias/MedicoFisiatra.com.br/Pontos/VG/VG09\|quartz/Referencias/MedicoFisiatra.com.br/Pontos/VG/VG09]], [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG11\|IG11]], [[Conhecimento/Acupuntura/Canais/Bexiga/B20\|B20]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]
+- Pontos: [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]], [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]], [[Referencias/MedicoFisiatra.com.br/Pontos/VG/VG09\|VG09]], [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG11\|IG11]], [[Conhecimento/Acupuntura/Canais/Bexiga/B20\|B20]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]
 - [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]], [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]]: para umidade e umidade-calor
-- [[quartz/Referencias/MedicoFisiatra.com.br/Pontos/VG/VG09\|quartz/Referencias/MedicoFisiatra.com.br/Pontos/VG/VG09]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]: para umidade-calor
+- [[Referencias/MedicoFisiatra.com.br/Pontos/VG/VG09\|VG09]], [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]]: para umidade-calor
 - [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG11\|IG11]]: resolve a umidade e elimina o calor
 - [[Conhecimento/Acupuntura/Canais/Bexiga/B20\|B20]]: para umidade

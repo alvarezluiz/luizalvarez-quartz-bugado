@@ -80,7 +80,7 @@ Muito perigoso, canto interno do olho
 
 
 ## Tronco 
-![Pontos-Bexiga-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-D.webp)
+![Pontos-Bexiga-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
 ### [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B11-Aula-05-Meridianos-1#Dashu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -357,7 +357,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T12, a 1,5 
 - [[Conhecimento/Alterações/diarreia\|Diarreia]]
 - [[Conhecimento/Alterações/constipação\|Constipação]]
 - [[Distúrbio do apetite\|Distúrbio do apetite]]
-- [[Conhecimento/Alterações/lombalgia\|Lombalgia]]. 
+- [[Conhecimento/Alterações/lombalgia\|lombalgia]]. 
 
 </div></div>
 
@@ -591,7 +591,7 @@ Na metade da distância entre a crista do maléolo lateral e o tendão de Aquile
 - [[Raiz/fascite plantar\|Fascite plantar]]
 - [[Conhecimento/Alterações/esporão calcâneo\|Esporão calcâneo]]
 - [[Conhecimento/Alterações/lombalgia\|Lombalgia]]
-- [[Conhecimento/Alterações/lombociatalgia\|Conhecimento/Alterações/lombociatalgia]]
+- [[Conhecimento/Alterações/lombociatalgia\|lombociatalgia]]
 - [[Entorse\|Entorse]]
 - [[Conhecimento/Alterações/cefaleia\|Cefaleia]], [[Conhecimento/Alterações/cefaleia frontal\|cefaleia frontal]] ou [[Conhecimento/Alterações/cefaleia occipital\|occipital]]
 - [[Conhecimento/Alterações/incontinência urinária\|Incontinência urinária]]

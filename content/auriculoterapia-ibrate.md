@@ -97,5 +97,6 @@
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto uretra Auriculoterapia 2022\|ponto uretra]]                                       |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto útero Auriculoterapia 2022\|ponto útero]]                                         |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto vago Auriculoterapia 2022\|ponto vago]]                                           |
+| [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto vesícula biliar Auriculoterapia 2022\|ponto vesícula biliar]]                     |
 | [[Referencias/Ibrate/Auriculoterapia 2022/Pontos/ponto vício Auriculoterapia 2022\|ponto vício]]                                         |
 
