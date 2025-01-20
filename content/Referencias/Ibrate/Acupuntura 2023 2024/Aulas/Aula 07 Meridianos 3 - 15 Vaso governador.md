@@ -5,7 +5,7 @@
 
 
 
-# Vaso Governador]]
+# Vaso Governador
 Du mai
 Mantem a resistência do corpo
 du = governador, mar dos meridianos yang
