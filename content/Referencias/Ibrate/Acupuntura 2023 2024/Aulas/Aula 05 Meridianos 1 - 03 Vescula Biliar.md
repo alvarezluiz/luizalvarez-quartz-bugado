@@ -13,7 +13,7 @@ Shao yang do pé
 cefaleias laterais, patologia dos olhos, ouvidos, síndromes de Calor, dores em regiões do trajeto do meridiano. 
 ## Cabeça 
 ![Pontos-Vesicula-Biliar-A.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Vesicula-Biliar-A.webp)
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB01\|VB01]] 
+### VB01
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-01-Aula-05-Meridianos-1#Tongziliao" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -30,7 +30,7 @@ Pode ser substituído ao associar [[Conhecimento/Acupuntura/Canais/Vesicula Bili
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB02\|VB02]] 
+### VB02
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-02-Aula-05-Meridianos-1#Tinghui" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -45,7 +45,7 @@ Beneficia ouvido e fortalece a audição. [[Conhecimento/Alterações/bruxismo\|
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB14\|VB14]] 
+### VB14
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-14-Aula-05-Meridianos-1#Yangbai" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -59,7 +59,7 @@ Na linha média da pupila, 1 tsun acima da sobrancelha.
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB20\|VB20]] 
+### VB20
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-20-Aula-05-Meridianos-1#Feng-chi" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -84,7 +84,7 @@ NÃO USAR VB20 E VB21 SIMULTANEAMENTE. Efeitos opostos. Pode causar mal estar e 
 
 
 ## Tronco
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB21\|VB21]] 
+### VB21
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-21-Aula-05-Meridianos-1#Jiangjing" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -102,7 +102,7 @@ NÃO USAR [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB20\|VB20]] E VB21 S
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB24\|VB24]]
+### VB24
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-24-Aula-05-Meridianos-1#Riyue" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -120,8 +120,9 @@ Na linha do mamilo
 
 </div></div>
 
-![[pontos-ves\|pontos-ves]]
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB25\|VB25]] 
+
+![Pontos-Vesicula-Biliar-A.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Vesicula-Biliar-A.webp)
+### VB25
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-25-Aula-05-Meridianos-1#Jingmen" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -137,7 +138,7 @@ Abaixo da borda posterior da axila, na borda anterior e inferior da 12ª costela
 </div></div>
 
 ![Pontos-Vesicula-Biliar-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Vesicula-Biliar-B.webp)
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB30\|VB30]]
+### VB30
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-30-Aula-05-Meridianos-1#Huantiao" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -159,7 +160,7 @@ Atenção ao comprimento da agulha.
 
 ## Perna
 ![Pontos-Vesicula-Biliar-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Vesicula-Biliar-D.webp)
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB31\|VB31]]
+### VB31
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-31-Aula-05-Meridianos-1#Fengshi" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -186,7 +187,7 @@ Braço esticado ao longo do corpo, com a mão aberta, onde apontar o dedo médio
 
 ![Pontos-Vesicula-Biliar-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Vesicula-Biliar-C.webp)
 ![Pontos-Vesicula-Biliar-e.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Vesicula-Biliar-E.webp)
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB34\|VB34]] 
+### VB34
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-34-Aula-05-Meridianos-1#Yanglingquan" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -211,7 +212,7 @@ Braço esticado ao longo do corpo, com a mão aberta, onde apontar o dedo médio
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB37\|VB37]]
+### VB37
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-37-Aula-05-Meridianos-1#Guangming" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -232,7 +233,7 @@ Olhos brilhantes
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB38\|VB38]] 
+### VB38
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-38-Aula-05-Meridianos-1#Yangfu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -251,7 +252,7 @@ Olhos brilhantes
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB39\|VB39]] 
+### VB39
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-39-Aula-05-Meridianos-1#Xuanzhong-ou-Juegu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -264,7 +265,7 @@ Olhos brilhantes
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB40\|VB40]]
+### VB40
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-40-Aula-05-Meridianos-1#Qiuxu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -281,7 +282,7 @@ Inferior e anterior a crista do maléolo lateral.
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB41\|VB41]] 
+### VB41
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-41-Aula-05-Meridianos-1#Lin-Qi-do-pe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -300,7 +301,7 @@ Anterior ao metatarso, entre 4º e 5º dedo.
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB42\|VB42]] 
+### VB42
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-42-Aula-05-Meridianos-1#Diwuhui" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -313,7 +314,7 @@ Entre [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB41\|VB41]] e [[Conhecim
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB43\|VB43]] 
+### VB43
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-43-Aula-05-Meridianos-1#Xiaxi" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -331,7 +332,7 @@ Entre [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB41\|VB41]] e [[Conhecim
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB44\|VB44]] 
+### VB44
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/VB/VB-44-Aula-05-Meridianos-1#Qiaoyin-do-pe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

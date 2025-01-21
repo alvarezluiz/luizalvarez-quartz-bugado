@@ -55,127 +55,169 @@ Trajeto de baixo para cima.
 Não tem trajeto em membros superiores. 
 
 
-## 1 Yin Wei Mai
+## Yin Wei Mai 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Função: 
+Sua principal função é de conectar todos os meridianos Yin; controla face interna do corpo;
+Equilibra o Coração e o Rim. [[Conhecimento/Acupuntura/Efeitos da medicina chinesa/acalma a mente\|Acalma a mente]]. Remove a estagnação de Qi e Xue da garganta, coração, peito e região epigástrica.
 
 ### Sintoma essencial:
-dor torácica com sensação de aperto no tórax ou plenitude no tórax, agonia no peito, frio no peito.
-### Funções
-Angústia no peito, [[Conhecimento/Alterações/opressão torácica\|opressão torácica]], [[Conhecimento/Alterações/ansiedade\|ansiedade]], [[Conhecimento/Alterações/depressão\|depressão]].
-Sua principal função é de conectar todos os meridianos Yin; controla face interna do corpo;
+Dor torácica com sensação de aperto no tórax ou plenitude no tórax, agonia no peito, frio no peito.
 
-Função: Equilibra o Coração e o Rim. Acalma a mente. Remove a estagnação de Qi e Xue da garganta, coração, peito e região epigástrica.
+### Indicações
+- [[Conhecimento/Alterações/hipertensão\|Hipertensão]] arterial
+- [[Conhecimento/Alterações/Taquicardia\|Taquicardia]]
+- [[Conhecimento/Alterações/palpitação\|palpitação]]
+- [[cólica abdominal\|cólica abdominal]]
+- [[Conhecimento/Alterações/angústia\|Angústia]] no peito
+- [[Conhecimento/Alterações/opressão torácica\|opressão torácica]]
+- [[Conhecimento/Alterações/ansiedade\|ansiedade]]
+- [[Conhecimento/Alterações/apatia\|apatia]]
+- [[introspecção\|introspecção]]
+- [[Conhecimento/Alterações/depressão\|depressão]].
+- [[Conhecimento/Alterações/refluxo\|Regurgitação epigástrica]]
+- [[distúrbio bipolar\|distúrbio bipolar]]
+- [hiper-hidrose] , 
+- face pálida
+- Bola na garganta, engolir sapo
 
-Indicado para: Hipertensão arterial, hiper-hidrose, distúrbio bipolar, ansiedade, apatia, introspecção, face pálida, agonia, angústia, cólica abdominal. Regurgitação epigastrica
 
-Bola na garganta, engolir sapo
-Taquicardia, palpitaçao. 
 ### Abertura e fechamento
-Abre em [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
-Fecha em [[Conhecimento/Acupuntura/Canais/Baço/BP04\|BP04]]
+- Abre em [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
+- Fecha em [[Conhecimento/Acupuntura/Canais/Baço/BP04\|BP04]]
 
-Homem começa esquerda termina a direita. 
-Mulher começa a direita, termina a esquerda 
+- Homem começa esquerda termina a direita. 
+- Mulher começa a direita, termina a esquerda 
 
-
-Ponto de abertura: PC6
-Ponto de entrada: R9
-Ponto de saída: VC 24
-Ponto de acúmulo: R9
-Ponto de fechamento / acoplado: BP4
+- Ponto de abertura: [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
+- Ponto de entrada: [[Conhecimento/Acupuntura/Canais/Rim/R09\|R09]]
+- Ponto de saída: [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC24\|VC24]]
+- Ponto de acúmulo: [[Conhecimento/Acupuntura/Canais/Rim/R09\|R09]]
+- Ponto de fechamento / acoplado: [[Conhecimento/Acupuntura/Canais/Baço/BP04\|BP04]]
 
 Área do corpo: tórax, garganta e região medial da perna.
 
-### Sintoma essencial 
-Dor torácica, aperto no torax, plenitude torácica 
-Agonia, angústia no peito, peito frio. 
 
----
+</div></div>
 
-# dai mai
-Vaso da cintura 
 
-Meridiano yang 
-Abertura [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB41\|VB41]]
-Fechamento [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA05\|TA05]]
+## Dai Mai
 
----
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+*Vaso da cintura*
+
+- Meridiano yang 
+- Abertura [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB41\|VB41]]
+- Fechamento [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA05\|TA05]]
 ## Função do Dai Mai
 
-Regularizar Qi dos Rins
-Harmoniza superior e inferior 
-Acalma yang hiperativo do fígado (f03)
-Regula ciclo menstrual 
-Baixa libido 
-
----
-
-## sintoma essencial 
+- Regularizar Qi dos Rins
+- Harmoniza superior e inferior 
+- Acalma yang hiperativo do fígado ([[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]])
+- [[Conhecimento/Alterações/distúrbios da menstruação\|Regula ciclo menstrual]] 
+- [[Baixa libido \|Baixa libido ]]
+## Sintoma essencial 
 Debilidade e fraqueza nos membros inferiores 
 
+
+
+
+</div></div>
+
+
+## Yin Qiao Mai
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+*Vaso yin do calcanhar*
+
+- Rim, face medial das pernas, abdome e olhos. 
+
+- Abertura [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]]
+- Fechamento [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]] Sedando 
+
+## Funções 
+- Coordenação dos movimentos dos membros inferiores (Sequelas neurológicas)
+- Nutre os olhos
+
+## Sintoma essencial 
+- Sonolência 
+
+
+</div></div>
+
+
+## Yang Qiao Mai
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+*Vaso yang do calcanhar*
+
+### Área do corpo 
+- Face lateral da perna 
+- Costas 
+- Cabeça
+- Olhos 
+
+- Abertura [[Conhecimento/Acupuntura/Canais/Bexiga/B62\|B62]]
+- Fechamento [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]]
+
+## Funções 
+- Estimula a energia nutritiva 
+- Remove estagnação do Qi da Bexiga 
+- Expele vento externo 
+- Tonifica wei qi
+- Absorve excesso de Yang da cabeça 
+
+## Sintoma essencial 
+- Insônia (manter os olhos abertos)
+
+</div></div>
+
+
+
 ---
 
-# yin qiao mai
-Vaso yin do calcanhar 
+## Chong mai
 
-Rim, face medial das pernas, abdome e olhos. 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-Abertura [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]]
-Fechamento [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]] Sedando 
 
-Funções 
-Coordenação dos movimentos dos membros inferiores (Sequelas neurológicas)
-Nutre os olhos
 
-## sintoma essencial 
-Sonolencia 
-
----
-
-# yang qiao mai
-Vaso yang do calcanhar 
-
-Área do corpo 
-Face lateral da perna 
-Costas 
-Cabeca
-Olhos 
-
-Abertura [[Conhecimento/Acupuntura/Canais/Bexiga/B62\|B62]]
-Fechamento [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]]
-
-## funções 
-Estimula a energia nutritiva 
-Remove estagnação do Qi da Bexiga 
-Expele vento externo 
-Tonifica wei qi
-Absorve excesso de Yang da cabeça 
-
-## sintoma essencial 
-Insônia (manter os olhos abertos)
-
----
-
-# Chong mai
-
-Vaso penetrador
+*Vaso penetrador*
 Vaso yin
 
 ## Área do corpo 
-Abdome e torax 
+- Abdome e torax 
 
-Abertura [[Conhecimento/Acupuntura/Canais/Baço/BP04\|BP04]]
-Fechamento [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
+- Abertura [[Conhecimento/Acupuntura/Canais/Baço/BP04\|BP04]]
+- Fechamento [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
 
-## funções 
-Tonificar o Qi dos Rins 
-Tonificar Xue do Baço e coração 
-Remove estagnação de Qi e Xue do torax 
-Transportar a energia ancestral dos rins, a energia nutritiva e energia de defesa 
-Responsável por Irrigar os canais principais e os vasos maravilhosos 
+## Funções 
+- Tonificar o Qi dos Rins 
+- Tonificar Xue do Baço e Coração 
+- Remove estagnação de Qi e Xue do tórax 
+- Transportar a energia ancestral dos rins, a energia nutritiva e energia de defesa 
+- Responsável por Irrigar os canais principais e os vasos maravilhosos 
+## Sintoma essencial 
+- Desconforto abdominal (dor, estufamento, cólica)
 
-## sintoma essencial 
-Desconforto abdominal (dor, estufamento, cólica)
+
+</div></div>
+
+
 
 ---
 

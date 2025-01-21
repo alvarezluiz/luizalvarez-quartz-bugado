@@ -4,9 +4,9 @@
 
 ![Pontos-Bexiga-d.webp](../../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
 ## Pang guang shu
-## Localização
+### Localização
 Segundo forame sacral.
-## Indicações
+### Indicações
 **[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] da Bexiga.**
 - Regulariza bexiga
 - Abre via das águas

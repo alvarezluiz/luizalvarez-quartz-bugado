@@ -14,7 +14,7 @@ Cefaleia, cervicalgia, lombociatalgia, e dores ao longo trajeto do meridiano.
 ## Cabeça 
 
 ![Pontos-Bexiga-A.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-A.webp)
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B01\|B01]] 
+### B01 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B01-Aula-05-Meridianos-1#Jingming" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -34,7 +34,7 @@ Muito perigoso, canto interno do olho
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B02\|B02]] 
+### B02
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B02-Aula-05-Meridianos-1#Zanzhu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -57,7 +57,7 @@ Muito perigoso, canto interno do olho
 
 ![Pontos-Bexiga-b.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-B.webp)
 ![Pontos-Bexiga-c.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-C.webp)
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B10\|B10]]
+### B10
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B10-Aula-05-Meridianos-1#Tianzhu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -81,7 +81,7 @@ Muito perigoso, canto interno do olho
 
 ## Tronco 
 ![Pontos-Bexiga-d.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-d.webp)
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B11\|B11]]
+### B11
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B11-Aula-05-Meridianos-1#Dashu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -107,7 +107,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T1, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B12\|B12]] 
+### B12
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B12-Aula-05-Meridianos-1#Feng-men" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -130,7 +130,7 @@ Indicado para quem toma vento. Regulariza o [[Conhecimento/Acupuntura/Anotaçoes
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B13\|B13]] 
+### B13
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B13-Aula-05-Meridianos-1#Fei-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -152,7 +152,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T3, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B14\|B14]] 
+### B14
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B14-Aula-05-Meridianos-1#Jueyin-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -175,7 +175,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T4, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B15\|B15]] 
+### B15
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B15-Aula-05-Meridianos-1#Xin-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -198,7 +198,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T5, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B16\|B16]] 
+### B16
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B16-Aula-05-Meridianos-1#Du-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -217,7 +217,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T6, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B17\|B17]] 
+### B17
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B17-Aula-05-Meridianos-1#Ge-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -248,9 +248,9 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T7, a 1,5 t
 - Edema de membros inferiores junto com [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]]
 
 </div></div>
-]
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B18\|B18]] 
+
+### B18
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B18-Aula-05-Meridianos-1#Gan-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -276,7 +276,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T9, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B19\|B19]] 
+### B19
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B19-Aula-05-Meridianos-1#Dan-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -298,7 +298,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T10, a 1,5 
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B20\|B20]] 
+### B20
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B20-Aula-05-Meridianos-1#Pi-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -335,7 +335,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T11, a 1,5 
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B21\|B21]] 
+### B21
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B21-Aula-05-Meridianos-1#Wei-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -362,7 +362,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de T12, a 1,5 
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B22\|B22]]
+### B22
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B22-Aula-05-Meridianos-1#San-jiao-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -386,7 +386,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L1, a 1,5 t
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B23\|B23]]
+### B23
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B23-Aula-05-Meridianos-1#Shen-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -423,7 +423,7 @@ Localizada na depressão inferior ao processo espinhoso (apofise) de L2 (linha d
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B24\|B24]] 
+### B24
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B24-Aula-05-Meridianos-1#Qi-Hai-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -441,7 +441,7 @@ Localizada na depressão inferior ao processo espinhoso (apófise) de L3, a 1,5 
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B25\|B25]] 
+### B25
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B25-Aula-05-Meridianos-1#Da-Chang-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -471,7 +471,7 @@ Massagear entre 5:00 e 7:00
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B26\|B26]] 
+### B26
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B26-Aula-05-Meridianos-1#Guanyuanshu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -492,7 +492,7 @@ Correspondente ao ponto [[Conhecimento/Acupuntura/Canais/Vaso da Concepção/VC0
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B27\|B27]] 
+### B27
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B27-Aula-05-Meridianos-1#Xiaochang-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -512,13 +512,29 @@ Primeiro forame sacral nível S1 e S2.
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B28\|B28]] 
+### B28
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B28-Aula-05-Meridianos-1#Pang-guang-shu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 ## Pang guang shu
+### Localização
+Segundo forame sacral.
+### Indicações
+**[[Conhecimento/Acupuntura/Pontos de assentimento\|Ponto de assentimento]] da Bexiga.**
+- Regulariza bexiga
+- Abre via das águas
+- Fortalece região lombar
+- [[Conhecimento/Alterações/retenção urinária\|Retenção urinária]]
+- [[Conhecimento/Alterações/dificuldade urinária\|Dificuldade urinária]]
+- [[Queimação na micção\|Queimação na micção]]
+- [[Dor na micção\|Dor na micção]]
+- [[Conhecimento/Alterações/Diurético\|Diurético]]
+- [[Conhecimento/Alterações/lombalgia\|Lombalgia]] baixa
+- [[Dor sacral\|Dor sacral]]
+### Combinações 
+[[Conhecimento/Acupuntura/Canais/Bexiga/B28\|B28]] + [[Conhecimento/Acupuntura/Canais/Bexiga/B23\|B23]] + [[Conhecimento/Acupuntura/Canais/Baço/BP09\|BP09]] expele pequenas [[Conhecimento/Alterações/cálculo renal\|pedras nos Rins]].
 
 </div></div>
 
@@ -529,7 +545,7 @@ Primeiro forame sacral nível S1 e S2.
 
 ## Perna
 ![Pontos-Bexiga-E.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-E.webp)
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B40\|B40]] 
+### B40
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B40-Aula-05-Meridianos-1#Wheizong" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -550,7 +566,7 @@ No centro da fossa poplitea.
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B57\|B57]]
+### B57
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B57-Aula-05-Meridianos-1#Chengshan" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -576,7 +592,7 @@ Pernas cansadas, para quem trabalha muito em pé ou caminhando.
 
 
 ![Pontos-Bexiga-F.webp](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2005/Pontos-Bexiga-F.webp)
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B60\|B60]]
+### B60
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B60-Aula-05-Meridianos-1#Kunlun" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -614,7 +630,7 @@ Na metade da distância entre a crista do maléolo lateral e o tendão de Aquile
 
 
 ## Pé 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B62\|B62]] 
+### B62
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B62-Aula-05-Meridianos-1#Shen-mai" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -633,7 +649,7 @@ Confluência com [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]] - [[Conheciment
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B64\|B64]] 
+### B64
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B64-Aula-05-Meridianos-1#Jinggu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -645,7 +661,7 @@ Ponto fonte
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B65\|B65]] 
+### B65
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B65-Aula-05-Meridianos-1#Shugu" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -661,9 +677,7 @@ Ao longo do meridiano anterior a região metatarso-falangiana do quinto dedo.
 
 </div></div>
 
-
-
-### [[Conhecimento/Acupuntura/Canais/Bexiga/B67\|B67]] 
+### B67
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/B/B67-Aula-05-Meridianos-1#Zhiyin" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
