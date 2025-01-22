@@ -187,10 +187,7 @@ Debilidade e fraqueza nos membros inferiores
 </div></div>
 
 
-
----
-
-## Chong mai
+## Chong Mai 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -218,75 +215,65 @@ Vaso yin
 </div></div>
 
 
+# Ren Mai 
 
----
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-# Ren mai
-Vaso da concepção, vaso diretor ou vaso yin 
+
+
+*Vaso da concepção, vaso diretor ou vaso yin* 
 
 Abdomen, tórax, pulmão e garganta 
 
-Abertura [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]] tonificação 
-Fechamento [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]]
-
-## funções 
-Regula Qi e Xue nos canais yin
-Regular sistema reprodutor feminino (todas as fases)
-Regular sistema digestivo e circulatório 
-Tonificar qi, yin, Yang dos Rins 
-Remove umidade da parte inferior do corpo 
-Pode ser usado para mandar o Qi para os Rins. 
-[[Conhecimento/Acupuntura/Canais/Rim/R09\|R09]] melhor 
-## sintoma essencial 
-Patologia respiratória 
-
-
-
-# du mai 
-Vaso yang 
-Regiao dorsal 
-Coluna cervical, dorsal, lombar e sacrococcix 
-Região posterior da cabeça 
-
-Abertura [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]] 
-Fechamento [[Conhecimento/Acupuntura/Canais/Bexiga/B62\|B62]]
-
-## funções 
-Fortalece coluna vertebral
-Tonifica yang do rim
-Nutre a medula óssea e o cérebro 
-	memória, concentração, cansaço mental, anemia, leucemia, xue
-Dispersa frio e umidade 
-Tonifica coração e baço (ciclo de geração)
-Auxilia postura
-Expele vento externo e vento interno 
-Acalma a mente
-
-## sintoma essencial 
-Qualquer dor ou rigidez na coluna vertebral 
-
----
-
-# Yang wei mai
-
-Vaso yang de conexão 
-
-Áreas do corpo 
-Faceateral da perna 
-Lateral do corpo 
-Lateral da cabeça 
-ouvidos 
-Genitalia externa 
-
-Conecta os meridianos yang
-
-Abertura [[Conhecimento/Acupuntura/Canais/Triplo Aquecedor/TA05\|TA05]]
-Fechamento [[Conhecimento/Acupuntura/Canais/Vesicula Biliar/VB41\|VB41]]
+- Abertura [[Conhecimento/Acupuntura/Canais/Pulmao/P07\|P07]] tonificação 
+- Fechamento [[Conhecimento/Acupuntura/Canais/Rim/R06\|R06]]
 
 ## Funções 
-Harmoniza superior e inferior 
-Elimina energias perversas 
-Conecta todos os canais de Energia Yang do corpo 
+- Regula Qi e Xue nos canais yin
+- Regular sistema reprodutor feminino (todas as fases)
+- Regular sistema digestivo e circulatório 
+- Tonificar qi, yin, Yang dos Rins 
+- Remove umidade da parte inferior do corpo 
+- Pode ser usado para mandar o Qi para os Rins.  ([[Conhecimento/Acupuntura/Canais/Rim/R09\|R09]] melhor) 
+- 
+## Sintoma essencial 
+- Patologia respiratória 
+
+
+</div></div>
+
+
+# Du Mai 
+ 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+*Vaso yang* 
+- Regiao dorsal 
+- Coluna cervical, dorsal, lombar e sacrococcix 
+- Região posterior da cabeça 
+
+- Abertura [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/ID/ID03 Aula 07 meridianos 3\|ID3]] 
+- Fechamento [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/B/B62 Aula 05 Meridianos 1\|B62]] 
+
+## Funções 
+- Fortalece coluna vertebral
+- Tonifica yang do rim
+- Nutre a medula óssea e o cérebro 
+	memória, concentração, cansaço mental, anemia, leucemia, xue
+- Dispersa frio e umidade 
+- Tonifica coração e baço (ciclo de geração)
+- Auxilia postura
+- Expele vento externo e vento interno 
+- Acalma a mente
 
 ## Sintoma essencial 
-Febre e/ou calafrio 
+- Qualquer dor ou rigidez na coluna vertebral
+
+</div></div>
+
+
+# Yang Wei Mai
+[[Referencias/Ibrate/Acupuntura 2023 2024/Técnicas/Vasos Maravilhosos/Yang Wei Mai-ibrate\|Yang Wei Mai-ibrate]]
+

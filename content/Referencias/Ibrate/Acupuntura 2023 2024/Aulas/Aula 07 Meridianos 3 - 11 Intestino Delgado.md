@@ -15,7 +15,7 @@ Intestino delgado influencia no discernimento. Clareza antes de decidir.
 Coração decide o que quer. 
 
 ## Pontos
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID01\|ID01]]
+### ID1
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-01-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -42,7 +42,7 @@ Localizado no leito ungueal do dedo mínimo, face medial (oposto ao polegar)
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID02\|ID02]]
+### ID2
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-02-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -64,7 +64,7 @@ Na prega anterior à articulação metacarpofalangiana, quando dobra os dedos. N
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID03\|ID03]]
+### ID3
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-03-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -90,7 +90,7 @@ Cranial à articulação metacarpofalangeana, na dobra da pele ao flexionar os d
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID04\|ID04]]
+### ID4
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-04-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -112,7 +112,7 @@ Um pouco acima de [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID05\|ID05]
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID07\|ID07]]
+### ID7
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-07-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -142,7 +142,7 @@ Luo do intestino delgado
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID08\|ID08]]
+### ID8
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-08-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -164,7 +164,7 @@ usar em sedação
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID09\|ID09]]
+### ID9
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-09-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -188,7 +188,7 @@ agulhamento ou moxa. pode fazer unilateral
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID10\|ID10]]
+### ID10
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-10-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -208,7 +208,7 @@ Abaixo da espinha da escápula, na mesma linha de [[Conhecimento/Acupuntura/Cana
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID11\|ID11]]
+### ID11
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-11-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -231,7 +231,7 @@ Faz uma concha com as mãos, usando o dedo polegar e médio. O Indicador encontr
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID12\|ID12]]
+### ID12
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-12-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -253,7 +253,7 @@ vento pode invadir e causar contratura
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID13\|ID13]]
+### ID13
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-13-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -273,7 +273,7 @@ vento pode invadir e causar contratura
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID14\|ID14]]
+### ID14
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-14-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -293,7 +293,7 @@ vento pode invadir e causar contratura
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID15\|ID15]]
+### ID15
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-15-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -315,7 +315,7 @@ pode fazer somente do lado da dor
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID18\|ID18]]
+### ID18
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-18-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -338,7 +338,7 @@ Pode usar agulha facial ou sistêmica angulada
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Intestino Delgado/ID19\|ID19]]
+### ID19
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/ID/ID-19-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

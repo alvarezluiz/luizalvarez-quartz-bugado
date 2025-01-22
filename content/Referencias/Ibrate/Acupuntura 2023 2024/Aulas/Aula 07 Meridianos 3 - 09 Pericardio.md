@@ -26,7 +26,7 @@ Trabalha toda a parte psicossomática, palpitação, angústia, opressão torác
 distúrbios psicossomáticos, palpitação, angustia, opressão torácica, dor precordial
 
 ## Pontos
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC01\|PC01]]
+### PC1
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-01-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -46,7 +46,8 @@ Bom com laser
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC03\|PC03]]
+
+### PC3
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-03-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -79,7 +80,8 @@ Joga água para apagar o fogo do estômago
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC04\|PC04]]
+
+### PC4
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-04-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -106,7 +108,8 @@ Para encontrar os tendões, pedir para o paciente juntar polegar e mínimo, assi
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC05\|PC05]]
+
+### PC5
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-05-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -133,7 +136,8 @@ Agulha perpendicular
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC06\|PC06]]
+
+### PC6
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-06-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -229,7 +233,8 @@ Durante a noite (após as 19:00) e aumenta com o decorrer da noite: deficiência
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC07\|PC07]]
+
+### PC7
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-07-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -259,7 +264,8 @@ Mesmas indicações psicossomáticas de [[Conhecimento/Acupuntura/Canais/Pericar
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Pericardio/PC09\|PC09]]
+
+### PC9
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/PC/PC-09-Aula-07-meridianos-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

@@ -10,4 +10,4 @@ Lateral e inferior a patela
 
 ## Indicações
 Dor no joelho na face lateral. 
-Parte dos [[Conhecimento/Acupuntura/Canais - Outros/Pontos extras/Ex-MI05 Xiyan\|Ex-MI05 Xiyan]]. 
+Parte dos [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/Olhos do joelho Aula 10 Pontos extras\|olhos do joelho]] (ponto extra)

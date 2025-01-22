@@ -14,7 +14,7 @@ Irritabilidade, tendinites, problemas visuais, distúrbios menstruais. Sonho de 
 Tendinite relacionada com frustração. Profissionais que trabalham com o que não gostam. 
 
 ## Pé 
-### [[Conhecimento/Acupuntura/Canais/Figado/F01\|F01]]
+### F1
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F01-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -33,7 +33,8 @@ Remove calor do sangue e para sangramento uterino (sangria) . Resolve calor e um
 
 </div></div>
 
-### [[Conhecimento/Acupuntura/Canais/Figado/F02\|F02]]
+
+### F2
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F02-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -64,7 +65,7 @@ Favorece o parto.
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]
+### F3
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F03-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -98,7 +99,7 @@ Tosse com vômito, flatulência na garganta (vontade de por pra fora, ao contrá
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Figado/F05\|F05]] 
+### F5]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F05-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -127,8 +128,7 @@ Principal ponto para genitais
 </div></div>
 
 
-
-### [[Conhecimento/Acupuntura/Canais/Figado/F08\|F08]]
+### F8
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F08-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -152,7 +152,7 @@ Ação no Aquecedor inferior. Retenção urinária. Prolapso uterino (com [[Conh
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Figado/F12\|F12]]
+### F12
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F12-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -170,7 +170,7 @@ Só moxa
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Figado/F13\|F13]]
+### F13
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F13-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -191,7 +191,7 @@ Cirrose, esteatose, panc[[Referencias/Ibrate/Acupuntura 2023 2024/Aulas/Aula 17 
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Figado/F14\|F14]]
+### F14
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/F/F14-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -223,12 +223,12 @@ O meridiano é como um rio
 **Ponto nascente**
 leito ungueal 
 Qi concentrado 
-[[Conhecimento/Acupuntura/Canais/Figado/F01\|F01]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F01 Aula 06 meridianos 2\|F1]] 
 
 **Ponto manancial**
 metatarso, metacarpo
 qi veloz
-[[Conhecimento/Acupuntura/Canais/Figado/F02\|F02]] ou [[Conhecimento/Acupuntura/Canais/Figado/F03\|F03]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F02 Aula 06 meridianos 2\|F2]] ou [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F03 Aula 06 meridianos 2\|F3]] 
 
 **Ponto riacho**
 Qi se movimenta
@@ -242,5 +242,5 @@ Antebraço ou perna
 **Ponto mar**
 Qi vasto e lento 
 No cotovelo ou no joelho 
-[[Conhecimento/Acupuntura/Canais/Figado/F08\|F08]]
+[[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/F/F08 Aula 06 meridianos 2\|F8]] 
 

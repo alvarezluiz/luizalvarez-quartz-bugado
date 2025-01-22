@@ -125,7 +125,6 @@ Bolinha no freio. Não necessariamente no meio.
 </div></div>
 
 
-
 ## Extra do ciático 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/Extras/Ponto-extra-do-ciatico-Aula-10-Pontos-extras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -167,7 +166,6 @@ Homem lado esquerdo, mulher direito primeiro.
 - Se necessário bilateral. 
 
 </div></div>
-
 
 
 ## 3 estrelas 
@@ -212,6 +210,7 @@ Pode usar junto com [[Conhecimento/Acupuntura/Canais/Bexiga/B13\|assentimento do
 - [[Conhecimento/Alterações/asma\|Asma]]
 
 </div></div>
+
 
 ## Ponto aranha
 
@@ -303,6 +302,7 @@ Ex. : esporão do calcaneo 3 e 5.
 
 </div></div>
 
+
 ## Extra da afta 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/Extras/Ponto-extra-da-afta-Aula-10-Pontos-extras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -344,7 +344,6 @@ Não precisa aprofundar.
 </div></div>
 
 
-
 ## Si Fung
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/Extras/Quatro-costuras-Aula-10-Pontos-extras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -365,6 +364,7 @@ Não precisa aprofundar.
 - Abrir apetite em crianças. 
 
 </div></div>
+
 
 ## Doce mel
 
@@ -388,7 +388,6 @@ Linha:
 </div></div>
 
 
-
 ## Extra da gripe
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/Extras/Ponto-extra-da-gripe-Aula-10-Pontos-extras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -404,7 +403,6 @@ Sangria para [[Conhecimento/Alterações/gripe\|gripe]].
 Se tiver [[dor de garganta\|dor de garganta]], com [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG01\|IG01]]. 
 
 </div></div>
-
 
 
 ## Trinca do polegar 
@@ -429,6 +427,7 @@ Se houver hematoma pode trocar lado.
 
 </div></div>
 
+
 ## Vale das almas 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/Extras/Vale-das-almas-Aula-10-Pontos-extras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -445,6 +444,7 @@ Se houver hematoma pode trocar lado.
 </div></div>
 
 ![vale das almas Ibrate.webp|400](../../../../Referencias/Ibrate/Acupuntura%202023%202024/Imagens/Aula%2010/vale%20das%20almas%20Ibrate.webp)
+
 ## Extras do útero e Extra dos ovários 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/Extras/Pontos-extras-do-utero-e-extra-dos-ovarios-Aula-10-Pontos-extras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -468,6 +468,7 @@ Substitui ou auxilia [[Conhecimento/Acupuntura/Canais/Baço/BP06\|BP06]].
 
 </div></div>
 
+
 ### Para baixa libido:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -482,6 +483,7 @@ combinação
 
 
 </div></div>
+
 
 ## Cavalos velozes 
 
@@ -511,6 +513,7 @@ Não funciona para vitiligo.
 Pode substituir pontos de Pulmão para esta finalidade. 
 
 </div></div>
+
 
 ## Olhos do joelho
 

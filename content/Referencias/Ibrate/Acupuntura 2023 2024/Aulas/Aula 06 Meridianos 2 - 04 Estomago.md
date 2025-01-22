@@ -17,7 +17,7 @@ Distúrbios gastrointestinais, paralisias faciais, sinusite,cansaços, parestesi
 > Chineses acreditam que psicoses podem ser causadas por fleugma ascender a cabeça 
 
 ## Cabeça
-### [[Conhecimento/Acupuntura/Canais/Estomago/E01\|E01]]
+### E1
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E01-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -32,7 +32,7 @@ Entre globo ocular e borda infra orbital (perigoso)
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E02\|E02]]
+### E2
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E02-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -54,7 +54,7 @@ Ilumina os olhos, relaxa músculos faciais, ativa circulação de Xue na face, l
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E03\|E03]] 
+### E3
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E03-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -73,7 +73,7 @@ Atua sobre olhos e nariz. Relaxa músculos faciais.
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E04\|E04]]
+### E4
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E04-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -92,7 +92,7 @@ Expele [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/fator vento\|fator vento]] e
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E05\|E05]] 
+### E5
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E05-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -109,13 +109,13 @@ Elimina [[Conhecimento/Acupuntura/Luiz/Etiopatogenia/fator vento\|fator vento]] 
 
 ## Indicações
 [[Conhecimento/Alterações/paralisia facial\|Paralisia facial]], [[Conhecimento/Alterações/bruxismo\|bruxismo]], [[Conhecimento/Alterações/neuralgia do trigêmeo\|neuralgia do trigêmeo]], [[Conhecimento/Alterações/afta\|afta]], [[salivação excessiva\|salivação excessiva]], dificuldade na mastigação, [[caxumba\|caxumba]], espasmo no músculo masseter. 
-Para dor nos dentes +[[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] que libera endorfinas para membros superiores e cabeça. 
+Para dor nos dentes + [[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG04]] que libera endorfinas para membros superiores e cabeça. 
 
 
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E06\|E06]]
+### E6
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E06-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -135,7 +135,7 @@ Para dor nos dentes +[[Conhecimento/Acupuntura/Canais/Intestino Grosso/IG04\|IG0
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E07\|E07]] 
+### E7
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E07-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -155,7 +155,7 @@ Beneficia ouvido
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E08\|E08]]
+### E8
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E08-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -174,7 +174,7 @@ Trata [[Conhecimento/Alterações/tontura\|tontura]] decorrente de [[Conheciment
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E09\|E09]]
+### E9
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E09-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -198,7 +198,7 @@ Existe uma opção mais confortável.
 ### E12 a E16
 Somente ventosa. Risco de pneumotórax. 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E17\|E17]]
+### E17
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E17-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -221,7 +221,7 @@ Mamilo.
 **Localização**
 2 tsun da linha central. 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E21\|E21]] 
+### E21
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E21-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -244,7 +244,7 @@ Regulariza estomago e domina [[rebeliao do qi do estomago\|Qi rebelde]], interro
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E25\|E25]] 
+### E25
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E25-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -274,7 +274,7 @@ Ajuda a aumentar imunidade **após** [[quimioterapia\|quimioterapia]].
 
 ## Perna 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E31\|E31]] 
+### E31
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -290,7 +290,7 @@ Ativa o canal e alivia a dor, dissipa a umidade do [[Conhecimento/Acupuntura/Lui
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E34\|E34]]
+### E34
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E34-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -309,7 +309,7 @@ Bom para [[Conhecimento/Alterações/gastrite\|gastrite]] e [[úlcera\|úlcera]]
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E35\|E35]]
+### E35
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E35-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -324,12 +324,12 @@ Lateral e inferior a patela
 
 ## Indicações
 Dor no joelho na face lateral. 
-Parte dos [[Conhecimento/Acupuntura/Canais - Outros/Pontos extras/Ex-MI05 Xiyan\|Ex-MI05 Xiyan]]. 
+Parte dos [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/Extras/Olhos do joelho Aula 10 Pontos extras\|olhos do joelho]] (ponto extra)
 
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E36\|E36]] Zusanli (milhas a mais)
+### E36 Zusanli (milhas a mais)
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E36-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -364,7 +364,7 @@ Se usar moxa, observar se calor está chegando a cabeça. Rosto ou olhos vermelh
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E38\|E38]] 
+### E38
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E38-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -383,7 +383,7 @@ Se usar moxa, observar se calor está chegando a cabeça. Rosto ou olhos vermelh
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E40\|E40]]
+### E40
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E40-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -414,7 +414,7 @@ Ou metade da distância da patela ao maleolo (16 tsun). Ao lado de [[Conheciment
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E41\|E41]]
+### E41
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E41-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -435,7 +435,7 @@ Usado para [[Conhecimento/Alterações/edema no rosto\|edema no rosto]] (com [[C
 
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E42\|E42]]
+### E42
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E42-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -458,7 +458,7 @@ Fonte do Estômago
 </div></div>
 
 
-### [[Conhecimento/Acupuntura/Canais/Estomago/E45\|E45]]
+### E45
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Referencias/Ibrate/Acupuntura-2023-2024/Pontos/E/E45-Aula-06-meridianos-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

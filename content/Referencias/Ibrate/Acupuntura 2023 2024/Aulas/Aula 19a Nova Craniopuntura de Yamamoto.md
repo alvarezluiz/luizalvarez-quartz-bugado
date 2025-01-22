@@ -2,8 +2,8 @@
 {"title":"19.1 - Nova Craniopuntura de Yamamoto","SubTitle":"Diagnóstico","NAula":"Nova Craniopuntura de Yamamoto","tags":["conhecimento/acupuntura/aula"],"autor":"Professora Fabiane Yuri Yamacita Borin","date":"2023-09-16","publish":true,"NivelAcesso":"ibrate","Conteudo":"acupuntura","allDay":false,"DiaSemana":"Sáb","start":{"dateTime":"2024-12-07T08:18-03:00"},"end":{"dateTime":"2024-12-07T17:40-03:00"},"location":"Avenida Higienopolis, 2677 - Bela Suíça, Londrina - PR, 86050-000","PassFrontmatter":true}
 ---
 
-## Histórico
 
+## Histórico
 Foi desenvolvido em 1970 e apresentado em 1973 по 25° Congresso de Ryodoraku realizado em Osaka no Japão
 
 No Brasil começou a ser apresentada a técnica na década de 90 pela Associação Brasileira de Acupuntura
@@ -14,7 +14,7 @@ A chinesa utiliza pontos correspondentes ao sistema neurológico e a YNSA utiliz
 
 Yamamoto pode ser considerado um dos mais importantes estudiosos da acupuntura de microssistemas, assim como Paul Nogier na cartografia do pavilhão auricular
 
-https://photos.app.goo.gl/XtM4BLPBmhMKfFrU7
+![Picsart_25-01-18_22-18-22-753.jpg](../../../../Picsart_25-01-18_22-18-22-753.jpg)
 
 Yamamoto era médico, especialista em anestesia, ginecologia e cirurgia. Com atividades hospitalares desenvolvidas no Japão, Estados Unidos e Alemanha;
 
@@ -54,9 +54,7 @@ Yamamoto tratava seus pacientes de forma padronizada, em seu hospital com 150 le
 - Lateralidade: pontos básicos e sensoriais tratar homolateralmente; hemiplegia (AVC) tratar contralateral 
 - Parkinson Bilateral 
 
-
 ## Quanto à duração da permanência das agulhas:
-
  - Queixas agudas deixar de 5 a 20 minutos, retirar antes caso o paciente não se sinta bem;
 - Queixas crônicas, como hemiplegias ou paraplegias, o tempo pode-se estender por cerca de 1 hora;
 - Para doenças crônicas será necessário o tratamento prolongado, com várias sessões;
@@ -69,7 +67,6 @@ Yamamoto tratava seus pacientes de forma padronizada, em seu hospital com 150 le
 - ==uso de agulhas de forma desnecessária pode gerar respostas negativas== 
 
 ## Critérios para o diagnóstico
-
 Na YNSA não existem pontos "exatos", pois os formatos da cabeça variam de tamanho e a maior parte dos pontos são muita pequenos
 - é o ponto relatado pelo paciente como o mais sensível à palpação
 
@@ -118,15 +115,13 @@ Os pontos precisam ser atingidos com a máxima precisão, caso contrário não a
 | K      | 1                                         | Planta do pé                                  |
 
 Área 
-Ponto 1. 1cm aproximadamente. Priorizar sensibilidade. As vezes 5mm.
-Obrigatoriamente seguir a ordem dos pontos. (seguir a ordem alfabética)
+Ponto 1. 1cm aproximadamente. Priorizar sensibilidade. As vezes 5mm
 
-Ponto A praticamente um Shen men da cintura para cima. 
-Ponto D praticamente shen men da cintura para baixo 
+- Obrigatoriamente seguir a ordem dos pontos. (seguir a ordem alfabética)
+- Ponto A praticamente um Shen men da cintura para cima. 
+- Ponto D praticamente shen men da cintura para baixo 
 
-
-
-Pontos H e I são acessórios. Nunca sozinhos. Associados pelo menos com D. 
+- Pontos H e I são acessórios. Nunca sozinhos. Associados pelo menos com D. 
 
 
 
