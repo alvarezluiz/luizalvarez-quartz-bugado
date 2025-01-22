@@ -2,7 +2,7 @@
 {"title":"Login","publish":true,"PassFrontmatter":true}
 ---
 
-<script src="auth.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
 <style>
 .login-container {
     text-align: center;
