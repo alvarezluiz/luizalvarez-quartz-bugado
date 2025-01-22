@@ -2,7 +2,7 @@
 {"title":"Login","publish":true,"PassFrontmatter":true}
 ---
 
-<script type:"module" src="auth.js"></script>
+<script src="auth.js"></script>
 <style>
 .login-container {
     text-align: center;
