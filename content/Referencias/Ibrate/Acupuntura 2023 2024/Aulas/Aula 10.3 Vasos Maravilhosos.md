@@ -207,7 +207,7 @@ Vaso yin
 - Tonificar Xue do Baço e Coração 
 - Remove estagnação de Qi e Xue do tórax 
 - Transportar a energia ancestral dos rins, a energia nutritiva e energia de defesa 
-- Responsável por Irrigar os canais principais e os vasos maravilhosos 
+- Responsável por irrigar os canais principais e os vasos maravilhosos 
 ## Sintoma essencial 
 - Desconforto abdominal (dor, estufamento, cólica)
 
@@ -275,5 +275,38 @@ Abdomen, tórax, pulmão e garganta
 
 
 # Yang Wei Mai
-[[Referencias/Ibrate/Acupuntura 2023 2024/Técnicas/Vasos Maravilhosos/Yang Wei Mai-ibrate\|Yang Wei Mai-ibrate]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Yang Wei Mai
+
+</div>
+
+
+*Vaso yang de conexão*
+
+### Áreas do corpo 
+- Face lateral da perna 
+- Lateral do corpo 
+- Lateral da cabeça 
+- ouvidos 
+- Genitalia externa 
+
+- Conecta os meridianos yang
+
+Abertura [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/TA/TA05 Aula 07 meridianos 3\|TA5]] 
+Fechamento [[Referencias/Ibrate/Acupuntura 2023 2024/Pontos/VB/VB41 Aula 05 Meridianos 1\|VB41]] 
+
+## Funções 
+- Harmoniza superior e inferior 
+- Elimina energias perversas 
+- Conecta todos os canais de Energia Yang do corpo 
+
+## Sintoma essencial 
+- Febre e/ou calafrio 
+
+</div></div>
+
 
