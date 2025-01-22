@@ -36,8 +36,7 @@
     <h1>Faça Login</h1>
     <p>Entre com sua conta do Google para acessar o site.</p>
     <button class="login-button" onclick="loginComGoogle()">Login com Google</button>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+    <script src="/auth.js">
 </div>
 
-
-
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
