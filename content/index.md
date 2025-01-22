@@ -2,7 +2,7 @@
 {"title":"Login","publish":true,"PassFrontmatter":true}
 ---
 
-
+<script type:"module" src="auth.js"></script>
 <style>
 .login-container {
     text-align: center;
@@ -38,5 +38,5 @@
     <button class="login-button" onclick="loginComGoogle()">Login com Google</button>
 </div>
 
-<script type:"module" src="/auth.js"></script>
+
 
