@@ -4,7 +4,7 @@
 
 
 <script src="auth.js"></script>
-<button onclick="signInWithGoogle()">Login com Google</button>
+<button onclick="loginComGoogle()">Login com Google</button>
 
 
 ## [[Aulas-Ibrate\|Aulas]]
