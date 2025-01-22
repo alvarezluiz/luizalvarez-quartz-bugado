@@ -38,4 +38,5 @@
     <button class="login-button" onclick="loginComGoogle()">Login com Google</button>
 </div>
 
-<script src="auth.js"></script>
+<script src="/js/auth.js"></script>
+
