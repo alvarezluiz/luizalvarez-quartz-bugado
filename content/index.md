@@ -2,7 +2,7 @@
 {"title":"Login","publish":true,"PassFrontmatter":true}
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+
 <style>
 .login-container {
     text-align: center;
@@ -40,3 +40,4 @@
 
 
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
