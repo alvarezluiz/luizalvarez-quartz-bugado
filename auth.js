@@ -4,11 +4,9 @@ import { createClient } from '@supabase/supabase-js'
 const supabaseUrl = 'https://udgswbonvjtklarurlxn.supabase.co';
 const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVkZ3N3Ym9udmp0a2xhcnVybHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc0MTM2NjksImV4cCI6MjA1Mjk4OTY2OX0.vG26YUkPae0C1Dm06J5ZkfWvEsfJ6jXd-QdeEzfOKGI';
 
-const supabase = createClient(supabaseUrl, supabaseAnonKey);
-
-
 const supabase = createClient(supabaseUrl, supabaseAnonKey, {
   auth: {
+
     persistSession: true, // Armazena a sessão automaticamente
     autoRefreshToken: true, // Atualiza o token antes de expirar
   },
