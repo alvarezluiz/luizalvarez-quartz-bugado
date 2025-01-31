@@ -21,7 +21,7 @@
 
 ### Fígado
 #### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Qi do Fígado-Ibrate\|Estagnação do Qi]]
-#### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Xue do Fígado-Ibrate\|Síndrome de Estagnação do Xue do Fígado (Ibrate 2024]]
+#### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Xue do Fígado-Ibrate\|Síndrome de Estagnação do Xue do Fígado]]
 #### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Estagnação do Frio no Meridiano do Fígado-Ibrate\|Estagnação do Frio no Meridiano]]
 #### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Deficiência do Xue do Fígado-Ibrate\|Deficiência do Xue]]
 #### [[Referencias/Ibrate/Acupuntura 2023 2024/Sindromes/Síndrome da Ascendência do Yang do Fígado - Fogo agitando Fígado-Ibrate\|Ascendência do Yang do Fígado - Fogo agitando Fígado]]
