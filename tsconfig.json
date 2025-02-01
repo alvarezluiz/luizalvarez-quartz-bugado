@@ -1,21 +1,23 @@
 {
   "compilerOptions": {
-    "lib": ["esnext", "DOM", "DOM.Iterable"],
-    "experimentalDecorators": true,
-    "module": "esnext",
     "target": "esnext",
+    "lib": ["esnext", "DOM", "DOM.Iterable"],
+    "module": "esnext",
     "moduleResolution": "node",
     "strict": true,
-    "incremental": true,
-    "resolveJsonModule": true,
     "skipLibCheck": true,
-    "allowSyntheticDefaultImports": true,
-    "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
-    "jsx": "react-jsx",
-    "jsxImportSource": "preact"
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxImportSource": "preact",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "forceConsistentCasingInFileNames": true,
+    "incremental": true,
+    "allowSyntheticDefaultImports": true
   },
   "include": ["**/*.ts", "**/*.tsx", "./package.json", "lib/supabaseClient.js"],
   "exclude": ["build/**/*.d.ts"]
 }
-

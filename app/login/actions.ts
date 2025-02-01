@@ -1,15 +1,30 @@
-import login from './actions'
-import signup from './actions'
+'use server'
 
-export default function LoginPage() {
-  return (
-    <form>
-      <label htmlFor="email">Email:</label>
-      <input id="email" name="email" type="email" required />
-      <label htmlFor="password">Password:</label>
-      <input id="password" name="password" type="password" required />
-      <button formAction={login}>Log in</button>
-      <button onClick={login}>Log in</button>
-      <button onClick={signup}>Sign up</button>
-  )
+import { createClient } from '@/utils/supabase/server'
+import { redirect } from 'next/navigation'
+
+export async function login(formData: FormData) {
+  const supabase = createClient()
+  
+  const { error } = await supabase.auth.signInWithPassword({
+    email: formData.get('email') as string,
+    password: formData.get('password') as string,
+  })
+
+  if (!error) {
+    redirect('/')
+  }
+}
+
+export async function signup(formData: FormData) {
+  const supabase = createClient()
+  
+  const { error } = await supabase.auth.signUp({
+    email: formData.get('email') as string,
+    password: formData.get('password') as string,
+  })
+
+  if (!error) {
+    redirect('/confirm')
+  }
 }

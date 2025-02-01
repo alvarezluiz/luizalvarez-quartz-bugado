@@ -1,7 +1,11 @@
 import { type EmailOtpType } from '@supabase/supabase-js'
 import { type NextRequest } from 'next/server'
 
+<<<<<<< HEAD
 import { createClient } from '../../../utils/supabase/server'
+=======
+import { createClient } from '@/utils/supabase/server'
+>>>>>>> d3481e14a99bea79ff4f9fcd478b02043fdf0978
 import { redirect } from 'next/navigation'
 
 export async function GET(request: NextRequest) {
