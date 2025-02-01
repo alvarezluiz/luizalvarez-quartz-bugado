@@ -1,0 +1,19 @@
+name = "luizalvarez-quartz-cloudflareworker-supabase"
+main = "src/index.js"
+compatibility_date = "2025-01-29"
+
+[env.production]
+account_id = "2f7df8ee0b9c3af83d90b5fc5a211407"
+workers_dev = true  # Habilita o uso do workers.dev sem precisar configurar um domínio próprio
+
+[[routes]]
+pattern = "luizalvarez-quartz-cloudflareworker-supabase.alvarez-luizfernando.workers.dev/*"
+service = "luizalvarez-quartz-cloudflareworker-supabase"
+
+name = "nome-do-seu-worker"
+main = "index.js"
+compatibility_date = "2024-05-20"
+
+[vars]
+SUPABASE_URL = "https://udgswbonvjtklarurlxn.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVkZ3N3Ym9udmp0a2xhcnVybHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc0MTM2NjksImV4cCI6MjA1Mjk4OTY2OX0.vG26YUkPae0C1Dm06J5ZkfWvEsfJ6jXd-QdeEzfOKGI" # Cole a chave pública (anon) aqui
