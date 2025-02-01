@@ -37,6 +37,6 @@
                 window.location.href = '/'; // Redireciona para a página principal
             }
         });
-    </script>
+	 </script>
 </body>
 </html>
