@@ -12,11 +12,11 @@
 <body>
     <button onclick="login()">Login com Google</button>
     <script>
-        // Configure o cliente Supabase
-        const supabase = createClient(
-            'https://udgswbonvjtklarurlxn.supabase.co', 
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVkZ3N3Ym9udmp0a2xhcnVybHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc0MTM2NjksImV4cCI6MjA1Mjk4OTY2OX0.vG26YUkPae0C1Dm06J5ZkfWvEsfJ6jXd-QdeEzfOKGI' // Chave pública (anon)
-        );
+        // Configure o cliente Supabase com suas credenciais
+        const supabaseUrl = 'https://udgswbonvjtklarurlxn.supabase.co';
+        const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVkZ3N3Ym9udmp0a2xhcnVybHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc0MTM2NjksImV4cCI6MjA1Mjk4OTY2OX0.vG26YUkPae0C1Dm06J5ZkfWvEsfJ6jXd-QdeEzfOKGI';
+        
+        const supabase = window.supabase.createClient(supabaseUrl, supabaseKey);
         async function login() {
             try {
                 const { data, error } = await supabase.auth.signInWithOAuth({
@@ -30,11 +30,10 @@
                 console.error('Erro inesperado:', err);
             }
         }
-        // Monitora o estado da autenticação
+        // Monitora mudanças de autenticação
         supabase.auth.onAuthStateChange((event, session) => {
             if (session?.access_token) {
                 localStorage.setItem('token', session.access_token);
-                alert('Login bem-sucedido! Token salvo.');
                 window.location.href = '/'; // Redireciona para a página principal
             }
         });
