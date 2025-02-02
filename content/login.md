@@ -37,8 +37,7 @@
     window.location.href = '/';
 }
 else if (!session && window.location.pathname === '/login') {
-	return;
-} else if (!session) {
+	return;} else if (!session) {
 	window.location.href = '/login';
 	}
 });
