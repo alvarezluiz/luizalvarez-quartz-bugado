@@ -34,9 +34,7 @@
         supabase.auth.onAuthStateChange((event, session) => {// Verifica se o usuário está logado E se não está já na página inicial
         if (session?.access_token && window.location.pathname !== '/') {
     localStorage.setItem('token', session.access_token);
-    window.location.href = '/';
-}
-else if (!session && window.location.pathname === '/login') {
+    window.location.href = '/';}else if (!session && window.location.pathname === '/login') {
 	return;} else if (!session) {
 	window.location.href = '/login';
 	}
