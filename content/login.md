@@ -2,10 +2,6 @@
 {"title":"Login","publish":true,"PassFrontmatter":true}
 ---
 
----
-title: Login
-publish: true
----
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +17,9 @@ publish: true
         const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVkZ3N3Ym9udmp0a2xhcnVybHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc0MTM2NjksImV4cCI6MjA1Mjk4OTY2OX0.vG26YUkPae0C1Dm06J5ZkfWvEsfJ6jXd-QdeEzfOKGI';
         
         const supabase = window.supabase.createClient(supabaseUrl, supabaseKey);
-        async function login() {
+
+        // Defina a função login no escopo global
+        window.login = async function() {
             try {
                 const { data, error } = await supabase.auth.signInWithOAuth({
                     provider: 'google',
@@ -33,7 +31,7 @@ publish: true
             } catch (err) {
                 console.error('Erro inesperado:', err);
             }
-        }
+        };
 
         // Monitora mudanças de autenticação
         supabase.auth.onAuthStateChange((event, session) => {
@@ -52,3 +50,5 @@ publish: true
     </script>
 </body>
 </html>
+
+1
