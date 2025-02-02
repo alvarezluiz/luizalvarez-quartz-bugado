@@ -1,5 +1,5 @@
 ---
-{"title":"Login","publish":true,"PassFrontmatter":true}
+{"title":"Página inicial","publish":true,"PassFrontmatter":true}
 ---
 
 
