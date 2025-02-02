@@ -31,20 +31,19 @@
             }
         }
         // Monitora mudanças de autenticação
-        supabase.auth.onAuthStateChange((event, session) => {
-  // Verifica se o usuário está logado E se não está já na página inicial
-  if (session?.access_token && window.location.pathname !== '/') {
+        supabase.auth.onAuthStateChange((event, session) => {// Verifica se o usuário está logado E se não está já na página inicial
+        if (session?.access_token && window.location.pathname !== '/') {
     localStorage.setItem('token', session.access_token);
     window.location.href = '/';
-  }
-  // Se não tem sessão E está na página de login, não faz nada
+}
+// Se não tem sessão E está na página de login, não faz nada
   else if (!session && window.location.pathname === '/login') {
     return;
-  }
-  // Se não tem sessão, redireciona para o login
-  else if (!session) {
-    window.location.href = '/login';
-  }
+}
+// Se não tem sessão, redireciona para o login
+else if (!session) {
+	window.location.href = '/login';
+	}
 });
 </script>
 </body>
