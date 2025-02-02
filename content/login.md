@@ -39,7 +39,6 @@
 else if (!session && window.location.pathname === '/login') {
 	return;
 }
-// Se não tem sessão, redireciona para o login
 else if (!session) {
 	window.location.href = '/login';
 	}
