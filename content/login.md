@@ -2,6 +2,10 @@
 {"title":"Login","publish":true,"PassFrontmatter":true}
 ---
 
+---
+title: Login
+publish: true
+---
 <!DOCTYPE html>
 <html>
 <head>
@@ -30,13 +34,21 @@
                 console.error('Erro inesperado:', err);
             }
         }
+
         // Monitora mudanças de autenticação
-        supabase.auth.onAuthStateChange((event, session) => {// Verifica se o usuário está logado E se não está já na página inicial
-        if (session?.access_token && window.location.pathname !== '/') {
-    localStorage.setItem('token', session.access_token);
-    window.location.href = '/';}else if (!session && window.location.pathname === '/login') {
-	return;} else if (!session) {
-	window.location.href = '/login';}});
-</script>
+        supabase.auth.onAuthStateChange((event, session) => {
+            // Verifica se o usuário está logado E se não está já na página inicial
+            if (session?.access_token) {
+                if (window.location.pathname !== '/') {
+                    localStorage.setItem('token', session.access_token);
+                    window.location.href = '/';
+                }
+            } else if (!session && window.location.pathname === '/login') {
+                return;
+            } else if (!session) {
+                window.location.href = '/login';
+            }
+        });
+    </script>
 </body>
 </html>
