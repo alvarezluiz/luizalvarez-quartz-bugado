@@ -36,9 +36,7 @@
     localStorage.setItem('token', session.access_token);
     window.location.href = '/';}else if (!session && window.location.pathname === '/login') {
 	return;} else if (!session) {
-	window.location.href = '/login';
-	}
-});
+	window.location.href = '/login';}});
 </script>
 </body>
 </html>
