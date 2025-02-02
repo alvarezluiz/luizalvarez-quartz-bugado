@@ -41,14 +41,15 @@
                     localStorage.setItem('token', session.access_token);
                     window.location.href = '/';
                 }
-            } else if (!session && window.location.pathname === '/login') {
-                return;
-            } else if (!session) {
-                window.location.href = '/login';
+            } else {
+                if (window.location.pathname === '/login') {
+                    return;
+                } else {
+                    window.location.href = '/login';
+                }
             }
         });
     </script>
 </body>
 </html>
-
-1
+2
