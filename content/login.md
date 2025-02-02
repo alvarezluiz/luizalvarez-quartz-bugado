@@ -48,8 +48,7 @@
                     window.location.href = '/login';
                 }
             }
-        });
-    </script>
+        });</script>
 </body>
 </html>
-2
+2.1
