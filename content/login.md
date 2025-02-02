@@ -36,9 +36,8 @@
     localStorage.setItem('token', session.access_token);
     window.location.href = '/';
 }
-// Se não tem sessão E está na página de login, não faz nada
-  else if (!session && window.location.pathname === '/login') {
-    return;
+else if (!session && window.location.pathname === '/login') {
+	return;
 }
 // Se não tem sessão, redireciona para o login
 else if (!session) {
